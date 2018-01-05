@@ -1,0 +1,9 @@
+-- --------------------------------------------------------------------------
+-- (C) Copyright IBM Corporation 2016
+-- All Rights Reserved
+-- --------------------------------------------------------------------------
+
+conceptualise an ~ ordered author ~ A that
+  has the value AI as ~ author index ~ and
+  has the person AP as ~ author person ~ and
+  has the organisation AO as ~ author organisation ~.

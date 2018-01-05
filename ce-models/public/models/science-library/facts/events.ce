@@ -1,0 +1,1397 @@
+-- --------------------------------------------------------------------------
+-- (C) Copyright IBM Corporation 2016
+-- All Rights Reserved
+-- --------------------------------------------------------------------------
+
+-- This CE has been generated from SL_generator v1.21.xlsm
+
+there is an event named 'AAMAS 2007' that
+  has 'International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2007' as full name and
+  occurs at the place 'Hawaii Convention Center' and
+  has '14th May 2007' as start date and
+  has '18th May 2007' as end date and
+  has 'http://www.aamas-conference.org/AAMAS/aamas07/' as url and
+  is part of the event series 'AAMAS' and
+  corresponds to the date 'May-2007'.
+
+there is an event named 'AAMAS 2008' that
+  has 'International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2008' as full name and
+  occurs at the place 'Estoril, Portugal' and
+  has '12th May 2008' as start date and
+  has '16th May 2008' as end date and
+  has 'http://www.aamas-conference.org/AAMAS/aamas08/' as url and
+  is part of the event series 'AAMAS' and
+  corresponds to the date 'May-2008'.
+
+there is an event named 'AAMAS 2009' that
+  has 'International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2009' as full name and
+  occurs at the place 'ECC, Budapest' and
+  has '10th May 2009' as start date and
+  has '15th May 2009' as end date and
+  has 'http://www.aamas-conference.org/AAMAS/aamas09/' as url and
+  is part of the event series 'AAMAS' and
+  corresponds to the date 'May-2009'.
+
+there is an event named 'AAMAS 2010' that
+  has 'International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2010' as full name and
+  occurs at the place 'Sheraton Center Toronto Hotel' and
+  has '10th May 2010' as start date and
+  has '14th May 2010' as end date and
+  has 'http://www.aamas-conference.org/AAMAS/aamas10/' as url and
+  is part of the event series 'AAMAS' and
+  corresponds to the date 'May-2010'.
+
+there is an event named 'AAMAS 2011' that
+  has 'International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2011' as full name and
+  occurs at the place 'Taipei International Convention Center' and
+  has '2nd May 2011' as start date and
+  has '6th May 2011' as end date and
+  has 'http://www.aamas-conference.org/AAMAS/aamas2011/' as url and
+  is part of the event series 'AAMAS' and
+  corresponds to the date 'May-2011'.
+
+there is an event named 'AAMAS 2012' that
+  has 'International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2012' as full name and
+  occurs at the place 'Universitat Politecnica de Valencia' and
+  has '4th June 2012' as start date and
+  has '8th June 2012' as end date and
+  has 'http://www.aamas-conference.org/AAMAS/aamas2012/' as url and
+  is part of the event series 'AAMAS' and
+  corresponds to the date 'Jun-2012'.
+
+there is an event named 'AAMAS 2013' that
+  has 'International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2013' as full name and
+  occurs at the place 'Saint Paul, Minnesota' and
+  has '6th May 2013' as start date and
+  has '10th May 2013' as end date and
+  has 'http://www.aamas-conference.org/AAMAS/aamas2013/' as url and
+  is part of the event series 'AAMAS' and
+  corresponds to the date 'May-2013'.
+
+there is an event named 'AAMAS 2015' that
+  has 'International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2015' as full name and
+  occurs at the place 'Istanbul Congress Center' and
+  has '4th May 2015' as start date and
+  has '8th May 2015' as end date and
+  has 'http://www.aamas-conference.org/AAMAS/aamas2015/' as url and
+  is part of the event series 'AAMAS' and
+  corresponds to the date 'May-2015'.
+
+there is an event named 'ACITA 2007' that
+  has '1st Annual Conference of the International Technology Alliance' as full name and
+  occurs at the place 'University of Maryland, US' and
+  has '25th September 2007' as start date and
+  has '27th September 2007' as end date and
+  has 'https://www.usukitacs.com/acita2007' as url and
+  is part of the event series 'AFM (or ACITA)' and
+  corresponds to the date 'Sep-2007'.
+
+there is an event named 'ACITA 2008' that
+  has '2nd Annual Conference of the International Technology Alliance' as full name and
+  occurs at the place 'Imperial College, London' and
+  has '16th September 2008' as start date and
+  has '18th September 2008' as end date and
+  has 'https://www.usukitacs.com/acita2008' as url and
+  is part of the event series 'AFM (or ACITA)' and
+  corresponds to the date 'Sep-2008'.
+
+there is an event named 'ACITA 2009' that
+  has '3rd Annual Conference of the International Technology Alliance' as full name and
+  occurs at the place 'University of Maryland, US' and
+  has '22nd September 2009' as start date and
+  has '24th September 2009' as end date and
+  has 'https://www.usukitacs.com/acita2009' as url and
+  is part of the event series 'AFM (or ACITA)' and
+  corresponds to the date 'Sep-2009'.
+
+there is an event named 'ACITA 2010' that
+  has '4th Annual Conference of the International Technology Alliance' as full name and
+  occurs at the place 'Imperial College, London' and
+  has '13th September 2010' as start date and
+  has '16th September 2010' as end date and
+  has 'https://www.usukitacs.com/acita2010' as url and
+  is part of the event series 'AFM (or ACITA)' and
+  corresponds to the date 'Sep-2010'.
+
+there is an event named 'ACITA 2011' that
+  has '5th Annual Conference of the International Technology Alliance' as full name and
+  occurs at the place 'University of Maryland, US' and
+  has '27th September 2011' as start date and
+  has '28th September 2011' as end date and
+  has 'https://www.usukitacs.com/acita2011' as url and
+  is part of the event series 'AFM (or ACITA)' and
+  corresponds to the date 'Sep-2011'.
+
+there is an event named 'ACITA 2012' that
+  has '6th Annual Conference of the International Technology Alliance' as full name and
+  occurs at the place 'Botley Park Hotel, Southampton' and
+  has '17th September 2012' as start date and
+  has '21st September 2012' as end date and
+  has 'https://www.usukitacs.com/acita2012' as url and
+  is part of the event series 'AFM (or ACITA)' and
+  corresponds to the date 'Sep-2012'.
+
+there is an event named 'AFM 2013' that
+  has '7th Annual Fall Meeting of the International Technology Alliance' as full name and
+  occurs at the place 'IBM Palisades Conference Center, US' and
+  has '1st October 2013' as start date and
+  has '3rd October 2013' as end date and
+  has 'https://www.usukitacs.com/annual_fall_meeting' as url and
+  is part of the event series 'AFM (or ACITA)' and
+  corresponds to the date 'Oct-2013'.
+
+there is an event named 'AFM 2014' that
+  has '8th Annual Fall Meeting of the International Technology Alliance' as full name and
+  occurs at the place 'Cardiff Marriott, UK' and
+  has '16th September 2014' as start date and
+  has '18th September 2014' as end date and
+  has 'https://www.usukitacs.com/2014_AFM' as url and
+  is part of the event series 'AFM (or ACITA)' and
+  corresponds to the date 'Sep-2014'.
+
+there is an event named 'AFM 2015' that
+  has '9th Annual Fall Meeting of the International Technology Alliance' as full name and
+  occurs at the place 'University of Maryland, US' and
+  has '15th September 2015' as start date and
+  has '17th September 2015' as end date and
+  has 'https://www.usukitacs.com/2015_AFM' as url and
+  is part of the event series 'AFM (or ACITA)' and
+  corresponds to the date 'Sep-2015'.
+
+there is an event named 'ArgMAS 2007' that
+  has 'Argumentation in Multi-Agent Systems (ArgMAS), 2007' as full name and
+  occurs at the place 'Honolulu, Hawaii' and
+  has '15th May 2007' as start date and
+  has '15th May 2007' as end date and
+  has 'http://www.mit.edu/~irahwan/argmas/argmas07/' as url and
+  is part of the event series 'ArgMAS' and
+  corresponds to the date 'May-2007'.
+
+there is an event named 'ArgMAS 2008' that
+  has 'Argumentation in Multi-Agent Systems (ArgMAS), 2008' as full name and
+  occurs at the place 'Estoril, Portugal' and
+  has '12th May 2008' as start date and
+  has '12th May 2008' as end date and
+  has 'http://www.mit.edu/~irahwan/argmas/argmas08/' as url and
+  is part of the event series 'ArgMAS' and
+  corresponds to the date 'May-2008'.
+
+there is an event named 'ArgMAS 2009' that
+  has 'Argumentation in Multi-Agent Systems (ArgMAS), 2009' as full name and
+  occurs at the place 'Budapest, Hungary' and
+  has '12th May 2009' as start date and
+  has '12th May 2009' as end date and
+  has 'http://www.mit.edu/~irahwan/argmas/argmas09/' as url and
+  is part of the event series 'ArgMAS' and
+  corresponds to the date 'May-2009'.
+
+there is an event named 'ArgMAS 2010' that
+  has 'Argumentation in Multi-Agent Systems (ArgMAS), 2010' as full name and
+  occurs at the place 'Toronto, Canada' and
+  has '10th May 2010' as start date and
+  has '10th May 2010' as end date and
+  has 'http://www.mit.edu/~irahwan/argmas/argmas10/' as url and
+  is part of the event series 'ArgMAS' and
+  corresponds to the date 'May-2010'.
+
+there is an event named 'ArgMAS 2013' that
+  has 'Argumentation in Multi-Agent Systems (ArgMAS), 2013' as full name and
+  occurs at the place 'Saint Paul, Minnesota' and
+  has '6th May 2013' as start date and
+  has '10th May 2013' as end date and
+  has 'http://cgi.csc.liv.ac.uk/~sp/events/argmas13/' as url and
+  is part of the event series 'ArgMAS' and
+  corresponds to the date 'May-2013'.
+
+there is an event named 'ArgMAS 2014' that
+  has 'Argumentation in Multi-Agent Systems (ArgMAS), 2014' as full name and
+  occurs at the place 'Paris, France' and
+  has '5th May 2014' as start date and
+  has '5th May 2014' as end date and
+  has 'http://www.mit.edu/~irahwan/argmas/argmas14/' as url and
+  is part of the event series 'ArgMAS' and
+  corresponds to the date 'May-2014'.
+
+there is an event named 'ArgMAS 2015' that
+  has 'Argumentation in Multi-Agent Systems (ArgMAS), 2015' as full name and
+  occurs at the place 'Istanbul, Turkey' and
+  has '4th May 2015' as start date and
+  has '5th May 2015' as end date and
+  has 'http://cgi.csc.liv.ac.uk/~sp/events/argmas15/' as url and
+  is part of the event series 'ArgMAS' and
+  corresponds to the date 'May-2015'.
+
+there is an event named 'ASC 2008' that
+  has 'Army Science Conference (ASC), 2008' as full name and
+  occurs at the place 'Orlando, Florida' and
+  has '1st December 2008' as start date and
+  has '4th December 2008' as end date and
+  is part of the event series 'ASC' and
+  corresponds to the date 'Dec-2008'.
+
+there is an event named 'ASC 2010' that
+  has 'Army Science Conference (ASC), 2010' as full name and
+  occurs at the place 'Orlando, Florida' and
+  has '29th November 2010' as start date and
+  has '2nd December 2010' as end date and
+  is part of the event series 'ASC' and
+  corresponds to the date 'Nov-2010'.
+
+there is an event named 'ASIACRYPT 2009' that
+  has 'IACR Annual International Conference on the Theory and Application of Cryptology and Information (ASIACRYPT), 2009' as full name and
+  occurs at the place 'Tokyo, Japan' and
+  has '6th December 2009' as start date and
+  has '10th December 2009' as end date and
+  has 'http://www.iacr.org/conferences/asiacrypt2009/' as url and
+  is part of the event series 'ASIACRYPT' and
+  corresponds to the date 'Dec-2009'.
+
+there is an event named 'ASIACRYPT 2013' that
+  has 'IACR Annual International Conference on the Theory and Application of Cryptology and Information (ASIACRYPT), 2013' as full name and
+  occurs at the place 'Bangalore, India' and
+  has '1st December 2013' as start date and
+  has '5th December 2013' as end date and
+  has 'http://www.iacr.org/conferences/asiacrypt2013/' as url and
+  is part of the event series 'ASIACRYPT' and
+  corresponds to the date 'Dec-2013'.
+
+there is an event named 'CNSM 2010' that
+  has 'IEEE International Conference on Network and Service Management (CNSM), 2010' as full name and
+  occurs at the place 'Niagara Falls, Canada' and
+  has '25th October 2010' as start date and
+  has '29th October 2010' as end date and
+  has 'http://www.cnsm-conf.org/2010/' as url and
+  is part of the event series 'CNSM' and
+  corresponds to the date 'Oct-2010'.
+
+there is an event named 'CNSM 2011' that
+  has 'IEEE International Conference on Network and Service Management (CNSM), 2011' as full name and
+  occurs at the place 'Paris, France' and
+  has '24th October 2011' as start date and
+  has '28th October 2011' as end date and
+  has 'http://cnsm.loria.fr/' as url and
+  is part of the event series 'CNSM' and
+  corresponds to the date 'Oct-2011'.
+
+there is an event named 'CNSM 2012' that
+  has 'IEEE International Conference on Network and Service Management (CNSM), 2012' as full name and
+  occurs at the place 'Las Vegas, Nevada' and
+  has '22nd October 2012' as start date and
+  has '26th October 2012' as end date and
+  has 'http://www.cnsm-conf.org/2012/' as url and
+  is part of the event series 'CNSM' and
+  corresponds to the date 'Oct-2012'.
+
+there is an event named 'COMMSNETS 2009' that
+  has 'IEEE International Conference on Communication Systems and Networks and Workshops (COMMSNETS), 2009' as full name and
+  occurs at the place 'Bangalore, India' and
+  has '5th January 2009' as start date and
+  has '10th January 2009' as end date and
+  has 'http://www.comsnets.org/archive/2009/' as url and
+  is part of the event series 'COMMSNETS' and
+  corresponds to the date 'Jan-2009'.
+
+there is an event named 'COMMSNETS 2012' that
+  has 'IEEE International Conference on Communication Systems and Networks and Workshops (COMMSNETS), 2012' as full name and
+  occurs at the place 'Bangalore, India' and
+  has '3rd January 2012' as start date and
+  has '7th January 2012' as end date and
+  has 'http://www.comsnets.org/archive/2012/' as url and
+  is part of the event series 'COMMSNETS' and
+  corresponds to the date 'Jan-2012'.
+
+there is an event named 'CoNEXT 2007' that
+  has 'ACM Conference on emerging Networking EXperiments and Technologies (CoNEXT), 2007' as full name and
+  occurs at the place 'New York, New York' and
+  has '10th December 2007' as start date and
+  has '13th December 2007' as end date and
+  has 'http://conferences2.sigcomm.org/co-next/2007/' as url and
+  is part of the event series 'CoNEXT' and
+  corresponds to the date 'Dec-2007'.
+
+there is an event named 'CoNEXT 2015' that
+  has 'ACM Conference on emerging Networking EXperiments and Technologies (CoNEXT), 2015' as full name and
+  occurs at the place 'Heidelberg, Germany' and
+  has '1st December 2015' as start date and
+  has '4th December 2015' as end date and
+  has 'http://conferences2.sigcomm.org/co-next/2015/' as url and
+  is part of the event series 'CoNEXT' and
+  corresponds to the date 'Dec-2015'.
+
+there is an event named 'CRYPTO 2007' that
+  has 'IACR Annual International Cryptology Conference (CRYPTO), 2007' as full name and
+  occurs at the place 'Santa Barbara, California' and
+  has '19th August 2007' as start date and
+  has '23rd August 2007' as end date and
+  has 'http://www.iacr.org/conferences/crypto2007/' as url and
+  is part of the event series 'CRYPTO' and
+  corresponds to the date 'Aug-2007'.
+
+there is an event named 'CRYPTO 2010' that
+  has 'IACR Annual International Cryptology Conference (CRYPTO), 2010' as full name and
+  occurs at the place 'Santa Barbara, California' and
+  has '15th August 2010' as start date and
+  has '19th August 2010' as end date and
+  has 'http://www.iacr.org/conferences/crypto2010/' as url and
+  is part of the event series 'CRYPTO' and
+  corresponds to the date 'Aug-2010'.
+
+there is an event named 'CRYPTO 2011' that
+  has 'IACR Annual International Cryptology Conference (CRYPTO), 2011' as full name and
+  occurs at the place 'Santa Barbara, California' and
+  has '14th August 2011' as start date and
+  has '18th August 2011' as end date and
+  has 'http://www.iacr.org/conferences/crypto2011/' as url and
+  is part of the event series 'CRYPTO' and
+  corresponds to the date 'Aug-2011'.
+
+there is an event named 'CRYPTO 2013' that
+  has 'IACR Annual International Cryptology Conference (CRYPTO), 2013' as full name and
+  occurs at the place 'Santa Barbara, California' and
+  has '18th August 2013' as start date and
+  has '22nd August 2013' as end date and
+  has 'http://www.iacr.org/conferences/crypto2013/' as url and
+  is part of the event series 'CRYPTO' and
+  corresponds to the date 'Aug-2013'.
+
+there is an event named 'DCoSS 2008' that
+  has 'IEEE International Conference on Distributed Computing in Sensor Systems (DCoSS), 2008' as full name and
+  occurs at the place 'Santorini Island, Greece' and
+  has '11th June 2008' as start date and
+  has '14th June 2008' as end date and
+  has 'http://www.dcoss.org/dcoss08/' as url and
+  is part of the event series 'DCoSS' and
+  corresponds to the date 'Jun-2008'.
+
+there is an event named 'DCoSS 2009' that
+  has 'IEEE International Conference on Distributed Computing in Sensor Systems (DCoSS), 2009' as full name and
+  occurs at the place 'Marina Del Ray, California' and
+  has '8th June 2009' as start date and
+  has '10th June 2009' as end date and
+  has 'http://www.dcoss.org/dcoss09/' as url and
+  is part of the event series 'DCoSS' and
+  corresponds to the date 'Jun-2009'.
+
+there is an event named 'DCoSS 2010' that
+  has 'IEEE International Conference on Distributed Computing in Sensor Systems (DCoSS), 2010' as full name and
+  occurs at the place 'Santa Barbara, California' and
+  has '21st June 2010' as start date and
+  has '23rd June 2010' as end date and
+  has 'http://www.dcoss.org/dcoss10/' as url and
+  is part of the event series 'DCoSS' and
+  corresponds to the date 'Jun-2010'.
+
+there is an event named 'DCoSS 2011' that
+  has 'IEEE International Conference on Distributed Computing in Sensor Systems (DCoSS), 2011' as full name and
+  occurs at the place 'Barcelona, Spain' and
+  has '27th June 2011' as start date and
+  has '29th June 2011' as end date and
+  has 'http://www.dcoss.org/dcoss11/' as url and
+  is part of the event series 'DCoSS' and
+  corresponds to the date 'Jun-2011'.
+
+there is an event named 'DCoSS 2012' that
+  has 'IEEE International Conference on Distributed Computing in Sensor Systems (DCoSS), 2012' as full name and
+  occurs at the place 'HangZhou, China' and
+  has '27th May 2012' as start date and
+  has '29th May 2012' as end date and
+  has 'http://www.dcoss.org/dcoss12/' as url and
+  is part of the event series 'DCoSS' and
+  corresponds to the date 'May-2012'.
+
+there is an event named 'EUMAS 2010' that
+  has 'European Workshop on Multi-Agent Systems (EUMAS), 2010' as full name and
+  occurs at the place 'Paris, France' and
+  has '16th December 2010' as start date and
+  has '17th December 2010' as end date and
+  is part of the event series 'EUMAS' and
+  corresponds to the date 'Dec-2010'.
+
+there is an event named 'EUMAS 2011' that
+  has 'European Workshop on Multi-Agent Systems (EUMAS), 2011' as full name and
+  occurs at the place 'Maastricht, Netherlands' and
+  has '14th November 2011' as start date and
+  has '15th November 2011' as end date and
+  has 'http://swarmlab.unimaas.nl/eumas2011/' as url and
+  is part of the event series 'EUMAS' and
+  corresponds to the date 'Nov-2011'.
+
+there is an event named 'EUROCRYPT 2008' that
+  has 'IACR Annual Annual International Conference on the Theory and Applications of Cryptographic Techniques (EUROCRYPT), 2008' as full name and
+  occurs at the place 'Istanbul, Turkey' and
+  has '13th April 2008' as start date and
+  has '17th April 2008' as end date and
+  has 'http://www.iacr.org/conferences/eurocrypt2008/' as url and
+  is part of the event series 'EUROCRYPT' and
+  corresponds to the date 'Apr-2008'.
+
+there is an event named 'EUROCRYPT 2010' that
+  has 'IACR Annual Annual International Conference on the Theory and Applications of Cryptographic Techniques (EUROCRYPT), 2010' as full name and
+  occurs at the place 'Monaco, France' and
+  has '30th May 2010' as start date and
+  has '3rd June 2010' as end date and
+  has 'http://www.iacr.org/conferences/eurocrypt2010/' as url and
+  is part of the event series 'EUROCRYPT' and
+  corresponds to the date 'May-2010'.
+
+there is an event named 'EUROCRYPT 2013' that
+  has 'IACR Annual Annual International Conference on the Theory and Applications of Cryptographic Techniques (EUROCRYPT), 2013' as full name and
+  occurs at the place 'Athens, Greece' and
+  has '26th May 2013' as start date and
+  has '30th May 2013' as end date and
+  has 'http://www.iacr.org/conferences/eurocrypt2013/' as url and
+  is part of the event series 'EUROCRYPT' and
+  corresponds to the date 'May-2013'.
+
+there is an event named 'EUROCRYPT 2014' that
+  has 'IACR Annual Annual International Conference on the Theory and Applications of Cryptographic Techniques (EUROCRYPT), 2014' as full name and
+  occurs at the place 'Copenhagen, Denmark' and
+  has '11th May 2014' as start date and
+  has '15th May 2014' as end date and
+  has 'http://www.iacr.org/conferences/eurocrypt2014/' as url and
+  is part of the event series 'EUROCRYPT' and
+  corresponds to the date 'May-2014'.
+
+there is an event named 'Fusion 2008' that
+  has '11th International Conference on Information FUSION' as full name and
+  occurs at the place 'Cologne, Germany' and
+  has '30th June 2008' as start date and
+  has '3rd July 2008' as end date and
+  has 'http://isif.org/events/conference/fusion-2008' as url and
+  is part of the event series 'FUSION' and
+  corresponds to the date 'Jun-2008'.
+
+there is an event named 'Fusion 2009' that
+  has '12th International Conference on Information FUSION' as full name and
+  occurs at the place 'Seattle, US' and
+  has '6th July 2009' as start date and
+  has '9th July 2009' as end date and
+  has 'http://isif.org/events/conference/fusion-2009' as url and
+  is part of the event series 'FUSION' and
+  corresponds to the date 'Jul-2009'.
+
+there is an event named 'Fusion 2010' that
+  has '13th International Conference on Information FUSION' as full name and
+  occurs at the place 'Edinburgh, UK' and
+  has '26th July 2010' as start date and
+  has '29th July 2010' as end date and
+  has 'http://isif.org/events/conference/fusion-2010' as url and
+  is part of the event series 'FUSION' and
+  corresponds to the date 'Jul-2010'.
+
+there is an event named 'Fusion 2011' that
+  has '14th International Conference on Information FUSION' as full name and
+  occurs at the place 'Chicago, US' and
+  has '5th July 2011' as start date and
+  has '8th July 2011' as end date and
+  has 'http://isif.org/events/conference/fusion-2011' as url and
+  is part of the event series 'FUSION' and
+  corresponds to the date 'Jul-2011'.
+
+there is an event named 'Fusion 2012' that
+  has '15th International Conference on Information FUSION' as full name and
+  occurs at the place 'Swissotel, Singapore' and
+  has '9th July 2012' as start date and
+  has '12th July 2012' as end date and
+  has 'http://isif.org/events/conference/fusion-2012' as url and
+  is part of the event series 'FUSION' and
+  corresponds to the date 'Jul-2012'.
+
+there is an event named 'Fusion 2013' that
+  has '16th International Conference on Information FUSION' as full name and
+  occurs at the place 'Askeri Museum, Istanbul' and
+  has '9th July 2013' as start date and
+  has '12th July 2013' as end date and
+  has 'http://isif.org/events/conference/fusion-2013' as url and
+  is part of the event series 'FUSION' and
+  corresponds to the date 'Jul-2013'.
+
+there is an event named 'Fusion 2014' that
+  has '17th International Conference on Information FUSION' as full name and
+  occurs at the place 'Salamanca University, Spain' and
+  has '7th July 2014' as start date and
+  has '14th July 2014' as end date and
+  has 'http://isif.org/events/conference/fusion-2014' as url and
+  is part of the event series 'FUSION' and
+  corresponds to the date 'Jul-2014'.
+
+there is an event named 'Fusion 2015' that
+  has '18th International Conference on Information FUSION' as full name and
+  occurs at the place 'Grand Hyatt Hotel, Washington DC' and
+  has '6th July 2015' as start date and
+  has '9th July 2015' as end date and
+  has 'http://isif.org/events/conference/fusion-2015' as url and
+  is part of the event series 'FUSION' and
+  corresponds to the date 'Jul-2015'.
+
+there is an event named 'GlobeCom 2007' that
+  has 'IEEE Global Communications Conference (GlobeCom), 2007' as full name and
+  occurs at the place 'Washington, DC' and
+  has '26th November 2007' as start date and
+  has '30th November 2007' as end date and
+  has 'http://globecom2007.ieee-globecom.org/' as url and
+  is part of the event series 'GlobeCom' and
+  corresponds to the date 'Nov-2007'.
+
+there is an event named 'GlobeCom 2008' that
+  has 'IEEE Global Communications Conference (GlobeCom), 2008' as full name and
+  occurs at the place 'New Orleans, Louisiana' and
+  has '30th November 2008' as start date and
+  has '4th December 2008' as end date and
+  has 'http://globecom2008.ieee-globecom.org/' as url and
+  is part of the event series 'GlobeCom' and
+  corresponds to the date 'Nov-2008'.
+
+there is an event named 'GlobeCom 2009' that
+  has 'IEEE Global Communications Conference (GlobeCom), 2009' as full name and
+  occurs at the place 'Hilton Hawaiian Village, Honolulu' and
+  has '30th November 2009' as start date and
+  has '4th December 2009' as end date and
+  has 'http://globecom2009.ieee-globecom.org/' as url and
+  is part of the event series 'GlobeCom' and
+  corresponds to the date 'Nov-2009'.
+
+there is an event named 'GlobeCom 2010' that
+  has 'IEEE Global Communications Conference (GlobeCom), 2010' as full name and
+  occurs at the place 'Miami, Florida' and
+  has '6th December 2010' as start date and
+  has '10th December 2010' as end date and
+  has 'http://globecom2010.ieee-globecom.org/' as url and
+  is part of the event series 'GlobeCom' and
+  corresponds to the date 'Dec-2010'.
+
+there is an event named 'GlobeCom 2011' that
+  has 'IEEE Global Communications Conference (GlobeCom), 2011' as full name and
+  occurs at the place 'Houston, Texas' and
+  has '5th December 2011' as start date and
+  has '9th December 2011' as end date and
+  has 'http://globecom2011.ieee-globecom.org/' as url and
+  is part of the event series 'GlobeCom' and
+  corresponds to the date 'Dec-2011'.
+
+there is an event named 'GlobeCom 2013' that
+  has 'IEEE Global Communications Conference (GlobeCom), 2013' as full name and
+  occurs at the place 'Atlanta, Georgia' and
+  has '9th December 2013' as start date and
+  has '13th December 2013' as end date and
+  has 'http://globecom2013.ieee-globecom.org/' as url and
+  is part of the event series 'GlobeCom' and
+  corresponds to the date 'Dec-2013'.
+
+there is an event named 'ICC 2008' that
+  has 'IEEE International Conference on Communications (ICC), 2008' as full name and
+  occurs at the place 'Beijing, China' and
+  has '19th May 2008' as start date and
+  has '23rd May 2008' as end date and
+  has 'http://icc2008.ieee-icc.org/' as url and
+  is part of the event series 'ICC' and
+  corresponds to the date 'May-2008'.
+
+there is an event named 'ICC 2010' that
+  has 'IEEE International Conference on Communications (ICC), 2010' as full name and
+  occurs at the place 'Cape Town, South Africa' and
+  has '23rd May 2010' as start date and
+  has '27th May 2010' as end date and
+  has 'http://icc2010.ieee-icc.org/' as url and
+  is part of the event series 'ICC' and
+  corresponds to the date 'May-2010'.
+
+there is an event named 'ICC 2015' that
+  has 'IEEE International Conference on Communications (ICC), 2015' as full name and
+  occurs at the place 'London, UK' and
+  has '8th June 2015' as start date and
+  has '12th June 2015' as end date and
+  has 'http://icc2015.ieee-icc.org/' as url and
+  is part of the event series 'ICC' and
+  corresponds to the date 'Jun-2015'.
+
+there is an event named 'ICCRTS 2008' that
+  has 'International Command and Control Research Technology Symposium (ICCRTS), 2008' as full name and
+  occurs at the place 'Seattle, Washington' and
+  has '17th June 2008' as start date and
+  has '19th June 2008' as end date and
+  has 'http://www.dodccrp.org/events/13th_iccrts_2008/CD/Launch_CD.html' as url and
+  is part of the event series 'ICCRTS' and
+  corresponds to the date 'Jun-2008'.
+
+there is an event named 'ICCRTS 2009' that
+  has 'International Command and Control Research Technology Symposium (ICCRTS), 2009' as full name and
+  occurs at the place 'Washington, DC' and
+  has '15th June 2009' as start date and
+  has '17th June 2009' as end date and
+  has 'http://www.dodccrp.org/events/14th_iccrts_2009/Launch_CD.html' as url and
+  is part of the event series 'ICCRTS' and
+  corresponds to the date 'Jun-2009'.
+
+there is an event named 'ICCRTS 2012' that
+  has 'International Command and Control Research Technology Symposium (ICCRTS), 2012' as full name and
+  occurs at the place 'Fairfax, Virginia' and
+  has '19th June 2012' as start date and
+  has '21st June 2012' as end date and
+  has 'http://www.dodccrp.org/events/17th_iccrts_2012/post_conference/html/home.html' as url and
+  is part of the event series 'ICCRTS' and
+  corresponds to the date 'Jun-2012'.
+
+there is an event named 'ICCRTS 2013' that
+  has 'International Command and Control Research Technology Symposium (ICCRTS), 2013' as full name and
+  occurs at the place 'Alexandria, Virginia' and
+  has '19th June 2013' as start date and
+  has '21st June 2013' as end date and
+  has 'http://www.dodccrp.org/events/18th_iccrts_2013/post_conference/html/home.html' as url and
+  is part of the event series 'ICCRTS' and
+  corresponds to the date 'Jun-2013'.
+
+there is an event named 'ICCRTS 2014' that
+  has 'International Command and Control Research Technology Symposium (ICCRTS), 2014' as full name and
+  occurs at the place 'Alexandria, Virginia' and
+  has '16th June 2014' as start date and
+  has '19th June 2014' as end date and
+  has 'http://www.dodccrp.org/events/19th_iccrts_2014/post_conference/html/home.html' as url and
+  is part of the event series 'ICCRTS' and
+  corresponds to the date 'Jun-2014'.
+
+there is an event named 'IJCAI 2007' that
+  has '20th International Joint Conference on Artificial Intelligence, 2007' as full name and
+  occurs at the place 'Hyderabad, India' and
+  has '6th January 2007' as start date and
+  has '12th January 2007' as end date and
+  has 'http://www.ijcai-07.org/' as url and
+  is part of the event series 'IJCAI' and
+  corresponds to the date 'Jan-2007'.
+
+there is an event named 'IJCAI 2011' that
+  has '22nd International Joint Conference on Artificial Intelligence, 2011' as full name and
+  occurs at the place 'Barcelona, Spain' and
+  has '16th July 2011' as start date and
+  has '22nd July 2011' as end date and
+  has 'http://ijcai-11.iiia.csic.es/' as url and
+  is part of the event series 'IJCAI' and
+  corresponds to the date 'Jul-2011'.
+
+there is an event named 'IJCAI 2015' that
+  has '24th International Joint Conference on Artificial Intelligence, 2015' as full name and
+  occurs at the place 'Buenos Aires, Argentina' and
+  has '25th July 2015' as start date and
+  has '31st July 2015' as end date and
+  has 'http://ijcai-15.org/' as url and
+  is part of the event series 'IJCAI' and
+  corresponds to the date 'Jul-2015'.
+
+there is an event named 'InfoCom 2007' that
+  has 'IEEE International Conference on Computer Communications (InfoCom), 2007' as full name and
+  occurs at the place 'Anchorage, Alaska' and
+  has '6th May 2007' as start date and
+  has '12th May 2007' as end date and
+  has 'http://infocom2007.ieee-infocom.org/' as url and
+  is part of the event series 'InfoCom' and
+  corresponds to the date 'May-2007'.
+
+there is an event named 'InfoCom 2008' that
+  has 'IEEE International Conference on Computer Communications (InfoCom), 2008' as full name and
+  occurs at the place 'Phoenix, Arizona' and
+  has '13th April 2008' as start date and
+  has '17th April 2008' as end date and
+  has 'http://infocom2008.ieee-infocom.org/' as url and
+  is part of the event series 'InfoCom' and
+  corresponds to the date 'Apr-2008'.
+
+there is an event named 'InfoCom 2009' that
+  has 'IEEE International Conference on Computer Communications (InfoCom), 2009' as full name and
+  occurs at the place 'Rio de Janeiro, Brazil' and
+  has '19th April 2009' as start date and
+  has '25th April 2009' as end date and
+  has 'http://infocom2009.ieee-infocom.org/' as url and
+  is part of the event series 'InfoCom' and
+  corresponds to the date 'Apr-2009'.
+
+there is an event named 'InfoCom 2010' that
+  has 'IEEE International Conference on Computer Communications (InfoCom), 2010' as full name and
+  occurs at the place 'San Diego, California' and
+  has '15th March 2010' as start date and
+  has '19th March 2010' as end date and
+  has 'http://infocom2010.ieee-infocom.org/' as url and
+  is part of the event series 'InfoCom' and
+  corresponds to the date 'Mar-2010'.
+
+there is an event named 'InfoCom 2011' that
+  has 'IEEE International Conference on Computer Communications (InfoCom), 2011' as full name and
+  occurs at the place 'Shanghai, China' and
+  has '10th April 2011' as start date and
+  has '15th April 2011' as end date and
+  has 'http://infocom2011.ieee-infocom.org/' as url and
+  is part of the event series 'InfoCom' and
+  corresponds to the date 'Apr-2011'.
+
+there is an event named 'InfoCom 2012' that
+  has 'IEEE International Conference on Computer Communications (InfoCom), 2012' as full name and
+  occurs at the place 'Orlando, Florida' and
+  has '25th March 2012' as start date and
+  has '30th March 2012' as end date and
+  has 'http://infocom2012.ieee-infocom.org/' as url and
+  is part of the event series 'InfoCom' and
+  corresponds to the date 'Mar-2012'.
+
+there is an event named 'InfoCom 2013' that
+  has 'IEEE International Conference on Computer Communications (InfoCom), 2013' as full name and
+  occurs at the place 'Turin, Italy' and
+  has '14th April 2013' as start date and
+  has '19th April 2013' as end date and
+  has 'http://infocom2013.ieee-infocom.org/' as url and
+  is part of the event series 'InfoCom' and
+  corresponds to the date 'Apr-2013'.
+
+there is an event named 'InfoCom 2014' that
+  has 'IEEE International Conference on Computer Communications (InfoCom), 2014' as full name and
+  occurs at the place 'Toronto, Canada' and
+  has '27th April 2014' as start date and
+  has '2nd May 2014' as end date and
+  has 'http://infocom2014.ieee-infocom.org/' as url and
+  is part of the event series 'InfoCom' and
+  corresponds to the date 'Apr-2014'.
+
+there is an event named 'InfoCom 2015' that
+  has 'IEEE International Conference on Computer Communications (InfoCom), 2015' as full name and
+  occurs at the place 'Sheraton Hong Kong Hotel and Towers, Hong Kong' and
+  has '26th April 2015' as start date and
+  has '1st May 2015' as end date and
+  has 'http://infocom2015.ieee-infocom.org/' as url and
+  is part of the event series 'InfoCom' and
+  corresponds to the date 'Apr-2015'.
+
+there is an event named 'InfoCom 2016' that
+  has 'IEEE International Conference on Computer Communications (InfoCom), 2016' as full name and
+  occurs at the place 'San Francisco, California' and
+  has '10th April 2016' as start date and
+  has '15th April 2016' as end date and
+  has 'http://infocom2016.ieee-infocom.org/' as url and
+  is part of the event series 'InfoCom' and
+  corresponds to the date 'Apr-2016'.
+
+there is an event named 'ISWC 2009' that
+  has 'International Semantic Web Conference (ISWC), 2009' as full name and
+  occurs at the place 'Washington, DC' and
+  has '25th October 2009' as start date and
+  has '29th October 2009' as end date and
+  has 'http://iswc2009.semanticweb.org/' as url and
+  is part of the event series 'ISWC' and
+  corresponds to the date 'Oct-2009'.
+
+there is an event named 'ISWC 2010' that
+  has 'International Semantic Web Conference (ISWC), 2010' as full name and
+  occurs at the place 'Shanghai, China' and
+  has '7th November 2010' as start date and
+  has '11th November 2010' as end date and
+  has 'http://iswc2010.semanticweb.org/' as url and
+  is part of the event series 'ISWC' and
+  corresponds to the date 'Nov-2010'.
+
+there is an event named 'ISWC 2012' that
+  has 'International Semantic Web Conference (ISWC), 2012' as full name and
+  occurs at the place 'Boston, Massachusetts' and
+  has '11th November 2012' as start date and
+  has '15th November 2012' as end date and
+  has 'http://iswc2012.semanticweb.org/' as url and
+  is part of the event series 'ISWC' and
+  corresponds to the date 'Nov-2012'.
+
+there is an event named 'KSCO 2007' that
+  has 'Knowledge Systems for Coalition Operations (KSCO), 2007' as full name and
+  occurs at the place 'Waltham, Massachusetts' and
+  has '1st May 2007' as start date and
+  has '2nd May 2007' as end date and
+  has 'http://www.aiai.ed.ac.uk/project/coalition/ksco/ksco-2007.html' as url and
+  is part of the event series 'KSCO' and
+  corresponds to the date 'Mar-2007'.
+
+there is an event named 'KSCO 2009' that
+  has 'Knowledge Systems for Coalition Operations (KSCO), 2009' as full name and
+  occurs at the place 'Southampton, UK' and
+  has '31st March 2009' as start date and
+  has '1st April 2009' as end date and
+  has 'http://www.aiai.ed.ac.uk/project/coalition/ksco/ksco-2009.html' as url and
+  is part of the event series 'KSCO' and
+  corresponds to the date 'Mar-2009'.
+
+there is an event named 'KSCO 2010' that
+  has 'Knowledge Systems for Coalition Operations (KSCO), 2010' as full name and
+  occurs at the place 'Vancouver, Canada' and
+  has '21st September 2010' as start date and
+  has '23rd September 2010' as end date and
+  has 'http://www.aiai.ed.ac.uk/project/coalition/ksco-2010.html' as url and
+  is part of the event series 'KSCO' and
+  corresponds to the date 'Sep-2010'.
+
+there is an event named 'KSCO 2012' that
+  has 'Knowledge Systems for Coalition Operations (KSCO), 2012' as full name and
+  occurs at the place 'Pensacola, Florida' and
+  has '15th February 2012' as start date and
+  has '17th February 2012' as end date and
+  has 'http://www.aiai.ed.ac.uk/project/coalition/ksco-2012.html' as url and
+  is part of the event series 'KSCO' and
+  corresponds to the date 'Feb-2012'.
+
+there is an event named 'KSCO 2016' that
+  has 'Knowledge Systems for Coalition Operations (KSCO), 2016' as full name and
+  occurs at the place 'London, UK' and
+  has '6th September 2016' as start date and
+  has '8th September 2016' as end date and
+  has 'http://www.aiai.ed.ac.uk/project/coalition/ksco-2016.html' as url and
+  is part of the event series 'KSCO' and
+  corresponds to the date 'Sep-2016'.
+
+there is an event named 'MASS 2006' that
+  has 'IEEE International Conference on Mobile Ad Hoc and Sensor Systems (MASS), 2006' as full name and
+  occurs at the place 'Vancouver, Canada' and
+  has '9th October 2006' as start date and
+  has '12th October 2006' as end date and
+  has 'http://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=11556' as url and
+  is part of the event series 'MASS' and
+  corresponds to the date 'Oct-2006'.
+
+there is an event named 'MASS 2007' that
+  has 'IEEE International Conference on Mobile Ad Hoc and Sensor Systems (MASS), 2007' as full name and
+  occurs at the place 'Pisa, Italy' and
+  has '8th October 2007' as start date and
+  has '11th October 2007' as end date and
+  has 'http://cnd.iit.cnr.it/mass2007/' as url and
+  is part of the event series 'MASS' and
+  corresponds to the date 'Oct-2007'.
+
+there is an event named 'MASS 2008' that
+  has 'IEEE International Conference on Mobile Ad Hoc and Sensor Systems (MASS), 2008' as full name and
+  occurs at the place 'Atlanta, Georgia' and
+  has '29th September 2008' as start date and
+  has '2nd October 2008' as end date and
+  has 'http://www.cse.psu.edu/IEEEMASS08/' as url and
+  is part of the event series 'MASS' and
+  corresponds to the date 'Sep-2008'.
+
+there is an event named 'MASS 2009' that
+  has 'IEEE International Conference on Mobile Ad Hoc and Sensor Systems (MASS), 2009' as full name and
+  occurs at the place 'Macau, China' and
+  has '5th October 2009' as start date and
+  has '8th October 2009' as end date and
+  has 'http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=5312767' as url and
+  is part of the event series 'MASS' and
+  corresponds to the date 'Oct-2009'.
+
+there is an event named 'MASS 2010' that
+  has 'IEEE International Conference on Mobile Ad Hoc and Sensor Systems (MASS), 2010' as full name and
+  occurs at the place 'San Francisco, California' and
+  has '8th November 2010' as start date and
+  has '12th November 2010' as end date and
+  has 'https://mass2010.soe.ucsc.edu/' as url and
+  is part of the event series 'MASS' and
+  corresponds to the date 'Nov-2010'.
+
+there is an event named 'MASS 2011' that
+  has 'IEEE International Conference on Mobile Ad Hoc and Sensor Systems (MASS), 2011' as full name and
+  occurs at the place 'Valencia, Spain' and
+  has '17th October 2011' as start date and
+  has '21st October 2011' as end date and
+  has 'http://mass2011.upv.es/' as url and
+  is part of the event series 'MASS' and
+  corresponds to the date 'Oct-2011'.
+
+there is an event named 'MASS 2013' that
+  has 'IEEE International Conference on Mobile Ad Hoc and Sensor Systems (MASS), 2013' as full name and
+  occurs at the place 'Hangzhou, China' and
+  has '14th October 2013' as start date and
+  has '16th October 2013' as end date and
+  has 'http://www.sensornet.cn/ieeemass2013/' as url and
+  is part of the event series 'MASS' and
+  corresponds to the date 'Oct-2013'.
+
+there is an event named 'MASS 2015' that
+  has 'IEEE International Conference on Mobile Ad Hoc and Sensor Systems (MASS), 2015' as full name and
+  occurs at the place 'Dallas, USA' and
+  has '19th October 2015' as start date and
+  has '22nd October 2015' as end date and
+  has 'http://mass2015.eecs.utk.edu/' as url and
+  is part of the event series 'MASS' and
+  corresponds to the date 'Oct-2015'.
+
+there is an event named 'MILCOM 2006' that
+  has 'IEEE Military Communications Conference, 2006' as full name and
+  occurs at the place 'Marriot Wardman Park Hotel, Washington DC' and
+  has '23rd October 2006' as start date and
+  has '25th October 2006' as end date and
+  has 'http://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=11382' as url and
+  is part of the event series 'MILCOM' and
+  corresponds to the date 'Oct-2006'.
+
+there is an event named 'MILCOM 2007' that
+  has 'IEEE Military Communications Conference, 2007' as full name and
+  occurs at the place 'Gaylord Palms Resort & Convention Center, Orlando, Florida' and
+  has '29th October 2007' as start date and
+  has '31st October 2007' as end date and
+  has 'http://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=12352' as url and
+  is part of the event series 'MILCOM' and
+  corresponds to the date 'Oct-2007'.
+
+there is an event named 'MILCOM 2008' that
+  has 'IEEE Military Communications Conference, 2008' as full name and
+  occurs at the place 'San Diego Convention Center, California' and
+  has '17th November 2008' as start date and
+  has '19th November 2008' as end date and
+  has 'http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=4723889' as url and
+  is part of the event series 'MILCOM' and
+  corresponds to the date 'Nov-2008'.
+
+there is an event named 'MILCOM 2009' that
+  has 'IEEE Military Communications Conference, 2009' as full name and
+  occurs at the place 'Boston World Trade Center, Massachusetts' and
+  has '18th October 2009' as start date and
+  has '21st November 2009' as end date and
+  has 'http://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=14586' as url and
+  is part of the event series 'MILCOM' and
+  corresponds to the date 'Oct-2009'.
+
+there is an event named 'MILCOM 2010' that
+  has 'IEEE Military Communications Conference, 2010' as full name and
+  occurs at the place 'San Jose Convention Center, California' and
+  has '31st October 2010' as start date and
+  has '3rd November 2010' as end date and
+  has 'http://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=14586' as url and
+  is part of the event series 'MILCOM' and
+  corresponds to the date 'Oct-2010'.
+
+there is an event named 'MILCOM 2011' that
+  has 'IEEE Military Communications Conference, 2011' as full name and
+  occurs at the place 'Baltimore Convention Center, Maryland' and
+  has '7th November 2011' as start date and
+  has '10th November 2011' as end date and
+  has 'http://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=18114' as url and
+  is part of the event series 'MILCOM' and
+  corresponds to the date 'Nov-2011'.
+
+there is an event named 'MILCOM 2013' that
+  has 'IEEE Military Communications Conference, 2013' as full name and
+  occurs at the place 'San Diego Convention Center, California' and
+  has '18th November 2013' as start date and
+  has '20th November 2013' as end date and
+  has 'https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=30370' as url and
+  is part of the event series 'MILCOM' and
+  corresponds to the date 'Nov-2013'.
+
+there is an event named 'MILCOM 2014' that
+  has 'IEEE Military Communications Conference, 2014' as full name and
+  occurs at the place 'Baltimore Convention Center, Maryland' and
+  has '6th October 2014' as start date and
+  has '8th October 2014' as end date and
+  has 'https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34636' as url and
+  is part of the event series 'MILCOM' and
+  corresponds to the date 'Oct-2014'.
+
+there is an event named 'MILCOM 2015' that
+  has 'IEEE Military Communications Conference, 2015' as full name and
+  occurs at the place 'Baltimore Convention Center, Maryland' and
+  has '26th October 2015' as start date and
+  has '28th October 2015' as end date and
+  has 'https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=36929' as url and
+  is part of the event series 'MILCOM' and
+  corresponds to the date 'Oct-2015'.
+
+there is an event named 'MobiCom 2007' that
+  has 'Annual International Conference on Mobile Computing and Networking, 2007' as full name and
+  occurs at the place 'Montreal, Canada' and
+  has '9th September 2007' as start date and
+  has '14th September 2007' as end date and
+  has 'http://www.sigmobile.org/mobicom/2007/' as url and
+  is part of the event series 'MobiCom' and
+  corresponds to the date 'Sep-2007'.
+
+there is an event named 'MobiCom 2008' that
+  has 'Annual International Conference on Mobile Computing and Networking, 2008' as full name and
+  occurs at the place 'San Francisco, California' and
+  has '14th September 2008' as start date and
+  has '19th September 2008' as end date and
+  has 'http://www.sigmobile.org/mobicom/2009/' as url and
+  is part of the event series 'MobiCom' and
+  corresponds to the date 'Sep-2008'.
+
+there is an event named 'MobiCom 2009' that
+  has 'Annual International Conference on Mobile Computing and Networking, 2009' as full name and
+  occurs at the place 'Beijing, China' and
+  has 'September 20th 2009' as start date and
+  has 'September 25th 2009' as end date and
+  has 'http://www.sigmobile.org/mobicom/2009/' as url and
+  is part of the event series 'MobiCom' and
+  corresponds to the date 'Sep-2009'.
+
+there is an event named 'MobiCom 2010' that
+  has 'Annual International Conference on Mobile Computing and Networking, 2010' as full name and
+  occurs at the place 'Chicago, US' and
+  has '20th September 2010' as start date and
+  has '24th September 2010' as end date and
+  has 'http://www.sigmobile.org/mobicom/2010/' as url and
+  is part of the event series 'MobiCom' and
+  corresponds to the date 'Sep-2010'.
+
+there is an event named 'MobiCom 2012' that
+  has 'Annual International Conference on Mobile Computing and Networking, 2012' as full name and
+  occurs at the place 'Istanbul, Turkey' and
+  has '22nd August 2012' as start date and
+  has '26th August 2012' as end date and
+  has 'http://www.sigmobile.org/mobicom/2012/' as url and
+  is part of the event series 'MobiCom' and
+  corresponds to the date 'Aug-2012'.
+
+there is an event named 'MobiHoc 2007' that
+  has 'ACM International Symposium on Mobile Ad Hoc Networking and Computing (MobiHoc), 2007' as full name and
+  occurs at the place 'Montreal, Quebec' and
+  has '9th September 2007' as start date and
+  has '14th September 2007' as end date and
+  has 'http://www.sigmobile.org/mobihoc/2007/' as url and
+  is part of the event series 'MobiHoc' and
+  corresponds to the date 'Sep-2007'.
+
+there is an event named 'MobiHoc 2010' that
+  has 'ACM International Symposium on Mobile Ad Hoc Networking and Computing (MobiHoc), 2010' as full name and
+  occurs at the place 'Chicago, Illinois' and
+  has '20th September 2010' as start date and
+  has '24th September 2010' as end date and
+  has 'http://www.sigmobile.org/mobihoc/2010/' as url and
+  is part of the event series 'MobiHoc' and
+  corresponds to the date 'May-2010'.
+
+there is an event named 'MobiHoc 2011' that
+  has 'ACM International Symposium on Mobile Ad Hoc Networking and Computing (MobiHoc), 2011' as full name and
+  occurs at the place 'Paris, France' and
+  has '16th May 2011' as start date and
+  has '19th May 2011' as end date and
+  has 'http://www.sigmobile.org/mobihoc/2011/' as url and
+  is part of the event series 'MobiHoc' and
+  corresponds to the date 'May-2011'.
+
+there is an event named 'PerCom 2007' that
+  has 'IEEE International Conference on Pervasive Computing and Communications (PerCom), 2007' as full name and
+  occurs at the place 'White Plains, New York' and
+  has '19th March 2007' as start date and
+  has '23rd March 2007' as end date and
+  has 'http://www.percom.org/2007/' as url and
+  is part of the event series 'PerCom' and
+  corresponds to the date 'Mar-2007'.
+
+there is an event named 'PerCom 2009' that
+  has 'IEEE International Conference on Pervasive Computing and Communications (PerCom), 2009' as full name and
+  occurs at the place 'Galveston, Texas' and
+  has '9th March 2009' as start date and
+  has '13th March 2009' as end date and
+  has 'http://www.percom.org/2009/' as url and
+  is part of the event series 'PerCom' and
+  corresponds to the date 'Mar-2009'.
+
+there is an event named 'PerCom 2010' that
+  has 'IEEE International Conference on Pervasive Computing and Communications (PerCom), 2010' as full name and
+  occurs at the place 'Mannheim, Germany' and
+  has '29th March 2010' as start date and
+  has '2nd April 2010' as end date and
+  has 'http://www.percom.org/2010/' as url and
+  is part of the event series 'PerCom' and
+  corresponds to the date 'Mar-2010'.
+
+there is an event named 'PerCom 2011' that
+  has 'IEEE International Conference on Pervasive Computing and Communications (PerCom), 2011' as full name and
+  occurs at the place 'Seattle, Washington' and
+  has '21st March 2011' as start date and
+  has '25th March 2011' as end date and
+  has 'http://www.percom.org/2011/' as url and
+  is part of the event series 'PerCom' and
+  corresponds to the date 'Mar-2011'.
+
+there is an event named 'PerCom 2012' that
+  has 'IEEE International Conference on Pervasive Computing and Communications (PerCom), 2012' as full name and
+  occurs at the place 'Lugano, Switzerland' and
+  has '19th March 2012' as start date and
+  has '23rd March 2012' as end date and
+  has 'http://www.percom.org/2012/' as url and
+  is part of the event series 'PerCom' and
+  corresponds to the date 'Mar-2012'.
+
+there is an event named 'PerCom 2013' that
+  has 'IEEE International Conference on Pervasive Computing and Communications (PerCom), 2013' as full name and
+  occurs at the place 'San Diego, California' and
+  has '18th March 2013' as start date and
+  has '22nd March 2013' as end date and
+  has 'http://www.percom.org/2013/' as url and
+  is part of the event series 'PerCom' and
+  corresponds to the date 'Mar-2013'.
+
+there is an event named 'PerCom 2014' that
+  has 'IEEE International Conference on Pervasive Computing and Communications (PerCom), 2014' as full name and
+  occurs at the place 'Budapest, Hungary' and
+  has '24th March 2014' as start date and
+  has '28th March 2014' as end date and
+  has 'http://www.percom.org/2014/' as url and
+  is part of the event series 'PerCom' and
+  corresponds to the date 'Mar-2014'.
+
+there is an event named 'PIMRC 2008' that
+  has 'IEEE International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC), 2008' as full name and
+  occurs at the place 'Cannes, France' and
+  has '15th September 2008' as start date and
+  has '18th September 2008' as end date and
+  has 'http://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=12763' as url and
+  is part of the event series 'PIMRC' and
+  corresponds to the date 'Sep-2008'.
+
+there is an event named 'PIMRC 2009' that
+  has 'IEEE International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC), 2009' as full name and
+  occurs at the place 'Tokyo, Japan' and
+  has '13th September 2009' as start date and
+  has '16th September 2009' as end date and
+  is part of the event series 'PIMRC' and
+  corresponds to the date 'Sep-2009'.
+
+there is an event named 'PIMRC 2011' that
+  has 'IEEE International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC), 2011' as full name and
+  occurs at the place 'Toronto, Canada' and
+  has '11th September 2011' as start date and
+  has '14th September 2011' as end date and
+  has 'http://www.ieee-pimrc.org/2011/' as url and
+  is part of the event series 'PIMRC' and
+  corresponds to the date 'Sep-2011'.
+
+there is an event named 'PIMRC 2012' that
+  has 'IEEE International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC), 2012' as full name and
+  occurs at the place 'Sydney, Australia' and
+  has '9th September 2012' as start date and
+  has '12th September 2012' as end date and
+  has 'http://www.ieee-pimrc.org/2012/' as url and
+  is part of the event series 'PIMRC' and
+  corresponds to the date 'Sep-2012'.
+
+there is an event named 'PIMRC 2014' that
+  has 'IEEE International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC), 2014' as full name and
+  occurs at the place 'Washington, DC' and
+  has '2nd September 2014' as start date and
+  has '5th September 2014' as end date and
+  has 'http://www.ieee-pimrc.org/2014/' as url and
+  is part of the event series 'PIMRC' and
+  corresponds to the date 'Sep-2014'.
+
+there is an event named 'POLICY 2008' that
+  has 'IEEE International Symposium on Policies for Distributed Systems and Networks (POLICY), 2008' as full name and
+  occurs at the place 'Palisades, New York' and
+  has '2nd June 2008' as start date and
+  has '4th June 2008' as end date and
+  has 'http://www.policy-workshop.org/#policy2008' as url and
+  is part of the event series 'POLICY' and
+  corresponds to the date 'Jun-2008'.
+
+there is an event named 'POLICY 2009' that
+  has 'IEEE International Symposium on Policies for Distributed Systems and Networks (POLICY), 2009' as full name and
+  occurs at the place 'Imperial College London, UK' and
+  has '20th July 2009' as start date and
+  has '22nd July 2009' as end date and
+  has 'http://www.policy-workshop.org/2009/' as url and
+  is part of the event series 'POLICY' and
+  corresponds to the date 'Jul-2009'.
+
+there is an event named 'POLICY 2010' that
+  has 'IEEE International Symposium on Policies for Distributed Systems and Networks (POLICY), 2010' as full name and
+  occurs at the place 'George Mason University' and
+  has '21st July 2010' as start date and
+  has '23rd July 2010' as end date and
+  has 'http://www.policy-workshop.org/2010/' as url and
+  is part of the event series 'POLICY' and
+  corresponds to the date 'Jul-2010'.
+
+there is an event named 'POLICY 2011' that
+  has 'IEEE International Symposium on Policies for Distributed Systems and Networks (POLICY), 2011' as full name and
+  occurs at the place 'Pisa, Italy' and
+  has '6th June 2011' as start date and
+  has '8th June 2011' as end date and
+  has 'http://www.policy-workshop.org/2011/' as url and
+  is part of the event series 'POLICY' and
+  corresponds to the date 'Jun-2011'.
+
+there is an event named 'SECON 2007' that
+  has 'IEEE Communications Society Conference on Sensor, Mesh and Ad Hoc Communications and Networks (SECON), 2007' as full name and
+  occurs at the place 'San Diego, California' and
+  has '18th June 2007' as start date and
+  has '21st June 2007' as end date and
+  has 'http://secon2007.ieee-secon.org/' as url and
+  is part of the event series 'SECON' and
+  corresponds to the date 'Jun-2007'.
+
+there is an event named 'SECON 2008' that
+  has 'IEEE Communications Society Conference on Sensor, Mesh and Ad Hoc Communications and Networks (SECON), 2008' as full name and
+  occurs at the place 'San Francisco, California' and
+  has '16th June 2008' as start date and
+  has '20th June 2008' as end date and
+  has 'http://secon2008.ieee-secon.org/' as url and
+  is part of the event series 'SECON' and
+  corresponds to the date 'Jun-2008'.
+
+there is an event named 'SECON 2009' that
+  has 'IEEE Communications Society Conference on Sensor, Mesh and Ad Hoc Communications and Networks (SECON), 2009' as full name and
+  occurs at the place 'New Orleans, Louisiana' and
+  has '24th June 2009' as start date and
+  has '27th June 2009' as end date and
+  has 'http://secon2009.ieee-secon.org/' as url and
+  is part of the event series 'SECON' and
+  corresponds to the date 'Jun-2009'.
+
+there is an event named 'SECON 2010' that
+  has 'IEEE Communications Society Conference on Sensor, Mesh and Ad Hoc Communications and Networks (SECON), 2010' as full name and
+  occurs at the place 'Boston, Massachusetts' and
+  has '21st June 2010' as start date and
+  has '25th June 2010' as end date and
+  has 'http://secon2010.ieee-secon.org/' as url and
+  is part of the event series 'SECON' and
+  corresponds to the date 'Jun-2010'.
+
+there is an event named 'SECON 2012' that
+  has 'IEEE Communications Society Conference on Sensor, Mesh and Ad Hoc Communications and Networks (SECON), 2012' as full name and
+  occurs at the place 'Seoul, Korea' and
+  has '18th June 2012' as start date and
+  has '21st June 2012' as end date and
+  has 'http://secon2012.ieee-secon.org/' as url and
+  is part of the event series 'SECON' and
+  corresponds to the date 'Jun-2012'.
+
+there is an event named 'SPIE DSS 2007' that
+  has 'International Society for Optics and Photonics - Defense, Security and Sensing, 2007' as full name and
+  occurs at the place 'Orlando World Center Marriot Resort, Florida' and
+  has '9th April 2007' as start date and
+  has '13th April 2007' as end date and
+  has 'http://spie.org/conferences-and-exhibitions/past-events/past-conferences-and-exhibitions/past-events/defense-security-and-sensing/defense-security-and-sensing-2007' as url and
+  is part of the event series 'SPIE DSS' and
+  corresponds to the date 'Apr-2007'.
+
+there is an event named 'SPIE DSS 2008' that
+  has 'International Society for Optics and Photonics - Defense, Security and Sensing, 2008' as full name and
+  occurs at the place 'Orlando World Center Marriot Resort, Florida' and
+  has '16th March 2008' as start date and
+  has '20th March 2008' as end date and
+  has 'http://spie.org/conferences-and-exhibitions/past-events/past-conferences-and-exhibitions/past-events/defense-security-and-sensing/defense-security-and-sensing-2008' as url and
+  is part of the event series 'SPIE DSS' and
+  corresponds to the date 'Mar-2008'.
+
+there is an event named 'SPIE DSS 2009' that
+  has 'International Society for Optics and Photonics - Defense, Security and Sensing, 2009' as full name and
+  occurs at the place 'Orlando World Center Marriot Resort, Florida' and
+  has '13th April 2009' as start date and
+  has '17th April 2009' as end date and
+  has 'http://spie.org/conferences-and-exhibitions/past-events/past-conferences-and-exhibitions/past-events/defense-security-and-sensing/defense-security-and-sensing-2009' as url and
+  is part of the event series 'SPIE DSS' and
+  corresponds to the date 'Apr-2009'.
+
+there is an event named 'SPIE DSS 2010' that
+  has 'International Society for Optics and Photonics - Defense, Security and Sensing, 2010' as full name and
+  occurs at the place 'Orlando World Center Marriot Resort, Florida' and
+  has '5th April 2010' as start date and
+  has '9th April 2010' as end date and
+  has 'http://spie.org/conferences-and-exhibitions/past-events/past-conferences-and-exhibitions/past-events/defense-security-and-sensing/defense-security-and-sensing-2010' as url and
+  is part of the event series 'SPIE DSS' and
+  corresponds to the date 'Apr-2010'.
+
+there is an event named 'SPIE DSS 2011' that
+  has 'International Society for Optics and Photonics - Defense, Security and Sensing, 2010' as full name and
+  occurs at the place 'Orlando World Center Marriot Resort, Florida' and
+  has '25th April 2011' as start date and
+  has '29th April 2011' as end date and
+  has 'http://spie.org/conferences-and-exhibitions/past-events/past-conferences-and-exhibitions/past-events/defense-security-and-sensing/defense-security-and-sensing-2011' as url and
+  is part of the event series 'SPIE DSS' and
+  corresponds to the date 'Apr-2011'.
+
+there is an event named 'SPIE DSS 2012' that
+  has 'International Society for Optics and Photonics - Defense, Security and Sensing, 2012' as full name and
+  occurs at the place 'Baltimore Convention Center, Maryland' and
+  has '23rd April 2012' as start date and
+  has '27th April 2012' as end date and
+  has 'http://spie.org/conferences-and-exhibitions/past-events/past-conferences-and-exhibitions/past-events/defense-security-and-sensing/defense-security-and-sensing-2012' as url and
+  is part of the event series 'SPIE DSS' and
+  corresponds to the date 'Apr-2012'.
+
+there is an event named 'SPIE DSS 2013' that
+  has 'International Society for Optics and Photonics - Defense, Security and Sensing, 2013' as full name and
+  occurs at the place 'Baltimore Convention Center, Maryland' and
+  has '29th April 2013' as start date and
+  has '3rd May 2013' as end date and
+  has 'http://spie.org/conferences-and-exhibitions/past-events/past-conferences-and-exhibitions/past-events/defense-security-and-sensing/defense-security-and-sensing-2013' as url and
+  is part of the event series 'SPIE DSS' and
+  corresponds to the date 'Apr-2013'.
+
+there is an event named 'SPIE DSS 2014' that
+  has 'International Society for Optics and Photonics - Defense, Security and Sensing, 2014' as full name and
+  occurs at the place 'Baltimore Convention Center, Maryland' and
+  has '5th May 2014' as start date and
+  has '9th May 2014' as end date and
+  has 'http://spie.org/conferences-and-exhibitions/past-events/past-conferences-and-exhibitions/past-events/defense-security-and-sensing/defense-security-and-sensing-2014' as url and
+  is part of the event series 'SPIE DSS' and
+  corresponds to the date 'May-2014'.
+
+there is an event named 'SPIE DSS 2015' that
+  has 'International Society for Optics and Photonics - Defense, Security and Sensing, 2015' as full name and
+  occurs at the place 'Baltimore Convention Center, Maryland' and
+  has '20th April 2015' as start date and
+  has '24th April 2015' as end date and
+  has 'http://spie.org/conferences-and-exhibitions/past-events/past-conferences-and-exhibitions/past-events/defense-security-and-sensing/defense-security-and-sensing-2015' as url and
+  is part of the event series 'SPIE DSS' and
+  corresponds to the date 'Apr-2015'.
+
+there is an event named 'SPIE DSS 2016' that
+  has 'International Society for Optics and Photonics - Defense, Security and Sensing, 2016' as full name and
+  occurs at the place 'Baltimore Convention Center, Maryland' and
+  has '17th April 2016' as start date and
+  has '21st April 2016' as end date and
+  has 'https://spie.org/conferences-and-exhibitions/defense--commercial-sensing' as url and
+  is part of the event series 'SPIE DSS' and
+  corresponds to the date 'Apr-2016'.
+
+there is an event named 'SPIE ESD 2008' that
+  has 'International Society for Optics and Photonics - Europe Security and Defense, 2008' as full name and
+  occurs at the place 'University of Wales Institute, Wales' and
+  has '15th September 2008' as start date and
+  has '18th September 2008' as end date and
+  has 'https://spie.org/conferences-and-exhibitions/past-events/past-conferences-and-exhibitions/past-events/security---defence/security-defence-2008' as url and
+  is part of the event series 'SPIE ESD' and
+  corresponds to the date 'Sep-2008'.
+
+there is an event named 'SPIE ESD 2009' that
+  has 'International Society for Optics and Photonics - Europe Security and Defense, 2009' as full name and
+  occurs at the place 'Berliner Congress Centre, Berlin' and
+  has '31st August 2009' as start date and
+  has '3rd September 2009' as end date and
+  has 'https://spie.org/conferences-and-exhibitions/past-events/past-conferences-and-exhibitions/past-events/security---defence/security-defence-2009' as url and
+  is part of the event series 'SPIE ESD' and
+  corresponds to the date 'Aug-2009'.
+
+there is an event named 'WCNC 2007' that
+  has 'IEEE Wireless Communications and Networking Conference (WCNC), 2007' as full name and
+  occurs at the place 'Hong Kong, China' and
+  has '11th March 2007' as start date and
+  has '15th March 2007' as end date and
+  has 'http://wcnc2007.ieee-wcnc.org/' as url and
+  is part of the event series 'WCNC' and
+  corresponds to the date 'Mar-2007'.
+
+there is an event named 'WCNC 2008' that
+  has 'IEEE Wireless Communications and Networking Conference (WCNC), 2008' as full name and
+  occurs at the place 'Las Vegas, Nevada' and
+  has '31st March 2008' as start date and
+  has '3rd April 2008' as end date and
+  has 'http://wcnc2008.ieee-wcnc.org/' as url and
+  is part of the event series 'WCNC' and
+  corresponds to the date 'Mar-2008'.
+
+there is an event named 'WCNC 2010' that
+  has 'IEEE Wireless Communications and Networking Conference (WCNC), 2010' as full name and
+  occurs at the place 'Sydney, Australia' and
+  has '18th April 2010' as start date and
+  has '21st April 2010' as end date and
+  has 'http://wcnc2010.ieee-wcnc.org/' as url and
+  is part of the event series 'WCNC' and
+  corresponds to the date 'Apr-2010'.
+
+there is an event named 'WCNC 2016' that
+  has 'IEEE Wireless Communications and Networking Conference (WCNC), 2016' as full name and
+  occurs at the place 'Doha, Qatar' and
+  has '3rd April 2016' as start date and
+  has '6th April 2016' as end date and
+  has 'http://wcnc2016.ieee-wcnc.org/' as url and
+  is part of the event series 'WCNC' and
+  corresponds to the date 'Apr-2016'.

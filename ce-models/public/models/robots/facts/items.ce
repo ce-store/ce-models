@@ -1,0 +1,152 @@
+-- --------------------------------------------------------------------------
+-- (C) Copyright IBM Corporation  2011, 2016
+-- All Rights Reserved
+-- --------------------------------------------------------------------------
+
+there is an item named 'Eddie' that
+  is expressed by 'you' and
+  is expressed by 'your' and
+  has 'My name is Eddie. Pleased to meet you' as description.
+
+there is an item named 'ask' that
+  is expressed by 'answer'.
+
+there is an item named 'do'.
+
+there is an item named 'think' that
+  is expressed by 'reason'.
+
+there is an item named 'mean' that
+  is expressed by 'meaning' and
+  is expressed by 'stand for' and
+  is expressed by 'definition' and
+  is expressed by 'dictionary'.
+  
+there is an item named 'Eddie' that
+  is expressed by 'you'.
+
+there is an item named 'next step' that
+  is expressed by 'next' and
+  is expressed by 'next stage' and
+  is expressed by 'in plan' and
+  is expressed by 'on the horizon' and
+  is expressed by 'future'.
+
+there is an item named 'robot' that
+  has 'A machine that is capable of carrying out a complex series of actions automatically. I am a social robot; which means I can communicate with humans or other robots.' as description.
+
+there is an item named 'social robot' that
+  has 'I am a social robot! I can communicate with humans or other robots' as description.
+
+there is an item named 'smart robot' that
+  has 'A smart robot is an artificial intelligence system that can learn from its environment and its experience and build on its capabilities based on that knowledge' as description.
+
+there is an item named 'IBM Watson' that
+  has 'Well I am Watson, so you are asking the right robot. IBM Watson is a technology platform that uses natural language processing and machine learning to reveal insights from large amounts of unstructured data' as description.
+
+there is an item named 'AI' that
+  is expressed by 'artificial intelligence' and
+  has 'AI stands for artificial intelligence and can be defined as the science of making computers do things that require intelligence when done by humans' as description.
+  
+there is an item named 'chat bot' that
+  is expressed by 'chatbot' and
+  has 'You are chatting to one right now! I am programmed using Watson conversation, a service designed to simulate an intelligent conversation with one or more human users through audio' as description.
+  
+there is an item named 'machine learning' that
+  has 'Machine learning is a type of artificial intelligence that provides computers with the ability to learn without being explicitly programmed' as description.
+  
+there is an item named 'IoT' that
+  is expressed by 'internet of things' and
+  has 'IoT stands for the internet of things. It is the network of physical devices, vehicles and buildings, embedded with electronics, software and sensors, and network connectivity that enable these objects to collect and exchange data' as description.
+  
+there is an item named 'machine-learning' that
+  is expressed by 'machine learning' and
+  has 'Machine learning is a type of artificial intelligence that provides computers with the ability to learn without being explicitly programmed' as description.
+  
+there is an item named 'weak AI' that
+  has 'I am an example of weak AI ,This means I just give the impression that I am intelligence. Strong AI is a conscious machine that can successfully perform any intellectual task that a human could perform' as description.
+
+there is an item named 'deep learning' that
+  has 'Deep learning is a branch of machine learning based on a set of algorithms that are used to model high-level abstractions. The end goal is to get computers that think and learn like humans' as description.
+
+there is an item named 'cloud robotics' that
+  has 'Cloud robotics is an emerging field of robotics rooted in cloud computing, cloud storage, and other Internet technologies centered around the benefits of converged infrastructure and shared services. It allows robots to benefit from the powerful computational, storage, and communications resources of modern data centers' as description.
+
+there is an item named 'AGI' that
+  has 'AGI stands for Artificial general intelligence. is the level of intelligence of a machine that could successfully perform any intellectual task that a human being can. It is a primary goal of artificial intelligence' as description.
+
+there is an item named 'ASI' that
+  has 'ASI stands for artificial super intelligence. It a hypothetical level of intelligence. far surpassing that of the brightest and most gifted human minds' as description.
+
+there is an item named 'NAI' that
+  has 'NAI stands for narrow artificial intelligence, It is also known as weak AI. It is an AI that is focus on performing one single, narrow task' as description.
+
+there is an item named 'sentient robot' that
+  has 'sentient robots are robots with consciousness, also known as strong AI' as description.
+
+there is an item named 'roboethics' that
+  has 'Roboethics is a short expression for ethics of robotics, that is how humans design, construct, use and treat robots and AI' as description.
+
+there is an item named 'machine ethics' that
+  has 'Is the ethics of artificial intelligence concerned with the moral behavior of artificially intelligent beings. Such as the three laws of robotics' as description.
+
+there is an item named 'medical robot' that
+  has 'Medical robots are applied to medical sciences, such as surgical robots which allow remote surgery where a human surgeon is not physically present' as description.
+
+there is an item named 'cyborg' that
+  has 'A cyborg (short for "cybernetic organism") is a being with both organic and biomechatronic body parts' as description.
+
+there is an item named 'humanoid' that
+  has 'A humanoid robot is a robot that is based on the general structure of a human, such as a robot that walks on two legs and has an upper torso, head and arms. It is often created so that it can relate to humans more easily' as description.
+
+there is an item named 'android' that
+  has 'An android is a robot or synthetic organism designed to look and act like a human, especially one with a body having a flesh-like resemblance' as description.
+
+there is an item named 'robot wars' that
+  has 'A game show where competitors build and compete their robots to the death' as description.
+
+there is an item named 'robotics' that
+  has 'Robotics is the study of robots. It deals with the design, construction and computer systems used in robots' as description.
+
+there is an item named 'air muscle' that
+  has 'You can see my neck is built up of air muscles making my head move. It operates through pressurised air filling a pneumatic bladder' as description.
+
+there is an item named 'HAL' that
+  has 'HAL stands for heuristically programmed algorithmic and is a sentient computer appearing in the film A Space Odyssey. The name HAL is made from IBM, but shifted by one letter' as description.
+
+there is an item named 'favorite' that
+  is expressed by 'favourite'.
+
+there is an item named 'compete' that
+  is expressed by 'competing'.
+
+there is an item named 'charge' that
+  is expressed by 'charging'.
+
+there is an item named 'x' that
+  has '' as description.
+
+there is an item named 'x' that
+  has '' as description.
+
+there is an item named 'x' that
+  has '' as description.
+
+there is an item named 'x' that
+  has '' as description.
+
+there is an item named 'x' that
+  has '' as description.
+
+there is an item named 'x' that
+  has '' as description.
+
+there is an item named 'x' that
+  has '' as description.
+
+there is an item named 'x' that
+  has '' as description.
+
+there is an item named 'x' that
+  has '' as description.
+

@@ -1,0 +1,35 @@
+-- --------------------------------------------------------------------------
+-- (C) Copyright IBM Corporation  2011, 2016
+-- All Rights Reserved
+-- --------------------------------------------------------------------------
+
+there is a potential score named 'double figures' that
+  has '>9' as run count.
+
+there is a potential score named 'century' that
+  has '>99' as run count and
+  has 'centuries' as plural form and
+  is expressed by 'ton'.
+
+there is a potential score named 'run' that
+  has '1' as run count.
+
+there is a potential score named 'duck' that
+  has '0' as run count.
+
+there is a potential score named 'wicket' that
+  has '1' as batsman count.
+
+there is a potential score named 'catch' that
+  has '1' as batsman count and
+  has 'catches' as plural form.
+
+there is a potential score named 'run out' that
+  has '1' as batsman count.
+
+there is a potential score named 'dismissal' that
+  has '1' as batsman count and
+  is expressed by 'dismissed'.
+
+there is a potential score named '10-for'.
+

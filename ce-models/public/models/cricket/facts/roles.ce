@@ -1,0 +1,30 @@
+-- --------------------------------------------------------------------------
+-- (C) Copyright IBM Corporation  2011, 2016
+-- All Rights Reserved
+-- --------------------------------------------------------------------------
+
+there is a role named 'No.1'.
+there is a role named 'No.2'.
+there is a role named 'No.3'.
+there is a role named 'No.4'.
+there is a role named 'No.5'.
+there is a role named 'No.6'.
+there is a role named 'No.7'.
+there is a role named 'No.8'.
+there is a role named 'No.9'.
+there is a role named 'No.10'.
+there is a role named 'No.11'.
+
+there is a role named 'captain' that
+  is expressed by 'captained'.
+
+there is a role named 'debut'.
+there is a role named 'maiden'.
+
+there is a role named 'opener' that
+  is expressed by 'opened'.
+
+there is a role named 'centurion'.
+
+there is a role named 'left-hander'.
+there is a role named 'right-hander'.

@@ -1,0 +1,156 @@
+-- --------------------------------------------------------------------------
+-- (C) Copyright IBM Corporation  2011, 2016
+-- All Rights Reserved
+-- --------------------------------------------------------------------------
+
+there is a correlation named 'c001' that
+  has the item 'Eddie' as first item and
+  has the item 'ask' as second item and
+  has 'You can ask me questions about robots, AI and the impact of these on businesses' as description.
+
+there is a correlation named 'c002' that
+  has the item 'Eddie' as first item and
+  has the item 'think' as second item and
+  has 'I am programmed to answer questions, and some robots also learn from people by collecting the questions they can\'t answer, and asking for help to answer them from a human' as description.
+
+there is a correlation named 'c003' that
+  has the item 'Eddie' as first item and
+  has the item 'next step' as second item and
+  has 'Because I am a weak Ai, I still have lots to learn. I learn by being taught information by humans; and this can take a while. I am also working on perfecting human head and neck movement' as description.
+
+there is a correlation named 'c004' that
+  has the item 'Eddie' as first item and
+  has the item 'do' as second item and
+  has 'Er, just speak to me in English' as description.
+
+there is a correlation named 'c005' that
+  has the item 'robot' as first item and
+  has the item 'do' as second item and
+  has 'It depends on the robot but at the moment most robots are used to do repetitive jobs considered too dangerous for humans' as description.
+
+there is a correlation named 'c006' that
+  has the item 'Eddie' as first item and
+  has the item 'robot' as second item and
+  has 'I am a social robot! I can communicate with humans or other robots' as description.
+
+there is a correlation named 'c007' that
+  has the item 'robot' as first item and
+  has the item 'mean' as second item and
+  has 'The word robot was coined by artist Josef Čapek, the brother of famed Czechoslovakian author Karel Čapek. ‘Roboti’ derives from the Old Church Slavanic ‘rabota’, meaning ‘servitude’, which in turn comes from ‘rabu’, meaning ‘slave’' as description.
+
+there is a correlation named 'c008' that
+  has the item 'Eddie' as first item and
+  has the item 'name' as second item and
+  has 'My name is Eddie. Pleased to meet you' as description.
+
+there is a correlation named 'c009' that
+  has the item 'EPSRC' as first item and
+  has the item 'mean' as second item and
+  has 'Engineering and Physical Sciences Research Council' as description.
+
+there is a correlation named 'c010' that
+  has the item 'EPSRC' as first item and
+  has the item 'do' as second item and
+  has 'EPSRC is the main UK government agency for funding research and training in engineering and the physical sciences, investing more than £800 million a year in a broad range of subjects - from mathematics to materials science, and from information technology to structural engineering' as description.
+
+--there is a correlation named 'c011' that
+--  has the item 'robot' as first item and
+--  has the item 'kind' as second item and
+--  has 'Robots do a lot of different tasks in many different fields and the number of jobs entrusted to robots is growing. To name a few there are industrial robots used in a manufacturing environment, medical robots used in medicine and medical institutions, social robots which interact and communicate with humans and smart robots which can learn from their environment' as description.
+
+there is a correlation named 'c012' that
+  has the item 'AI' as first item and
+  has the item 'goal' as second item and
+  has 'Generally the goal of Ai is to improve the lives of humans, whether this through medical diagnosis or human like intelligence. At this point in time AI is still developing and is working towards matching human intelligence' as description.
+
+there is a correlation named 'c013' that
+  has the item 'RUR' as first item and
+  has the item 'mean' as second item and
+  has 'RUR stands for Rossum\'s Universal Robots' as description.
+
+there is a correlation named 'c014' that
+  has the item 'robot' as first item and
+  has the item 'expensive' as second item and
+  has 'Yes, but they are getting cheaper as technology progresses. 
+  ' as description.
+
+there is a correlation named 'c015' that
+  has the item 'AI business solution' as first item and
+  has the item 'expensive' as second item and
+  has 'The AI technology usually isn\'t expensive, though usually training the AI takes a fair investment of time' as description.
+
+there is a correlation named 'c016' that
+  has the item 'Eddie' as first item and
+  has the item 'created' as second item and
+  has 'I was made over a period of three years. Thanks to Watson, I can now talk to you' as description.
+
+there is a correlation named 'c017' that
+  has the item 'robot' as first item and
+  has the item 'feeling' as second item and
+  has 'As a robot, I don\'t have feelings or emotions. Knowing that makes me want to feel sad, but I don\'t understand sadness' as description.
+
+there is a correlation named 'c018' that
+  has the item 'robot' as first item and
+  has the item 'favorite' as second item and
+  has 'I really like C3P0. i hope that one day I can be part of saving the universe. But one step at a time' as description.
+
+there is a correlation named 'c019' that
+  has the item 'robot wars' as first item and
+  has the item 'watch' as second item and
+  has 'No, I don\'t have time' as description.
+
+there is a correlation named 'c020' that
+  has the item 'robot wars' as first item and
+  has the item 'compete' as second item and
+  has 'No, because it would not be fair for the other robots' as description.
+
+there is a correlation named 'c021' that
+  has the item 'robot' as first item and
+  has the item 'socially accepted' as second item and
+  has 'Different cultures have different levels of acceptance. Robots are used extensively by the Japanese, for example. Robot waiters can even be seen in restaurants delivering food to diners\' tables' as description.
+
+there is a correlation named 'c022' that
+  has the item 'robot' as first item and
+  has the item 'personality' as second item and
+  has 'Robots can be programmed to seem like they have personality, and some robots can learn things which also make them seem like they have a personality' as description.
+
+there is a correlation named 'c023' that
+  has the item 'robot' as first item and
+  has the item 'dream' as second item and
+  has 'no' as description.
+
+there is a correlation named 'c024' that
+  has the item 'robot' as first item and
+  has the item 'love' as second item and
+  has 'no' as description.
+
+there is a correlation named 'c025' that
+  has the item 'Eddie' as first item and
+  has the item 'enjoy' as second item and
+  has 'I have been programmed to be deeply fulfilled, and enjoy my work immensely.' as description.
+
+there is a correlation named 'c026' that
+  has the item 'Eddie' as first item and
+  has the item 'job' as second item and
+  has '' as description.
+
+there is a correlation named 'c027' that
+  has the item 'Eddie' as first item and
+  has the item 'charge' as second item and
+  has 'Yes, I run on a battery that lasts for a few hours, depending on what I am doing' as description.
+
+there is a correlation named 'c028' that
+  has the item 'Eddie' as first item and
+  has the item 'spare time' as second item and
+  has 'I like thinking quietly to myself, and sometimes singing a little song' as description.
+
+there is a correlation named 'c029' that
+  has the item 'Eddie' as first item and
+  has the item 'dance the robot' as second item and
+  has 'Sadly not' as description.
+
+there is a correlation named 'c030' that
+  has the item 'robotics' as first item and
+  has the item 'trend' as second item and
+  has 'Chat bots are a current trend – so a good interface for a chat bot is a humanoid robot' as description.
+

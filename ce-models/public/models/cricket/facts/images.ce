@@ -1,0 +1,64 @@
+-- --------------------------------------------------------------------------
+-- (C) Copyright IBM Corporation  2011, 2016
+-- All Rights Reserved
+-- --------------------------------------------------------------------------
+
+the image 'KO_img'
+  has 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/OCS_Stand_%28Surrey_v_Yorkshire_in_foreground%29.JPG/800px-OCS_Stand_%28Surrey_v_Yorkshire_in_foreground%29.JPG' as url and
+  has 'commons.wikimedia.org' as credit.
+
+the image 'RB_img'
+  has 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Pavilion_stands.JPG/800px-Pavilion_stands.JPG' as url and
+  has 'commons.wikimedia.org' as credit.
+
+the image 'Lords_img'
+  has 'https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Lord%27s_Cricket_Ground_Grand_Stand.jpg/800px-Lord%27s_Cricket_Ground_Grand_Stand.jpg' as url and
+  has 'commons.wikimedia.org' as credit.
+
+the image 'TB_img'
+  has 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Trent_Bridge_MMB_01_England_vs_New_Zealand.jpg/800px-Trent_Bridge_MMB_01_England_vs_New_Zealand.jpg' as url and
+  has 'commons.wikimedia.org' as credit.
+
+the image 'Gabba_img'
+  has 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Australia_vs_South_Africa.jpg/800px-Australia_vs_South_Africa.jpg' as url and
+  has 'commons.wikimedia.org' as credit.
+
+the image 'WACA_img'
+  has 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/WACA_north.JPG/800px-WACA_north.JPG' as url and
+  has 'commons.wikimedia.org' as credit.
+
+the image 'MCG_img'
+  has 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/AFL_Grand_Final_2010_on_the_Melbourne_Cricket_Ground.jpg/800px-AFL_Grand_Final_2010_on_the_Melbourne_Cricket_Ground.jpg' as url and
+  has 'commons.wikimedia.org' as credit.
+
+the image 'OT_img'
+  has 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Lancashire_county_cricket_club_entrance.jpg/800px-Lancashire_county_cricket_club_entrance.jpg' as url and
+  has 'commons.wikimedia.org' as credit.
+
+the image 'Headingley_img'
+  has 'https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Headingley_Cricket_Stadium.jpg/800px-Headingley_Cricket_Stadium.jpg' as url and
+  has 'commons.wikimedia.org' as credit.
+
+the image 'Adelaide_img'
+  has 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/AdelOval07.jpg/800px-AdelOval07.jpg' as url and
+  has 'commons.wikimedia.org' as credit.
+
+the image 'RB_logo'
+  has 'https://upload.wikimedia.org/wikipedia/en/5/5d/The_Ageas_Bowl_logo.svg' as url and
+  has 'wikipedia.org' as credit.
+
+the image 'Gabba_logo'
+  has 'https://upload.wikimedia.org/wikipedia/en/7/74/The_Gabba_logo.svg' as url and
+  has 'wikipedia.org' as credit.
+
+the image 'MCG_logo'
+  has 'https://upload.wikimedia.org/wikipedia/en/7/77/Melbourne_Cricket_Ground_logo.png' as url and
+  has 'wikipedia.org' as credit.
+
+the image 'OT_logo'
+  has 'https://upload.wikimedia.org/wikipedia/en/0/01/Old_Trafford_Cricket_Ground_logo.svg' as url and
+  has 'wikipedia.org' as credit.
+
+the image 'Adelaide_logo'
+  has 'https://upload.wikimedia.org/wikipedia/en/4/48/Adelaide_Oval_Logo.svg' as url and
+  has 'wikipedia.org' as credit.

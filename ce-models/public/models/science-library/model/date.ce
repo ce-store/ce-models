@@ -1,0 +1,11 @@
+-- --------------------------------------------------------------------------
+-- (C) Copyright IBM Corporation 2016
+-- All Rights Reserved
+-- --------------------------------------------------------------------------
+
+conceptualise a ~ date ~ D that
+  has the value YE as ~ year ~ and
+  has the value MO as ~ month ~ and
+  has the value DA as ~ day ~.
+
+conceptualise a ~ year ~ Y.

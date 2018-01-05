@@ -1,0 +1,19 @@
+-- --------------------------------------------------------------------------
+-- (C) Copyright IBM Corporation  2011, 2016
+-- All Rights Reserved
+-- --------------------------------------------------------------------------
+
+-- Because this command file is part of the model directory service
+-- the 'core' Hudson models and facts are automatically loaded prior
+-- to this CE being processed and do not need to be specified here
+
+-- Load the robots model
+perform load sentences from url './models/robots/model/robot_model.ce'.
+
+-- Load the robot facts
+perform load sentences from url './models/robots/facts/linguistics.ce'.
+--perform load sentences from url './models/robots/facts/acronym_terms.ce'.
+--perform load sentences from url './models/robots/facts/glossary_terms.ce'.
+perform load sentences from url './models/robots/facts/people.ce'.
+perform load sentences from url './models/robots/facts/items.ce'.
+perform load sentences from url './models/robots/facts/correlations.ce'.

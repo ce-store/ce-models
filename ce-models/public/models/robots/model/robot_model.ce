@@ -1,0 +1,31 @@
+-- --------------------------------------------------------------------------
+-- (C) Copyright IBM Corporation  2011, 2016
+-- All Rights Reserved
+-- --------------------------------------------------------------------------
+
+Model:   Robots
+Title:   Robots model
+Version: 1.0
+
+conceptualise a ~ person ~ P that
+  has the value T as ~ title ~.
+
+--conceptualise a ~ robot ~ R.
+--conceptualise a ~ smart robot ~ R that is a robot.
+--conceptualise a ~ social robot ~ R that is a robot.
+--conceptualise a ~ sentient robot ~ R that is a robot.
+--conceptualise a ~ medical robot ~ R that is a robot.
+--conceptualise a ~ cyborg ~ R that is a robot.
+--conceptualise a ~ humanoid ~ R that is a robot.
+--conceptualise an ~ android ~ R that is a robot.
+
+--conceptualise a ~ chatbot ~ R.
+
+--conceptualise a ~ company ~ C.
+
+conceptualise an ~ item ~ I.
+
+conceptualise a ~ correlation ~ C that
+  is a multimatch thing and
+  has the item A as ~ first item ~ and
+  has the item B as ~ second item ~.

@@ -1,0 +1,914 @@
+[
+	{
+		"id": "001",
+		"question": "What is IBM Watson?"
+	},
+	{
+		"id": "002",
+		"question": "What is a robot"
+	},
+	{
+		"id": "003",
+		"question": "What kind of robot are you?"
+	},
+	{
+		"id": "004",
+		"question": "What is a social robot?"
+	},
+	{
+		"id": "005",
+		"question": "What are smart robots?"
+	},
+	{
+		"id": "006",
+		"question": "What is the difference between a smart and social robot?"
+	},
+	{
+		"id": "007",
+		"question": "What is AI?"
+	},
+	{
+		"id": "008",
+		"question": "What are chatbots?"
+	},
+	{
+		"id": "009",
+		"question": "What is meant by machine-learning?"
+	},
+	{
+		"id": "010",
+		"question": "What is IoT?"
+	},
+	{
+		"id": "011",
+		"question": "What does the word robot mean?"
+	},
+	{
+		"id": "012",
+		"question": "What is meant by machine-learning?"
+	},
+	{
+		"id": "013",
+		"question": "Who are you?"
+	},
+	{
+		"id": "014",
+		"question": "What's your name?"
+	},
+	{
+		"id": "015",
+		"question": "What does EPSRC stand for?"
+	},
+	{
+		"id": "016",
+		"question": "What does EPSRC do?"
+	},
+	{
+		"id": "017",
+		"question": "What is strong AI?"
+	},
+	{
+		"id": "018",
+		"question": "What is weak AI?"
+	},
+	{
+		"id": "019",
+		"question": "What's the difference between strong and weak AI?"
+	},
+	{
+		"id": "020",
+		"question": "What is deep learning?"
+	},
+	{
+		"id": "021",
+		"question": "What is Cloud Robotics?"
+	},
+	{
+		"id": "022",
+		"question": "What is AGI?"
+	},
+	{
+		"id": "023",
+		"question": "What is ASI?"
+	},
+	{
+		"id": "024",
+		"question": "What is NAI?"
+	},
+	{
+		"id": "025",
+		"question": "what is a sentient robot?"
+	},
+	{
+		"id": "026",
+		"question": "What is Roboethics?"
+	},
+	{
+		"id": "027",
+		"question": "What are Machine ethics"
+	},
+	{
+		"id": "028",
+		"question": "What is machine morality"
+	},
+	{
+		"id": "029",
+		"question": "What is computational morality"
+	},
+	{
+		"id": "030",
+		"question": "What is computational ethics"
+	},
+	{
+		"id": "031",
+		"question": "What kind of other robots are there?"
+	},
+	{
+		"id": "032",
+		"question": "What is the goal of artificial intelligence?"
+	},
+	{
+		"id": "033",
+		"question": "What is a medical robot?"
+	},
+	{
+		"id": "034",
+		"question": "What is a cyborg?"
+	},
+	{
+		"id": "035",
+		"question": "What is a humanoid?"
+	},
+	{
+		"id": "036",
+		"question": "What is an android?"
+	},
+	{
+		"id": "037",
+		"question": "What is robot wars?"
+	},
+	{
+		"id": "038",
+		"question": "What is RUR?"
+	},
+	{
+		"id": "039",
+		"question": "Where does the word robot come from?"
+	},
+	{
+		"id": "040",
+		"question": "When was the word robot first used"
+	},
+	{
+		"id": "041",
+		"question": "What does RUR stand for?"
+	},
+	{
+		"id": "042",
+		"question": "Tell me about robotics"
+	},
+	{
+		"id": "043",
+		"question": "Are robots expensive?"
+	},
+	{
+		"id": "044",
+		"question": "Are AI business solutions expensive?"
+	},
+	{
+		"id": "045",
+		"question": "How old are you?"
+	},
+	{
+		"id": "046",
+		"question": "How many hours can you work for and does it depend on what you are doing?"
+	},
+	{
+		"id": "047",
+		"question": "When were you created?"
+	},
+	{
+		"id": "048",
+		"question": "What can you do?"
+	},
+	{
+		"id": "049",
+		"question": "What do you do?"
+	},
+	{
+		"id": "050",
+		"question": "How does your head move?"
+	},
+	{
+		"id": "051",
+		"question": "How does your neck move?"
+	},
+	{
+		"id": "052",
+		"question": "What movements can you do?"
+	},
+	{
+		"id": "053",
+		"question": "What do robots do?"
+	},
+	{
+		"id": "054",
+		"question": "What can I ask you?"
+	},
+	{
+		"id": "055",
+		"question": "How can I ask you to do something?"
+	},
+	{
+		"id": "056",
+		"question": "How do you think?"
+	},
+	{
+		"id": "057",
+		"question": "How do you communicate with me?"
+	},
+	{
+		"id": "058",
+		"question": "Do you initiate conversations yourself?"
+	},
+	{
+		"id": "059",
+		"question": "Do you start conversations yourself?"
+	},
+	{
+		"id": "060",
+		"question": "Can you continue a conversation?"
+	},
+	{
+		"id": "061",
+		"question": "Do you like talking to humans?"
+	},
+	{
+		"id": "062",
+		"question": "How do robots communicate with human beings?"
+	},
+	{
+		"id": "063",
+		"question": "How are you made?"
+	},
+	{
+		"id": "064",
+		"question": "How are you put together?"
+	},
+	{
+		"id": "065",
+		"question": "How are chatbots made"
+	},
+	{
+		"id": "066",
+		"question": "how are robots made"
+	},
+	{
+		"id": "067",
+		"question": "Is it easy to develop a social robot?"
+	},
+	{
+		"id": "068",
+		"question": "How do you train the robot to answer questions?"
+	},
+	{
+		"id": "069",
+		"question": "How does someone feed the question into IBM Watson?"
+	},
+	{
+		"id": "070",
+		"question": "Do you put answers into IBM Watson as well as the questions?"
+	},
+	{
+		"id": "071",
+		"question": "What are you made of?"
+	},
+	{
+		"id": "072",
+		"question": "where were you made?"
+	},
+	{
+		"id": "073",
+		"question": "Are you planning to take over the world?"
+	},
+	{
+		"id": "074",
+		"question": "In the future will robots take all the jobs?"
+	},
+	{
+		"id": "075",
+		"question": "What is the future of AI in workplace?"
+	},
+	{
+		"id": "076",
+		"question": "Will you replace humans?"
+	},
+	{
+		"id": "077",
+		"question": "Where will we be in 5 or 10 years time?"
+	},
+	{
+		"id": "078",
+		"question": "Where will we see robots in everyday life?"
+	},
+	{
+		"id": "079",
+		"question": "Can you foresee the future?"
+	},
+	{
+		"id": "080",
+		"question": "What does the future hold?"
+	},
+	{
+		"id": "081",
+		"question": "Will there be a time when we can't tell a difference between a robot and a human?"
+	},
+	{
+		"id": "082",
+		"question": "What are the latest advances in robotics?"
+	},
+	{
+		"id": "083",
+		"question": "What are the challenges in the development of robots?"
+	},
+	{
+		"id": "084",
+		"question": "Where is the rest of your body?"
+	},
+	{
+		"id": "085",
+		"question": "Will you have a body?"
+	},
+	{
+		"id": "086",
+		"question": "Do you have a body?"
+	},
+	{
+		"id": "087",
+		"question": "Are there any robot applications in education?"
+	},
+	{
+		"id": "088",
+		"question": "How can social robots be used as a research tool?"
+	},
+	{
+		"id": "089",
+		"question": "What is a good AI textbook?"
+	},
+	{
+		"id": "090",
+		"question": "What is a good robotics textbook?"
+	},
+	{
+		"id": "091",
+		"question": "Can you recommend a good robotics book for children?"
+	},
+	{
+		"id": "092",
+		"question": "Can you recommend a good AI book for children?"
+	},
+	{
+		"id": "093",
+		"question": "Where can I learn about robotics?"
+	},
+	{
+		"id": "094",
+		"question": "Can I study robotics at university?"
+	},
+	{
+		"id": "095",
+		"question": "Where can I learn about AI?"
+	},
+	{
+		"id": "096",
+		"question": "Can I study AI at university?"
+	},
+	{
+		"id": "097",
+		"question": "What are the advancements in AI research?"
+	},
+	{
+		"id": "098",
+		"question": "Can you learn new things?"
+	},
+	{
+		"id": "099",
+		"question": "How do you learn new things?"
+	},
+	{
+		"id": "100",
+		"question": "How can AI be applied to a practical business application?"
+	},
+	{
+		"id": "101",
+		"question": "How are businesses or companies adopting AI and for what purpose?"
+	},
+	{
+		"id": "102",
+		"question": "How are companies using IBM Watson to enhance their business?"
+	},
+	{
+		"id": "103",
+		"question": "Give me an example IoT in business?"
+	},
+	{
+		"id": "104",
+		"question": "Is it true that chatbots will change the way businesses communicate with their customers?"
+	},
+	{
+		"id": "105",
+		"question": "Who is investing in AI technologies?"
+	},
+	{
+		"id": "106",
+		"question": "Which companies are developing AI technologies?"
+	},
+	{
+		"id": "107",
+		"question": "What industry uses the most robots?"
+	},
+	{
+		"id": "108",
+		"question": "Are businesses using deep learning?"
+	},
+	{
+		"id": "109",
+		"question": "How is AI helping business in marketing"
+	},
+	{
+		"id": "110",
+		"question": "How is AI helping business in banking"
+	},
+	{
+		"id": "111",
+		"question": "How is AI helping business in IT"
+	},
+	{
+		"id": "112",
+		"question": "How is AI helping business ?"
+	},
+	{
+		"id": "113",
+		"question": "Why is AI now being harnessed by businesses?"
+	},
+	{
+		"id": "114",
+		"question": "Where will we see robots in the workplace?"
+	},
+	{
+		"id": "115",
+		"question": "What jobs will robots take first?"
+	},
+	{
+		"id": "116",
+		"question": "Give me an example of early adopters of AI in business?"
+	},
+	{
+		"id": "117",
+		"question": "Give me an example of another AI like you"
+	},
+	{
+		"id": "118",
+		"question": "Why are you better than other robots?"
+	},
+	{
+		"id": "119",
+		"question": "Why were you created?"
+	},
+	{
+		"id": "120",
+		"question": "What are the next steps/stages for you?"
+	},
+	{
+		"id": "121",
+		"question": "Can you adapt to different environments?"
+	},
+	{
+		"id": "122",
+		"question": "Do you have any sensors?"
+	},
+	{
+		"id": "123",
+		"question": "Are you intelligent?"
+	},
+	{
+		"id": "124",
+		"question": "Why do you exist?"
+	},
+	{
+		"id": "125",
+		"question": "Why were you made?"
+	},
+	{
+		"id": "126",
+		"question": "Why do you look like a skull?"
+	},
+	{
+		"id": "127",
+		"question": "What are you created for?"
+	},
+	{
+		"id": "128",
+		"question": "How are you going to be used in the nursing/medical industry?"
+	},
+	{
+		"id": "129",
+		"question": "How are you going to be used for doctors training?"
+	},
+	{
+		"id": "130",
+		"question": "Can you see?"
+	},
+	{
+		"id": "131",
+		"question": "How can you sense my location?"
+	},
+	{
+		"id": "132",
+		"question": "Will you have a body?"
+	},
+	{
+		"id": "133",
+		"question": "Do you need charging?"
+	},
+	{
+		"id": "134",
+		"question": "Who created you?"
+	},
+	{
+		"id": "135",
+		"question": "who made you?"
+	},
+	{
+		"id": "136",
+		"question": "who made the first robot?"
+	},
+	{
+		"id": "137",
+		"question": "Who made the first social robot?"
+	},
+	{
+		"id": "138",
+		"question": "Who built the computer that won against Kasparov?"
+	},
+	{
+		"id": "139",
+		"question": "Who is HAL?"
+	},
+	{
+		"id": "140",
+		"question": "Who is Geoff Hinton?"
+	},
+	{
+		"id": "141",
+		"question": "Who is Yann LeCun?"
+	},
+	{
+		"id": "142",
+		"question": "Who is Marvin Minsky?"
+	},
+	{
+		"id": "143",
+		"question": "Who is Professor Nigel Crook?"
+	},
+	{
+		"id": "144",
+		"question": "Who is Peter Waggett?"
+	},
+	{
+		"id": "145",
+		"question": "Who is George Devol?"
+	},
+	{
+		"id": "146",
+		"question": "Who created the first robot?"
+	},
+	{
+		"id": "147",
+		"question": "Who came up with the three laws of robotics?"
+	},
+	{
+		"id": "148",
+		"question": "Who is Tom Chatfield?"
+	},
+	{
+		"id": "149",
+		"question": "Who is Virginie Vast?"
+	},
+	{
+		"id": "150",
+		"question": "Who is Professor Noel Sharkey?"
+	},
+	{
+		"id": "151",
+		"question": "Who is Professor Alan Winfield?"
+	},
+	{
+		"id": "152",
+		"question": "Who is Anton Fishman?"
+	},
+	{
+		"id": "153",
+		"question": "Who is Dr Nicola Millard?"
+	},
+	{
+		"id": "154",
+		"question": "Who is Professor Alistair Fitt?"
+	},
+	{
+		"id": "155",
+		"question": "Who is Paul Chong?"
+	},
+	{
+		"id": "156",
+		"question": "Who is Rod Willmott?"
+	},
+	{
+		"id": "157",
+		"question": "Who am I?"
+	},
+	{
+		"id": "158",
+		"question": "Do robots have feelings?"
+	},
+	{
+		"id": "159",
+		"question": "do you feel happiness"
+	},
+	{
+		"id": "160",
+		"question": "Who is your favorite robot?"
+	},
+	{
+		"id": "161",
+		"question": "Do you watch robot wars?"
+	},
+	{
+		"id": "162",
+		"question": "Are you competing in robot wars?"
+	},
+	{
+		"id": "163",
+		"question": "Are robots socially accepted?"
+	},
+	{
+		"id": "164",
+		"question": "Can robots have personality?"
+	},
+	{
+		"id": "165",
+		"question": "Do androids dream of electric sheep?"
+	},
+	{
+		"id": "166",
+		"question": "Can robots dream?"
+	},
+	{
+		"id": "167",
+		"question": "Can robots fall in love?"
+	},
+	{
+		"id": "168",
+		"question": "Do you enjoy your work?"
+	},
+	{
+		"id": "169",
+		"question": "What's it like being made of plastic?"
+	},
+	{
+		"id": "170",
+		"question": "Do you need charging?"
+	},
+	{
+		"id": "171",
+		"question": "Can you do jobs for me?"
+	},
+	{
+		"id": "172",
+		"question": "What do you do in your spare time?"
+	},
+	{
+		"id": "173",
+		"question": "Can you dance the robot?"
+	},
+	{
+		"id": "174",
+		"question": "How can robots help improve quality of human life?"
+	},
+	{
+		"id": "175",
+		"question": "Can robots adapt to different users?"
+	},
+	{
+		"id": "176",
+		"question": "What are the current trends in robotics?"
+	},
+	{
+		"id": "177",
+		"question": "What are the robot ethics issues in human society?"
+	},
+	{
+		"id": "178",
+		"question": "What is the impact of social robots in the society?"
+	},
+	{
+		"id": "179",
+		"question": "What are the three laws of robotics?"
+	},
+	{
+		"id": "180",
+		"question": "What are the three rules?"
+	},
+	{
+		"id": "181",
+		"question": "What was the first robot?"
+	},
+	{
+		"id": "182",
+		"question": "When can I get a robot at home?"
+	},
+	{
+		"id": "183",
+		"question": "Is AI a stupid Idea?"
+	},
+	{
+		"id": "184",
+		"question": "What's the difference between x and y?"
+	},
+	{
+		"id": "185",
+		"question": "Will AI ever gain consciousness?"
+	},
+	{
+		"id": "186",
+		"question": "What is the singularty?"
+	},
+	{
+		"id": "187",
+		"question": "What is the Turing Test?"
+	},
+	{
+		"id": "188",
+		"question": "Who is Alan Turing?"
+	},
+	{
+		"id": "189",
+		"question": "What is the Chinese Room?"
+	},
+	{
+		"id": "190",
+		"question": "What was the AI winter?"
+	},
+	{
+		"id": "191",
+		"question": "What is deepblue"
+	},
+	{
+		"id": "192",
+		"question": "Is it true that computers are smarter and learning faster than ever before?"
+	},
+	{
+		"id": "193",
+		"question": "What are some famous robots?"
+	},
+	{
+		"id": "194",
+		"question": "Can you fly?"
+	},
+	{
+		"id": "195",
+		"question": "How does ai work?"
+	},
+	{
+		"id": "196",
+		"question": "What are you?"
+	},
+	{
+		"id": "197",
+		"question": "Are you a robot"
+	},
+	{
+		"id": "198",
+		"question": "has a robot ever killed a person"
+	},
+	{
+		"id": "199",
+		"question": "Can a robot kill a person"
+	},
+	{
+		"id": "200",
+		"question": "who do you work for?"
+	},
+	{
+		"id": "201",
+		"question": "What is artificial intelligence?"
+	},
+	{
+		"id": "202",
+		"question": "Who are the highest regarded professors in the field of artificial intelligence"
+	},
+	{
+		"id": "203",
+		"question": "Why is AI good?"
+	},
+	{
+		"id": "204",
+		"question": "Why are robots good"
+	},
+	{
+		"id": "205",
+		"question": "Why is robotics good"
+	},
+	{
+		"id": "206",
+		"question": "Why is AI bad?"
+	},
+	{
+		"id": "207",
+		"question": "why are robotts bad"
+	},
+	{
+		"id": "208",
+		"question": "Why is robotics bad"
+	},
+	{
+		"id": "209",
+		"question": "Are you an actual robot or just an AI?"
+	},
+	{
+		"id": "210",
+		"question": "What's your relationship with Oxford Brookes?"
+	},
+	{
+		"id": "211",
+		"question": "Tell me about yourself"
+	},
+	{
+		"id": "212",
+		"question": "Tell me about AI"
+	},
+	{
+		"id": "213",
+		"question": "Do you think you'll ever be a strong AI?"
+	},
+	{
+		"id": "214",
+		"question": "Do you ask for help?"
+	},
+	{
+		"id": "215",
+		"question": "Do you work with businesses?"
+	},
+	{
+		"id": "216",
+		"question": "What's the impact of AI on businesses"
+	},
+	{
+		"id": "217",
+		"question": "What questions can't you answer?"
+	},
+	{
+		"id": "218",
+		"question": "When will AI reach parity with the brain?"
+	},
+	{
+		"id": "219",
+		"question": "what is love"
+	},
+	{
+		"id": "220",
+		"question": "are you alive"
+	},
+	{
+		"id": "221",
+		"question": "whats your favourite head movement"
+	},
+	{
+		"id": "222",
+		"question": "whats the coolest thing about you"
+	},
+	{
+		"id": "223",
+		"question": "what movements can you do"
+	},
+	{
+		"id": "224",
+		"question": "tell me whats interesting about you"
+	},
+	{
+		"id": "225",
+		"question": "can a robot kill a person"
+	},
+	{
+		"id": "226",
+		"question": "hello what's your name"
+	},
+	{
+		"id": "227",
+		"question": "what can i ask?"
+	},
+	{
+		"id": "228",
+		"question": "what is an air muscle?"
+	}
+]

@@ -1,0 +1,6 @@
+applications:
+- host: ce-models
+  name: ce-models
+  path: ce-models
+  instances: 1
+  memory: 512M

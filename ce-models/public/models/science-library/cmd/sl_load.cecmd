@@ -1,0 +1,76 @@
+-- --------------------------------------------------------------------------
+-- (C) Copyright IBM Corporation 2016
+-- All Rights Reserved
+-- --------------------------------------------------------------------------
+
+--Load the core models
+perform load sentences from url './models/science-library/model/agent.ce'.
+perform load sentences from url './models/science-library/model/author.ce'.
+perform load sentences from url './models/science-library/model/organisation.ce'.
+perform load sentences from url './models/science-library/model/person.ce'.
+perform load sentences from url './models/science-library/model/document.ce'.
+perform load sentences from url './models/science-library/model/programme.ce'.
+perform load sentences from url './models/science-library/model/project.ce'.
+perform load sentences from url './models/science-library/model/statistics.ce'.
+perform load sentences from url './models/science-library/model/location.ce'.
+perform load sentences from url './models/science-library/model/event.ce'.
+perform load sentences from url './models/science-library/model/date.ce'.
+perform load sentences from url './models/science-library/model/citation.ce'.
+perform load sentences from url './models/science-library/model/topic.ce'.
+perform load sentences from url './models/science-library/model/misc.ce'.
+--perform load sentences from url './models/science-library/model/queries/visualisation_queries.ce'.
+--perform load sentences from url './models/science-library/model/queries/consistency_queries.ce'.
+perform load sentences from url './models/science-library/model/linguistic_metamodel.ce'.
+
+--Load the rules
+--perform load sentences from url './models/science-library/model/rules/date.ce'.
+--perform load sentences from url './models/science-library/model/rules/document.ce'.
+--perform load sentences from url './models/science-library/model/rules/event.ce'.
+--perform load sentences from url './models/science-library/model/rules/organisation.ce'.
+--perform load sentences from url './models/science-library/model/rules/person.ce'.
+--perform load sentences from url './models/science-library/model/rules/project.ce'.
+--perform load sentences from url './models/science-library/model/rules/topic.ce'.
+
+-- Load the generated facts
+perform load sentences from url './models/science-library/facts/event_series.ce'.
+perform load sentences from url './models/science-library/facts/events.ce'.
+perform load sentences from url './models/science-library/facts/linguistics.ce'.
+perform load sentences from url './models/science-library/facts/organisations.ce'.
+perform load sentences from url './models/science-library/facts/paper_abstracts.ce'.
+perform load sentences from url './models/science-library/facts/paper_authors.ce'.
+perform load sentences from url './models/science-library/facts/paper_citations.ce'.
+perform load sentences from url './models/science-library/facts/paper_noteworthy.ce'.
+perform load sentences from url './models/science-library/facts/papers.ce'.
+perform load sentences from url './models/science-library/facts/people_citations.ce'.
+perform load sentences from url './models/science-library/facts/people_noteworthy.ce'.
+perform load sentences from url './models/science-library/facts/people.ce'.
+perform load sentences from url './models/science-library/facts/places.ce'.
+perform load sentences from url './models/science-library/facts/programmes.ce'.
+perform load sentences from url './models/science-library/facts/project_plans.ce'.
+perform load sentences from url './models/science-library/facts/projects.ce'.
+perform load sentences from url './models/science-library/facts/technical_areas.ce'.
+perform load sentences from url './models/science-library/facts/topics.ce'.
+perform load sentences from url './models/science-library/facts/dates.ce'.
+perform load sentences from url './models/science-library/facts/countries.ce'.
+perform load sentences from url './models/science-library/facts/messages.ce'.
+
+-- Load the cached data from rules
+perform load sentences from url './models/science-library/facts/Rules_Orgs_1_flush_1.ce'.
+perform load sentences from url './models/science-library/facts/Rules_People_flush_1.ce'.
+perform load sentences from url './models/science-library/facts/Rules_People_flush_2.ce'.
+perform load sentences from url './models/science-library/facts/Rules_People_flush_3.ce'.
+perform load sentences from url './models/science-library/facts/Rules_Projects_flush_1.ce'.
+perform load sentences from url './models/science-library/facts/Rules_Authors_1_flush_1.ce'.
+perform load sentences from url './models/science-library/facts/Rules_Authors_1_flush_2.ce'.
+perform load sentences from url './models/science-library/facts/Rules_Authors_1_flush_3.ce'.
+perform load sentences from url './models/science-library/facts/Rules_Authors_1_flush_4.ce'.
+perform load sentences from url './models/science-library/facts/Rules_Dates_flush_1.ce'.
+perform load sentences from url './models/science-library/facts/Rules_Documents_flush_1.ce'.
+perform load sentences from url './models/science-library/facts/Rules_Authors_2_flush_1.ce'.
+perform load sentences from url './models/science-library/facts/Rules_Events_flush_1.ce'.
+perform load sentences from url './models/science-library/facts/Rules_Topics_flush_1.ce'.
+perform load sentences from url './models/science-library/facts/Rules_Topics_flush_2.ce'.
+perform load sentences from url './models/science-library/facts/Rules_Orgs_2_flush_1.ce'.
+perform load sentences from url './models/science-library/facts/Rules_Orgs_2_flush_2.ce'.
+perform load sentences from url './models/science-library/facts/Rules_Orgs_2_flush_3.ce'.
+perform load sentences from url './models/science-library/facts/computed_all.ce'.

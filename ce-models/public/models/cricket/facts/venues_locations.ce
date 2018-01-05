@@ -1,0 +1,127 @@
+-- --------------------------------------------------------------------------
+-- (C) Copyright IBM Corporation  2011, 2016
+-- All Rights Reserved
+-- --------------------------------------------------------------------------
+
+-- Lat/Lon values were obtained from http://www.mapcoordinates.net/
+
+the venue 'Kennington Oval'
+  has '51.483749' as latitude and
+  has '-0.114743' as longitude.
+
+the venue 'Rose Bowl'
+  has '50.9242732' as latitude and
+  has '-1.3223505' as longitude.
+
+the venue 'Lords'
+  has '51.529831' as latitude and
+  has '-0.1721564' as longitude.
+
+the venue 'Trent Bridge'
+  has '52.9368799' as latitude and
+  has '-1.1321388' as longitude.
+
+the venue 'Edgbaston'
+  has '52.4557647' as latitude and
+  has '-1.9027055' as longitude.
+
+the venue 'Brisbane Cricket Ground'
+  has '-27.4858376' as latitude and
+  has '153.0380853' as longitude.
+
+the venue 'Western Australia Cricket Association Ground'
+  has '-31.9597927' as latitude and
+  has '115.8795758' as longitude.
+
+the venue 'Melbourne Cricket Ground'
+  has '-37.8199669' as latitude and
+  has '144.9834493' as longitude.
+
+the venue 'Old Trafford'
+  has '53.456428' as latitude and
+  has '-2.286797' as longitude.
+
+the venue 'Headingley'
+  has '53.831101' as latitude and
+  has '-1.5847243' as longitude.
+
+the venue 'Adelaide Oval'
+  has '-34.9155163' as latitude and
+  has '138.5961146' as longitude.
+
+the venue 'Eden Gardens'
+  has '22.5646081' as latitude and
+  has '88.3432645' as longitude.
+
+the venue 'Shaheed Veer Narayan Singh International Stadium'
+  has '21.2034271' as latitude and
+  has '81.8239245' as longitude.
+
+the venue 'Grange Cricket Club'
+  has '55.959822' as latitude and
+  has '-3.2135283' as longitude.
+
+the venue 'Harare Sports Club'
+  has '-17.8140511' as latitude and
+  has '31.0508853' as longitude.
+
+the venue 'Amini Park'
+  has '38.9361652' as latitude and
+  has '-94.6665232' as longitude.
+
+the venue 'Eden Park'
+  has '-37.8192852' as latitude and
+  has '144.9824632' as longitude.
+
+the venue 'New Wanderers Stadium'
+  has '-26.131189' as latitude and
+  has '28.0573872' as longitude.
+
+the venue 'Civil Service Cricket Club'
+  has '53.3510765' as latitude and
+  has '-6.307472' as longitude.
+
+the venue 'Sophia Gardens'
+  has '51.484295' as latitude and
+  has '-3.1895088' as longitude.
+
+the venue 'Riverside Ground'
+  has '54.8494808' as latitude and
+  has '-1.5609491' as longitude.
+
+the venue 'County Ground'
+  has '51.4770742' as latitude and
+  has '-2.5843549' as longitude.
+
+the venue 'Docklands Stadium'
+  has '-37.8165647' as latitude and
+  has '144.9475055' as longitude.
+
+the venue 'Sydney Cricket Ground'
+  has '-33.8915316' as latitude and
+  has '151.2248515' as longitude.
+
+the venue 'Bellerive Oval'
+  has '-42.8773449' as latitude and
+  has '147.3737661' as longitude.
+
+the venue 'Jade Stadium'
+  has '-43.5419225' as latitude and
+  has '172.6543307' as longitude.
+
+the venue 'Westpac Stadium'
+  has '-41.2729218' as latitude and
+  has '174.7859154' as longitude.
+
+the venue 'Arbab Niaz Stadium'
+  has '34.0216608' as latitude and
+  has '71.5779589' as longitude.
+
+the venue 'Rawalpindi Cricket Stadium'
+  has '33.6514483' as latitude and
+  has '73.0758961' as longitude.
+
+the venue 'Gaddafi Stadium'
+  has '31.5134869' as latitude and
+  has '74.3334012' as longitude.
+

@@ -1,0 +1,48 @@
+-- --------------------------------------------------------------------------
+-- (C) Copyright IBM Corporation 2016
+-- All Rights Reserved
+-- --------------------------------------------------------------------------
+
+-- This CE has been generated from SL_generator v1.21.xlsm
+
+there is a technical area named 'TA1' that
+  has 'TA1' as code name and
+  has 'Network Theory' as name and
+  has the project plan 'IPP06' as project plan and
+  has the project plan 'BPP07' as project plan and
+  has the project plan 'BPP09' as project plan.
+
+there is a technical area named 'TA2' that
+  has 'TA2' as code name and
+  has 'Security across a System of Systems' as name and
+  has the project plan 'IPP06' as project plan and
+  has the project plan 'BPP07' as project plan and
+  has the project plan 'BPP09' as project plan.
+
+there is a technical area named 'TA3' that
+  has 'TA3' as code name and
+  has 'Sensor Information Processing and Delivery' as name and
+  has the project plan 'IPP06' as project plan and
+  has the project plan 'BPP07' as project plan and
+  has the project plan 'BPP09' as project plan.
+
+there is a technical area named 'TA4' that
+  has 'TA4' as code name and
+  has 'Distributed Coalition Planning and Decision Making (Distributed Network Enabled Cognition)' as name and
+  has the project plan 'IPP06' as project plan and
+  has the project plan 'BPP07' as project plan and
+  has the project plan 'BPP09' as project plan.
+
+there is a technical area named 'TA5' that
+  has 'TA5' as code name and
+  has 'Coalition Interoperable Secure and Hybrid Networks' as name and
+  has the project plan 'BPP11' as project plan and
+  has the project plan 'BPP13' as project plan and
+  has the project plan 'FPP15' as project plan.
+
+there is a technical area named 'TA6' that
+  has 'TA6' as code name and
+  has 'Distributed Coalition Information Processing for Decision Making' as name and
+  has the project plan 'BPP11' as project plan and
+  has the project plan 'BPP13' as project plan and
+  has the project plan 'FPP15' as project plan.

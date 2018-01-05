@@ -1,0 +1,37 @@
+-- --------------------------------------------------------------------------
+-- (C) Copyright IBM Corporation  2011, 2016
+-- All Rights Reserved
+-- --------------------------------------------------------------------------
+
+the venue 'Rose Bowl'
+  is expressed by 'Nursery' and
+  is expressed by 'Ageas Bowl'.
+
+the venue 'Kennington Oval'
+  is expressed by 'Oval' and
+  is expressed by 'Surrey Cricket Ground'.
+
+the venue 'Lords'
+  is expressed by 'Lord\'s'.
+
+the venue 'Brisbane Cricket Ground'
+  is expressed by 'Gabba'.
+
+the venue 'Western Australia Cricket Association Ground'
+  is expressed by 'WACA' and
+  is expressed by 'WACA Oval'.
+
+the venue 'Melbourne Cricket Ground'
+  is expressed by 'WCG'.
+
+the venue 'Headingley'
+  is expressed by 'Headingley Carnegie'.
+
+the venue 'Shaheed Veer Narayan Singh International Stadium'
+  is expressed by 'Raipur International Cricket Stadium'.
+
+the venue 'Zohur Ahmed Chowdhury Stadium'
+  is expressed by 'ZAC'.
+
+the venue 'Dubai International Cricket Stadium'
+  is expressed by 'Dubai Sports City Cricket Stadium'.

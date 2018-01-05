@@ -1,0 +1,56 @@
+-- --------------------------------------------------------------------------
+-- (C) Copyright IBM Corporation 2016
+-- All Rights Reserved
+-- --------------------------------------------------------------------------
+
+conceptualise a ~ document ~ D that
+  ~ applies to ~ the programme P and
+  has the value ST as ~ status ~ and
+  has the value TI as ~ title ~ and
+  has the ordered author OA as ~ author ~ and
+  has the date DA as ~ publish date ~ and
+  has the value W as ~ weight ~ and
+  has the date FD as ~ final date ~ and
+  has the year PY as ~ publication year ~ and
+  has the value AB as ~ abstract ~ and
+  has the event E as ~ venue ~ and
+  has the value VD as ~ venue details ~ and
+  has the project PR as ~ project ~ and
+  has the document D2 as ~ variant ~ and
+  has the value NA as ~ number of authors ~ and
+  ~ is on ~ the topic T and
+  has the value PAF as ~ paper file ~ and
+  has the value PAT as ~ paper thumbnail ~ and
+  has the value POF as ~ poster file ~ and
+  has the value POT as ~ poster thumbnail ~ and
+  has the value PRF as ~ presentation file ~ and
+  has the value PRT as ~ presentation thumbnail ~ and
+  has the value EF as ~ extra file ~ and
+  has the paper citation count C as ~ citation count ~ and
+  has the value NC as ~ number of citations ~.
+
+conceptualise an ~ internal document ~ I that is a document.
+conceptualise an ~ external document ~ E that is a document.
+conceptualise an ~ conference paper ~ C that is a document.
+conceptualise a ~ patent ~ P that is an external document.
+conceptualise an ~ journal paper ~ J that is an external document.
+conceptualise an ~ internal conference paper ~ C that is a conference paper and is an internal document.
+conceptualise an ~ external conference paper ~ C that is a conference paper and is an external document.
+conceptualise a ~ technical report ~ T that is an internal document.
+conceptualise an ~ other document ~ D that is an internal document.
+conceptualise an ~ invited talk ~ T that is an other document.
+conceptualise a ~ book chapter ~ B that is an other document.
+conceptualise a ~ book ~ B that is an other document.
+conceptualise a ~ phd thesis ~ P that is an other document.
+conceptualise a ~ poster ~ P that is an other document.
+conceptualise a ~ workshop ~ W that is an other document.
+conceptualise a ~ software asset ~ S that is an other document.
+conceptualise a ~ demonstration ~ D that is an other document.
+
+conceptualise a ~ government document ~ D that is a document.
+conceptualise a ~ collaborative document ~ D that is a document.
+conceptualise a ~ single institute document ~ D that is a document.
+conceptualise an ~ international document ~ D that is a document.
+
+conceptualise a ~ noteworthy document ~ D that
+  has the value R as ~ noteworthy reason ~.

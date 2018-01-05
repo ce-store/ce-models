@@ -1,0 +1,12 @@
+-- --------------------------------------------------------------------------
+-- (C) Copyright IBM Corporation 2016
+-- All Rights Reserved
+-- --------------------------------------------------------------------------
+
+conceptualise a ~ programme ~ P that
+  has the value FN as ~ full name ~ and
+  has the date SD as ~ start date ~ and
+  has the date ED as ~ end date ~.
+
+conceptualise a ~ default programme ~ P that
+  is a programme.

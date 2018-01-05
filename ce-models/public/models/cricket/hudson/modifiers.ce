@@ -1,0 +1,86 @@
+-- --------------------------------------------------------------------------
+-- (C) Copyright IBM Corporation  2011, 2016
+-- All Rights Reserved
+-- --------------------------------------------------------------------------
+
+-- General modifiers
+there is a modifier named 'where' that
+  corresponds to the general function 'general:locate' and
+  uses by default the entity concept 'spatial thing'.
+
+there is a modifier named 'how many' and
+  corresponds to the general function 'general:count'.
+
+there is a modifier named 'list' and
+  corresponds to the general function 'general:list'.
+
+there is a modifier named 'show' and
+  corresponds to the general function 'general:show'.
+
+there is a modifier named 'play' and
+  corresponds to the general function 'general:show'.
+
+--there is a modifier named 'expand' that
+--  corresponds to the general function 'general:expand'.
+
+--there is a modifier named 'reset' that
+--  corresponds to the general function 'general:reset'.
+
+--there is a modifier named 'clear cache' that
+--  corresponds to the general function 'general:clearcache'.
+
+there is a CE modifier named 'CE:' that
+  corresponds to the general function 'ce:save'.
+
+--there is a modifier named 'stats' that
+--  corresponds to the general function 'general:stats'.
+
+--there is a modifier named 'what'.
+
+--there is a modifier named 'who' that
+--  uses by default the entity concept person.
+
+--there is a modifier named 'when' and
+--  uses by default the entity concept 'temporal thing'.
+
+--there is a modifier named 'has'.
+--there is a modifier named 'is'.
+--there is a modifier named 'are'.
+
+
+-- Search modifiers
+--there is a search modifier named 'get' that
+--  corresponds to the search function 'search:get'.
+
+--there is a search modifier named 'starts' that
+--  corresponds to the search function 'search:starts'.
+
+--there is a search modifier named 'ends' that
+--  corresponds to the search function 'search:ends'.
+
+--there is a search modifier named 'like' that
+--  corresponds to the search function 'search:like'.
+
+--there is a search modifier named 'same' that
+--  corresponds to the search function 'search:same'.
+
+
+
+-- Filter modifiers
+there is a filter modifier named '=' that
+  corresponds to the filter function 'filter:equals' and
+  is expressed by 'equals'.
+
+there is a filter modifier named 'greater than' that
+  corresponds to the filter function 'filter:greaterthan'.
+
+there is a filter modifier named 'less than' that
+  corresponds to the filter function 'filter:lessthan'.
+
+there is a filter modifier named 'younger than' that
+  corresponds to the filter function 'filter:lessthan' and
+  involves the entity concept 'age'.
+
+there is a filter modifier named 'older than' that
+  corresponds to the filter function 'filter:greaterthan' and
+  involves the entity concept 'age'.

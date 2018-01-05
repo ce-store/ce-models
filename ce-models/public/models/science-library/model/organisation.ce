@@ -1,0 +1,34 @@
+-- --------------------------------------------------------------------------
+-- (C) Copyright IBM Corporation 2016
+-- All Rights Reserved
+-- --------------------------------------------------------------------------
+
+conceptualise an ~ organisation ~ O that
+  has the value NA as ~ name ~ and
+  ~ is located at ~ the place P and
+  ~ employs ~ the person P and
+  ~ wrote ~ the document AD and
+--  has the value T as ~ type ~ and
+  ~ is affiliated to ~ the country C and
+  has the value C1 as ~ document count ~ and
+  has the value C2 as ~ external document count ~ and
+  has the value C3 as ~ internal document count ~ and
+  has the value C4 as ~ journal paper count ~ and
+  has the value C5 as ~ patent count ~ and
+  has the value C6 as ~ conference paper count ~ and
+  has the value C7 as ~ external conference paper count ~ and
+  has the value C8 as ~ internal conference paper count ~ and
+  has the value C9 as ~ technical report count ~ and
+  has the value C10 as ~ other document count ~ and
+  has the topic-organisation statistic TOS as ~ topic-organisation statistic ~ and
+  has the value CC as ~ citation count ~.
+
+conceptualise a ~ core organisation ~ I that is an organisation.
+conceptualise a ~ published organisation ~ O that is an organisation.
+
+conceptualise an ~ academic organisation ~ A that is an organisation.
+conceptualise an ~ industrial organisation ~ I that is an organisation.
+conceptualise a ~ government organisation ~ G that is an organisation.
+
+conceptualise a ~ US organisation ~ A that is an organisation.
+conceptualise a ~ UK organisation ~ A that is an organisation.

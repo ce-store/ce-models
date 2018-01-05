@@ -1,0 +1,40 @@
+-- --------------------------------------------------------------------------
+-- (C) Copyright IBM Corporation  2011, 2016
+-- All Rights Reserved
+-- --------------------------------------------------------------------------
+
+conceptualise an ~ organisation ~ O.
+
+conceptualise a ~ venue ~ V that
+  has the team T as ~ occupant ~ and
+  ~ is owned by ~ the organisation O1 and
+  ~ is operated by ~ the organisation O2 and
+  has the organisation O3 as ~ structural engineer ~ and
+  has the value CAP as ~ capacity ~ and
+  has the value W as ~ website ~ and
+  has the image I as ~ image ~ and
+  has the image L as ~ logo ~ and
+  has the value IY as ~ inception year ~ and
+  ~ hosts ~ the sport S.
+
+conceptualise a ~ sport ~ S that
+  ~ is played at ~ the venue V.
+
+the property concept 'sport:is played at:venue'
+  is expressed by 'are played at'.
+
+conceptualise a ~ dbpedia thing ~ D that
+  has the value PN as ~ predicate name ~.
+
+conceptualise a ~ time period ~ T.
+
+conceptualise a ~ dimension ~ D.
+
+conceptualise a ~ year ~ Y.
+
+the property concept 'venue:image:image'
+  is expressed by 'look like'.
+
+conceptualise a ~ wikidata thing ~ W that
+  has the value WDU as ~ wikidata url ~ and
+  has the value WPU as ~ wikipedia url ~.

@@ -1,0 +1,89 @@
+-- --------------------------------------------------------------------------
+-- (C) Copyright IBM Corporation  2011, 2016
+-- All Rights Reserved
+-- --------------------------------------------------------------------------
+
+there is a glossary term named 'gt_001' that
+  has 'robot' as main form and
+  has 'A machine that is capable of carrying out a complex series of actions automatically. I am a social robot; which means I can communicate with humans or other robots.' as description.
+
+there is a glossary term named 'gt_002' that
+  has 'smart robot' as main form and
+  has 'A smart robot is an artificial intelligence system that can learn from its environment and its experience and build on its capabilities based on that knowledge.' as description.
+
+there is a glossary term named 'gt_003' that
+  has 'social robot' as main form and
+  has 'tbc' as description.
+
+there is a glossary term named 'gt_004' that
+  has 'sentient robot' as main form and
+  has 'tbc' as description.
+
+there is a glossary term named 'gt_005' that
+  has 'medical robot' as main form and
+  has 'tbc' as description.
+
+there is a glossary term named 'gt_006' that
+  has 'cyborg' as main form and
+  has 'tbc' as description.
+
+there is a glossary term named 'gt_007' that
+  has 'humanoid' as main form and
+  has 'tbc' as description.
+
+there is a glossary term named 'gt_008' that
+  has 'android' as main form and
+  has 'tbc' as description.
+
+there is a glossary term named 'gt_009' that
+  has 'chatbot' as main form and
+  has 'tbc' as description.
+
+there is a glossary term named 'gt_010' that
+  has 'artifical intelligence' as main form and
+  has 'tbc' as description.
+
+there is a glossary term named 'gt_011' that
+  has 'machine learning' as main form and
+  has 'Machine learning is a type of artificial intelligence that provides computers with the ability to learn without being explicitly programmed.' as description and
+  is expressed by 'machine-learning'.
+
+there is a glossary term named 'gt_012' that
+  has 'strong AI' as main form and
+  has 'tbc' as description.
+
+there is a glossary term named 'gt_013' that
+  has 'weak AI' as main form and
+  has 'tbc' as description.
+
+there is a glossary term named 'gt_014' that
+  has 'deep learning' as main form and
+  has 'tbc' as description.
+
+there is a glossary term named 'gt_015' that
+  has 'cloud robotics' as main form and
+  has 'tbc' as description.
+
+there is a glossary term named 'gt_016' that
+  has 'roboethics' as main form and
+  has 'tbc' as description that
+  is expressed by 'machine ethics' and
+  is expressed by 'computational ethics' and
+  is expressed by 'machine morality' and
+  is expressed by 'computational morality'.
+
+there is a glossary term named 'gt_017' that
+  has 'robot wars' as main form and
+  has 'tbc' as description.
+
+there is a glossary term named 'gt_018' that
+  has 'robotics' as main form and
+  has 'tbc' as description.
+
+there is a glossary term named 'gt_019' that
+  has 'AI business solution' as main form and
+  has 'tbc' as description.
+
+there is a glossary term named 'gt_020' that
+  has 'IBM Watson' as main form and
+  has 'tbc' as description.

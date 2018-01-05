@@ -1,0 +1,32 @@
+-- --------------------------------------------------------------------------
+-- (C) Copyright IBM Corporation 2016
+-- All Rights Reserved
+-- --------------------------------------------------------------------------
+
+conceptualise a ~ thing ~ T that
+  ~ is also known as ~ the value V.
+
+conceptualise a ~ configuration concept ~ C.
+
+conceptualise a ~ linguistic thing ~ L that
+  is a configuration concept and
+  has the value PF as ~ plural form ~ and
+  has the value PT as ~ past tense ~ and
+  has the value DD as ~ default determiner ~ and
+  has the value PQ as ~ property qualifier ~ and
+  ~ is expressed by ~ the value V and
+  ~ is qualified by ~ the entity concept E.
+
+conceptualise a ~ separately identified concept ~ SC that
+  is a configuration concept.
+Note: this is a concept for which the id is not a natural identifier
+
+conceptualise an ~ identification property concept ~ I that
+  is a property concept.
+
+conceptualise a ~ user ~ U.
+
+conceptualise a ~ temporal thing ~ T.
+
+conceptualise a ~ UI message ~ M that
+  has the value T as ~ message text ~.  

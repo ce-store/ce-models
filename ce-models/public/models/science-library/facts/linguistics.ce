@@ -1,0 +1,152 @@
+-- --------------------------------------------------------------------------
+-- (C) Copyright IBM Corporation 2016
+-- All Rights Reserved
+-- --------------------------------------------------------------------------
+
+-- This CE has been generated from SL_generator v1.21.xlsm
+
+there is a linguistic thing named 'ARL' that
+  is expressed by 'A R L'.
+
+there is a linguistic thing named 'PSU' that
+  is expressed by 'Penn State'.
+
+there is a linguistic thing named 'alun_preece' that
+  is expressed by 'Alan Preece'.
+
+there is a linguistic thing named 'ananthram_swami' that
+  is expressed by 'Anathram' and
+  is expressed by 'Swami'.
+
+there is a linguistic thing named 'dave_braines' that
+  is expressed by 'Dave Brains'.
+
+there is a linguistic thing named 'dave_conway_jones' that
+  is expressed by 'Dave Conway Jones'.
+
+there is a linguistic thing named 'thomas_laporta' that
+  is expressed by 'Tom LaPorta' and
+  is expressed by 'Tom La Porta'.
+
+there is a linguistic thing named 'timothy_norman' that
+  is expressed by 'Tim Norman'.
+
+there is a linguistic thing named 'document:abstract:value' that
+  is expressed by 'summary' and
+  is expressed by 'outline'.
+
+there is a linguistic thing named 'document:citation count:paper citation count' that
+  is expressed by 'citation' and
+  is expressed by 'citations'.
+
+there is a linguistic thing named 'document:final date:date' that
+  is expressed by 'published' and
+  is expressed by 'date'.
+
+there is a linguistic thing named 'document:paper file:value' that
+  is expressed by 'file' and
+  is expressed by 'paper' and
+  is expressed by 'download'.
+
+there is a linguistic thing named 'document:poster file:value' that
+  is expressed by 'poster'.
+
+there is a linguistic thing named 'document:presentation file:value' that
+  is expressed by 'presentation'.
+
+there is a linguistic thing named 'document:venue:event' that
+  is expressed by 'where' and
+  is expressed by 'located'.
+
+there is a linguistic thing named 'document:author:ordered author' that
+  is expressed by 'wrote' and
+  is expressed by 'authored' and
+  is expressed by 'authors'.
+
+there is a linguistic thing named 'document:title:value' that
+  is expressed by 'name'.
+
+there is a linguistic thing named 'event:end date:value' that
+  is expressed by 'end'.
+
+there is a linguistic thing named 'event:occurs at:place' that
+  is expressed by 'location' and
+  is expressed by 'occurs' and
+  is expressed by 'occur' and
+  is expressed by 'located' and
+  is expressed by 'found'.
+
+there is a linguistic thing named 'event:start date:value' that
+  is expressed by 'start'.
+
+there is a linguistic thing named 'event:url:value' that
+  is expressed by 'website'.
+
+there is a linguistic thing named 'organisation:employs:person' that
+  is expressed by 'employees' and
+  is expressed by 'employed' and
+  is expressed by 'employ'.
+
+there is a linguistic thing named 'organisation:is located at:place' that
+  is expressed by 'located' and
+  is expressed by 'location' and
+  is expressed by 'found'.
+
+there is a linguistic thing named 'person:citation count:person citation count' that
+  is expressed by 'citation' and
+  is expressed by 'citations'.
+
+there is a linguistic thing named 'person:co-author:person' that
+  is expressed by 'co author' and
+  is expressed by 'co authors' and
+  is expressed by 'co authored' and
+  is expressed by 'co-authors' and
+  is expressed by 'co-authored' and
+  is expressed by 'coauthor' and
+  is expressed by 'coauthors' and
+  is expressed by 'coauthored' and
+  is expressed by 'collaborated'.
+
+there is a linguistic thing named 'person:external document count:value' that
+  is expressed by 'external paper' and
+  is expressed by 'external papers' and
+  is expressed by 'external document' and
+  is expressed by 'external documents'.
+
+there is a linguistic thing named 'person:full name:value' that
+  is expressed by 'name'.
+
+there is a linguistic thing named 'person:internal document count:value' that
+  is expressed by 'internal paper' and
+  is expressed by 'internal papers' and
+  is expressed by 'internal document' and
+  is expressed by 'internal documents'.
+
+there is a linguistic thing named 'person:writes documents for:organisation' that
+  is expressed by 'employed by' and
+  is expressed by 'employs' and
+  is expressed by 'writes for' and
+  is expressed by 'write papers for' and
+  is expressed by 'write documents for'.
+
+there is a linguistic thing named 'person:journal paper count:value' that
+  is expressed by 'journal' and
+  is expressed by 'journal paper' and
+  is expressed by 'journal papers' and
+  is expressed by 'journals'.
+
+there is a linguistic thing named 'person:profile picture:value' that
+  is expressed by 'look like'.
+
+there is a linguistic thing named 'person:technical report count:value' that
+  is expressed by 'technical report' and
+  is expressed by 'technical reports'.
+
+there is a linguistic thing named 'person:document count:value' that
+  is expressed by 'total publication' and
+  is expressed by 'total publications' and
+  is expressed by 'all documents'.
+
+there is a linguistic thing named 'person:wrote:document' that
+  is expressed by 'write' and
+  is expressed by 'written'.

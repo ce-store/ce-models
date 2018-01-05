@@ -1,0 +1,1047 @@
+-- --------------------------------------------------------------------------
+-- (C) Copyright IBM Corporation 2016
+-- All Rights Reserved
+-- --------------------------------------------------------------------------
+
+-- This CE has been generated from SL_generator v1.21.xlsm
+
+there is an organisation named 'AFRL' that
+  is a government organisation and
+  is a core organisation and
+  has 'Air Force Research Laboratory' as name and
+  is affiliated to the country 'US' and
+  is located at the place 'Edwards Air Force Base'.
+
+there is an organisation named 'ARL' that
+  is a government organisation and
+  is a core organisation and
+  has 'Army Research Laboratory' as name and
+  is affiliated to the country 'US' and
+  is located at the place 'ARL, Washington DC'.
+
+there is an organisation named 'CERDEC' that
+  is a government organisation and
+  is a core organisation and
+  has 'United States Army, Communications-Electronics Research, Development and Engineering Center' as name and
+  is affiliated to the country 'US' and
+  is located at the place 'CERDEC, Washington DC'.
+
+there is an organisation named 'DSTL' that
+  is a government organisation and
+  is a core organisation and
+  has 'Defence Science and Technology Laboratory' as name and
+  is affiliated to the country 'UK' and
+  is located at the place 'DSTL, UK'.
+
+there is an organisation named 'MoD' that
+  is a government organisation and
+  is a core organisation and
+  has 'Ministry of Defence' as name and
+  is affiliated to the country 'UK' and
+  is located at the place 'MoD, London'.
+
+there is an organisation named 'US Army' that
+  is a government organisation and
+  is a core organisation and
+  has 'United States Army' as name and
+  is affiliated to the country 'US' and
+  is located at the place 'US Army, Pentagon'.
+
+there is an organisation named 'USMA' that
+  is a government organisation and
+  is a core organisation and
+  has 'West Point Military Academy' as name and
+  is affiliated to the country 'US' and
+  is located at the place 'USMA, West Point'.
+
+there is an organisation named 'Agent Dynamics' that
+  is a industrial organisation and
+  has 'Agent Dynamics Inc' as name and
+  is affiliated to the country 'US' and
+  is located at the place 'Agent Dynamics Inc, Pennsylvania'.
+
+there is an organisation named 'ACS' that
+  is a industrial organisation and
+  has 'Applied Communication Sciences' as name and
+  is affiliated to the country 'US' and
+  is located at the place 'Applied Communication Sciences, New York'.
+
+there is an organisation named 'ARA' that
+  is a industrial organisation and
+  is a core organisation and
+  has 'Advanced Research Associates' as name and
+  is affiliated to the country 'US' and
+  is located at the place 'ARA, US'.
+
+there is an organisation named 'AT&T' that
+  is a industrial organisation and
+  has 'AT&T Labs, Research' as name and
+  is affiliated to the country 'US' and
+  is located at the place 'AT&T Labs-Research, New York'.
+
+there is an organisation named 'BBN' that
+  is a industrial organisation and
+  is a core organisation and
+  has 'BBN Technologies' as name and
+  is affiliated to the country 'US' and
+  is located at the place 'BBN Technologies, Illinois'.
+
+there is an organisation named 'Boeing' that
+  is a industrial organisation and
+  is a core organisation and
+  has 'Boeing' as name and
+  is affiliated to the country 'US' and
+  is located at the place 'Boeing, Seattle'.
+
+there is an organisation named 'Cisco' that
+  is a industrial organisation and
+  has 'Cisco Systems' as name and
+  is affiliated to the country 'US' and
+  is located at the place 'Cisco, San Jose'.
+
+there is an organisation named 'CUBRC' that
+  is a industrial organisation and
+  has 'Calspan University of Buffalo Research Center' as name and
+  is affiliated to the country 'US' and
+  is located at the place 'CUBRC, Buffalo'.
+
+there is an organisation named 'Deutsche' that
+  is a industrial organisation and
+  has 'Deutsche Telekom Laboratories/TU-Berlin' as name and
+  is affiliated to the country 'Germany' and
+  is located at the place 'Deutsche Telekom Laboratories/TU-Berlin, Germany'.
+
+there is an organisation named 'DoCoMo' that
+  is a industrial organisation and
+  has 'DoCoMo Labs' as name and
+  is affiliated to the country 'US' and
+  is located at the place 'DoCoMo Labs, California'.
+
+there is an organisation named 'EADS' that
+  is a industrial organisation and
+  is a core organisation and
+  has 'EADS' as name and
+  is affiliated to the country 'UK' and
+  is located at the place 'EADS, UK'.
+
+there is an organisation named 'ETH' that
+  is a industrial organisation and
+  has 'ETH, Zurich' as name and
+  is affiliated to the country 'Switzerland' and
+  is located at the place 'ETH, Zurich'.
+
+there is an organisation named 'Eurecom' that
+  is a industrial organisation and
+  has 'Institut Eurecom, France' as name and
+  is affiliated to the country 'France' and
+  is located at the place 'Institut Eurecom, France'.
+
+there is an organisation named 'Fiksu' that
+  is a industrial organisation and
+  has 'Fiksu Inc' as name and
+  is affiliated to the country 'US' and
+  is located at the place 'Fiksu Inc, Boston'.
+
+there is an organisation named 'HeavyIron' that
+  is a industrial organisation and
+  has 'Heavy Iron Studios' as name and
+  is affiliated to the country 'US' and
+  is located at the place 'Heavy Iron Studios, LA'.
+
+there is an organisation named 'Honeywell' that
+  is a industrial organisation and
+  is a core organisation and
+  has 'Honeywell' as name and
+  is affiliated to the country 'US' and
+  is located at the place 'Honeywell, Minneapolis'.
+
+there is an organisation named 'IBM Bangalore' that
+  is a industrial organisation and
+  has 'IBM Research, Bangalore' as name and
+  is affiliated to the country 'India' and
+  is located at the place 'IBM Research, Bangalore'.
+
+there is an organisation named 'IBM Beijing' that
+  is a industrial organisation and
+  has 'IBM Research, Beijing' as name and
+  is affiliated to the country 'China' and
+  is located at the place 'IBM Research, Beijing'.
+
+there is an organisation named 'IBM India' that
+  is a industrial organisation and
+  has 'IBM India Research Lab' as name and
+  is affiliated to the country 'India' and
+  is located at the place 'IBM Research, India'.
+
+there is an organisation named 'IBM UK' that
+  is a industrial organisation and
+  is a core organisation and
+  has 'IBM UK' as name and
+  is affiliated to the country 'UK' and
+  is located at the place 'IBM Hursley, UK'.
+
+there is an organisation named 'IBM US' that
+  is a industrial organisation and
+  is a core organisation and
+  has 'IBM US' as name and
+  is affiliated to the country 'US' and
+  is located at the place 'IBM Research, Yorktown Heights'.
+
+there is an organisation named 'IBM Zurich' that
+  is a industrial organisation and
+  has 'IBM Research, Zurich' as name and
+  is affiliated to the country 'Switzerland' and
+  is located at the place 'IBM Research, Zurich'.
+
+there is an organisation named 'Infocomm' that
+  is a industrial organisation and
+  has 'Institute for Infocomm Research' as name and
+  is affiliated to the country 'Singapore' and
+  is located at the place 'Institute for Infocomm Research, Singapore'.
+
+there is an organisation named 'Logica' that
+  is a industrial organisation and
+  is a core organisation and
+  has 'Logica' as name and
+  is affiliated to the country 'UK' and
+  is located at the place 'Logica, UK'.
+
+there is an organisation named 'Microsoft' that
+  is a industrial organisation and
+  has 'Microsoft Research, UK' as name and
+  is affiliated to the country 'UK' and
+  is located at the place 'Microsoft Research, UK'.
+
+there is an organisation named 'MITRE' that
+  is a industrial organisation and
+  has 'The MITRE Corporation' as name and
+  is affiliated to the country 'US' and
+  is located at the place 'The MITRE Corporation, USA'.
+
+there is an organisation named 'Nokia' that
+  is a industrial organisation and
+  has 'Nokia Research Center' as name and
+  is affiliated to the country 'US' and
+  is located at the place 'Nokia Research Center, Palo Alto, California'.
+
+there is an organisation named 'PARC' that
+  is a industrial organisation and
+  has 'Palo Alto Research Center' as name and
+  is affiliated to the country 'US' and
+  is located at the place 'PARC, Palo Alto'.
+
+there is an organisation named 'Roke' that
+  is a industrial organisation and
+  is a core organisation and
+  has 'Roke Manor Research Ltd' as name and
+  is affiliated to the country 'UK' and
+  is located at the place 'Roke Manor Research Ltd, UK'.
+
+there is an organisation named 'SEA' that
+  is a industrial organisation and
+  is a core organisation and
+  has 'Systems Engineering & Assessment' as name and
+  is affiliated to the country 'UK' and
+  is located at the place 'Systems Engineering & Assessment, UK'.
+
+there is an organisation named 'Sprint' that
+  is a industrial organisation and
+  has 'Sprint Advanced Technology Labs' as name and
+  is affiliated to the country 'US' and
+  is located at the place 'Sprint, California'.
+
+there is an organisation named 'SRI' that
+  is a industrial organisation and
+  has 'SRI International' as name and
+  is affiliated to the country 'US' and
+  is located at the place 'SRI International, California'.
+
+there is an organisation named 'Teledyne' that
+  is a industrial organisation and
+  has 'Teledyne Scientific Coh' as name and
+  is affiliated to the country 'US' and
+  is located at the place 'Teledyne, CA'.
+
+there is an organisation named 'Vipadia' that
+  is a industrial organisation and
+  has 'Vipadia Ltd' as name and
+  is affiliated to the country 'UK' and
+  is located at the place 'Vipadia Ltd, Cambridge'.
+
+there is an organisation named 'American University of Beirut' that
+  is a academic organisation and
+  has 'American University of Beirut' as name and
+  is affiliated to the country 'Lebanon' and
+  is located at the place 'American University of Beirut, Lebanon'.
+
+there is an organisation named 'Aberdeen' that
+  is a academic organisation and
+  is a core organisation and
+  has 'University of Aberdeen' as name and
+  is affiliated to the country 'UK' and
+  is located at the place 'University of Aberdeen, UK'.
+
+there is an organisation named 'Alabama' that
+  is a academic organisation and
+  has 'University of Alabama' as name and
+  is affiliated to the country 'US' and
+  is located at the place 'University of Alabama, Alabama'.
+
+there is an organisation named 'Alberta' that
+  is a academic organisation and
+  has 'University of Alberta' as name and
+  is affiliated to the country 'Canada' and
+  is located at the place 'University of Alberta, Canada'.
+
+there is an organisation named 'Arizona' that
+  is a academic organisation and
+  has 'University of Arizona' as name and
+  is affiliated to the country 'US' and
+  is located at the place 'University of Arizona'.
+
+there is an organisation named 'Arizona State' that
+  is a academic organisation and
+  has 'Arizona State University' as name and
+  is affiliated to the country 'US' and
+  is located at the place 'Arizona State University, Arizona'.
+
+there is an organisation named 'Auckland' that
+  is a academic organisation and
+  has 'University of Auckland' as name and
+  is affiliated to the country 'New Zealand' and
+  is located at the place 'University of Auckland, New Zealand'.
+
+there is an organisation named 'Bar-Ilan' that
+  is a academic organisation and
+  has 'Bar-Ilan University' as name and
+  is affiliated to the country 'Israel' and
+  is located at the place 'Bar-Ilan University, Ramat Gan, Israel'.
+
+there is an organisation named 'Beijing University of Posts and Telecommunications' that
+  is a academic organisation and
+  has 'Beijing University of Posts and Telecommunications' as name and
+  is affiliated to the country 'China' and
+  is located at the place 'BUP&T, Beijing, China'.
+
+there is an organisation named 'Berkeley' that
+  is a academic organisation and
+  has 'University of California Berkeley' as name and
+  is affiliated to the country 'US' and
+  is located at the place 'UC Berkeley, California'.
+
+there is an organisation named 'Bochum' that
+  is a academic organisation and
+  has 'Ruhr-Universitat Bochum' as name and
+  is affiliated to the country 'Germany' and
+  is located at the place 'Ruhr-Universitat Bochum, Germany'.
+
+there is an organisation named 'Bologna' that
+  is a academic organisation and
+  has 'University of Bologna' as name and
+  is affiliated to the country 'Italy' and
+  is located at the place 'University of Bologna, Italy'.
+
+there is an organisation named 'Bordeaux' that
+  is a academic organisation and
+  has 'Bordeaux University, LaBRI, CNRS' as name and
+  is affiliated to the country 'France' and
+  is located at the place 'Bordeaux University, France'.
+
+there is an organisation named 'Boston' that
+  is a academic organisation and
+  has 'Boston University' as name and
+  is affiliated to the country 'US' and
+  is located at the place 'Boston University, Massachusetts'.
+
+there is an organisation named 'Calgary' that
+  is a academic organisation and
+  has 'University of Calgary' as name and
+  is affiliated to the country 'Canada' and
+  is located at the place 'University of Calgary, Canada'.
+
+there is an organisation named 'California Institute of Technology' that
+  is a academic organisation and
+  has 'California Institute of Technology' as name and
+  is affiliated to the country 'US' and
+  is located at the place 'California Institute of Technology, California'.
+
+there is an organisation named 'Cambridge' that
+  is a academic organisation and
+  is a core organisation and
+  has 'University of Cambridge' as name and
+  is affiliated to the country 'UK' and
+  is located at the place 'University of Cambridge, UK'.
+
+there is an organisation named 'Cardiff' that
+  is a academic organisation and
+  is a core organisation and
+  has 'Cardiff University' as name and
+  is affiliated to the country 'UK' and
+  is located at the place 'Cardiff University, UK'.
+
+there is an organisation named 'Catalunya' that
+  is a academic organisation and
+  has 'Universitat Politecnica de Catalunya' as name and
+  is affiliated to the country 'Spain' and
+  is located at the place 'Universitat Politecnica de Catalunya, Spain'.
+
+there is an organisation named 'Catania' that
+  is a academic organisation and
+  has 'Universita di Catania' as name and
+  is affiliated to the country 'Italy' and
+  is located at the place 'Universita di Catania, Italy'.
+
+there is an organisation named 'Catania' that
+  is a academic organisation and
+  has 'University of Catania' as name and
+  is affiliated to the country 'Italy' and
+  is located at the place 'University of Catania, Italy'.
+
+there is an organisation named 'Central Florida' that
+  is a academic organisation and
+  has 'University of Central Florida' as name and
+  is affiliated to the country 'US' and
+  is located at the place 'University of Central Florida, Florida'.
+
+there is an organisation named 'Chinese Academy of Sciences' that
+  is a academic organisation and
+  has 'Chinese Academy of Sciences' as name and
+  is affiliated to the country 'China' and
+  is located at the place 'Chinese Academy of Sciences'.
+
+there is an organisation named 'City' that
+  is a academic organisation and
+  has 'City University, London' as name and
+  is affiliated to the country 'UK' and
+  is located at the place 'City University, UK'.
+
+there is an organisation named 'CMU' that
+  is a academic organisation and
+  is a core organisation and
+  has 'Carnegie Mellon University' as name and
+  is affiliated to the country 'US' and
+  is located at the place 'Carnegie Mellon University, Pennsylvania'.
+
+there is an organisation named 'CNR' that
+  is a academic organisation and
+  has 'Consiglio Nazionale delle Ricerche' as name and
+  is affiliated to the country 'Italy' and
+  is located at the place 'CNR, Italy'.
+
+there is an organisation named 'Columbia' that
+  is a academic organisation and
+  is a core organisation and
+  has 'Columbia University' as name and
+  is affiliated to the country 'US' and
+  is located at the place 'Columbia, NYC'.
+
+there is an organisation named 'Cornell' that
+  is a academic organisation and
+  has 'Cornell University' as name and
+  is affiliated to the country 'US' and
+  is located at the place 'Cornell University, Ithica'.
+
+there is an organisation named 'Cranfield' that
+  is a academic organisation and
+  is a core organisation and
+  has 'Cranfield University' as name and
+  is affiliated to the country 'UK' and
+  is located at the place 'Cranfield, UK'.
+
+there is an organisation named 'CUNY' that
+  is a academic organisation and
+  is a core organisation and
+  has 'The City University of New York' as name and
+  is affiliated to the country 'US' and
+  is located at the place 'The City University of New York, New York'.
+
+there is an organisation named 'CWI' that
+  is a academic organisation and
+  has 'Centrum Wiskunde & Informatica' as name and
+  is affiliated to the country 'Amsterdam' and
+  is located at the place 'Centrum Wiskunde & Informatica, Netherlands'.
+
+there is an organisation named 'Cyprus' that
+  is a academic organisation and
+  has 'University of Cyprus' as name and
+  is affiliated to the country 'Cyprus' and
+  is located at the place 'University of Cyprus'.
+
+there is an organisation named 'Edinburgh' that
+  is a academic organisation and
+  has 'Edinburgh University' as name and
+  is affiliated to the country 'UK' and
+  is located at the place 'Edinburgh Uni, UK'.
+
+there is an organisation named 'EPFL' that
+  is a academic organisation and
+  has 'Ecole polytechnique federale de Lausanne' as name and
+  is affiliated to the country 'Switzerland' and
+  is located at the place 'EPFL, Switzerland'.
+
+there is an organisation named 'Erlangen' that
+  is a academic organisation and
+  has 'University of Erlangen' as name and
+  is affiliated to the country 'Germany' and
+  is located at the place 'University of Erlangen, Germany'.
+
+there is an organisation named 'Fabra' that
+  is a academic organisation and
+  has 'Universitat Pompeu Fabra' as name and
+  is affiliated to the country 'Spain' and
+  is located at the place 'Universitat Pompeu Fabra, Spain'.
+
+there is an organisation named 'Federal University of Santa Catarina' that
+  is a academic organisation and
+  has 'Federal University of Santa Catarina' as name and
+  is affiliated to the country 'Brazil' and
+  is located at the place 'Federal University of Santa Catarina, Brazil'.
+
+there is an organisation named 'Firenze' that
+  is a academic organisation and
+  has 'Universita di Firenze' as name and
+  is affiliated to the country 'Italy' and
+  is located at the place 'Universita di Firenze, Italy'.
+
+there is an organisation named 'Florence' that
+  is a academic organisation and
+  has 'University of Florence' as name and
+  is affiliated to the country 'Italy' and
+  is located at the place 'University of Florence, Italy'.
+
+there is an organisation named 'Florida International' that
+  is a academic organisation and
+  has 'Florida international University' as name and
+  is affiliated to the country 'US' and
+  is located at the place 'Florida International University, Florida'.
+
+there is an organisation named 'Georgia Tech' that
+  is a academic organisation and
+  has 'Georgia Institute of Technology' as name and
+  is affiliated to the country 'US' and
+  is located at the place 'Georgia Institute of Technology, Georgia'.
+
+there is an organisation named 'Glasgow' that
+  is a academic organisation and
+  has 'Glasgow University' as name and
+  is affiliated to the country 'UK' and
+  is located at the place 'Glasgow Uni, UK'.
+
+there is an organisation named 'Guandong University of Foreign Studies' that
+  is a academic organisation and
+  has 'Guandong University of Foreign Studies' as name and
+  is affiliated to the country 'China' and
+  is located at the place 'Guandong University'.
+
+there is an organisation named 'Guelph' that
+  is a academic organisation and
+  has 'University of Guelph' as name and
+  is affiliated to the country 'Canada' and
+  is located at the place 'University of Guelph, Canada'.
+
+there is an organisation named 'GWU' that
+  is a academic organisation and
+  has 'George Washington University' as name and
+  is affiliated to the country 'US' and
+  is located at the place 'George Washington University'.
+
+there is an organisation named 'Haifa' that
+  is a academic organisation and
+  has 'University of Haifa' as name and
+  is affiliated to the country 'Israel' and
+  is located at the place 'University of Haifa, Israel'.
+
+there is an organisation named 'Hainan' that
+  is a academic organisation and
+  has 'Hainan University' as name and
+  is affiliated to the country 'China' and
+  is located at the place 'Hainan, China'.
+
+there is an organisation named 'Heinrich Heine' that
+  is a academic organisation and
+  has 'Heinrich Heine University' as name and
+  is affiliated to the country 'Germany' and
+  is located at the place 'Heinrich Heine University, Germany'.
+
+there is an organisation named 'Hong Kong' that
+  is a academic organisation and
+  has 'University of Hong Kong' as name and
+  is affiliated to the country 'China' and
+  is located at the place 'University of Hong Kong, China'.
+
+there is an organisation named 'Hongik' that
+  is a academic organisation and
+  has 'Hongik University, Korea' as name and
+  is affiliated to the country 'South Korea' and
+  is located at the place 'Hongik University, Korea'.
+
+there is an organisation named 'IIIA' that
+  is a academic organisation and
+  has 'IIIA-CSIC, Bellaterra' as name and
+  is affiliated to the country 'Spain' and
+  is located at the place 'Bellaterra, Spain'.
+
+there is an organisation named 'Illinois' that
+  is a academic organisation and
+  has 'University of Illinois at Chicago' as name and
+  is affiliated to the country 'US' and
+  is located at the place 'University of Illinois at Chicago, Illinois'.
+
+there is an organisation named 'IMDEA' that
+  is a academic organisation and
+  has 'IMDEA Software Institute' as name and
+  is affiliated to the country 'Spain' and
+  is located at the place 'IMDEA Software Institute, Spain'.
+
+there is an organisation named 'Imperial' that
+  is a academic organisation and
+  is a core organisation and
+  has 'Imperial College London' as name and
+  is affiliated to the country 'UK' and
+  is located at the place 'Imperial College London, UK'.
+
+there is an organisation named 'INRIA' that
+  is a academic organisation and
+  has 'INRIA, Paris-Rocquencourt Center' as name and
+  is affiliated to the country 'France' and
+  is located at the place 'INRIA, Paris-Rocquencourt Center, France'.
+
+there is an organisation named 'Iowa State' that
+  is a academic organisation and
+  has 'Iowa State University' as name and
+  is affiliated to the country 'US' and
+  is located at the place 'Iowa State University, Iowa'.
+
+there is an organisation named 'ISMBT' that
+  is a academic organisation and
+  has 'Istituto Superiore Mario Boella Torino' as name and
+  is affiliated to the country 'Italy' and
+  is located at the place 'Istituto Superiore Mario Boella Torino, Italy'.
+
+there is an organisation named 'IST' that
+  is a academic organisation and
+  has 'IST Austria' as name and
+  is affiliated to the country 'Austria' and
+  is located at the place 'IST, Austria'.
+
+there is an organisation named 'Jilin' that
+  is a academic organisation and
+  has 'Jilin University' as name and
+  is affiliated to the country 'China' and
+  is located at the place 'Jilin, China'.
+
+there is an organisation named 'Kansas' that
+  is a academic organisation and
+  has 'University of Kansas' as name and
+  is affiliated to the country 'US' and
+  is located at the place 'University of Kansas, Kansas'.
+
+there is an organisation named 'Karlsruhe' that
+  is a academic organisation and
+  has 'Karlsruhe Institute of Technology' as name and
+  is affiliated to the country 'Germany' and
+  is located at the place 'Karlsruhe Institute of Technology, Germany'.
+
+there is an organisation named 'Karlsruhe' that
+  is a academic organisation and
+  has 'University of Karlsruhe' as name and
+  is affiliated to the country 'Germany' and
+  is located at the place 'University of Karlsruhe, Germany'.
+
+there is an organisation named 'Karlstad' that
+  is a academic organisation and
+  has 'Karlstad University, Sweden' as name and
+  is affiliated to the country 'Sweden' and
+  is located at the place 'Karlstad University, Sweden'.
+
+there is an organisation named 'Kent' that
+  is a academic organisation and
+  has 'University of Kent' as name and
+  is affiliated to the country 'UK' and
+  is located at the place 'University of Kent, UK'.
+
+there is an organisation named 'Kings College London' that
+  is a academic organisation and
+  has 'Kings College London' as name and
+  is affiliated to the country 'UK' and
+  is located at the place 'Kings College London, UK'.
+
+there is an organisation named 'KSU' that
+  is a academic organisation and
+  has 'Kansas State University' as name and
+  is affiliated to the country 'US' and
+  is located at the place 'Kansas State University, Kansas'.
+
+there is an organisation named 'Leipzig' that
+  is a academic organisation and
+  has 'Leipzig University' as name and
+  is affiliated to the country 'Germany' and
+  is located at the place 'Leipzig University, Germany'.
+
+there is an organisation named 'Lisboa' that
+  is a academic organisation and
+  has 'Universidade de Lisboa' as name and
+  is affiliated to the country 'Portugal' and
+  is located at the place 'Universidade de Lisboa, Portugal'.
+
+there is an organisation named 'Liverpool' that
+  is a academic organisation and
+  has 'University of Liverpool' as name and
+  is affiliated to the country 'UK' and
+  is located at the place 'University of Liverpool, UK'.
+
+there is an organisation named 'Los Alamos' that
+  is a academic organisation and
+  has 'Los Alamos National Laboratories' as name and
+  is affiliated to the country 'US' and
+  is located at the place 'Los Alamos National Laboratories, New Mexico'.
+
+there is an organisation named 'Louvain' that
+  is a academic organisation and
+  has 'Universite catholique de Louvain' as name and
+  is affiliated to the country 'Belgium' and
+  is located at the place 'Universite catholique de Louvain, Belgium'.
+
+there is an organisation named 'Lugano' that
+  is a academic organisation and
+  has 'University of Lugano, Switzerland' as name and
+  is affiliated to the country 'Switzerland' and
+  is located at the place 'University of Lugano, Switzerland'.
+
+there is an organisation named 'Luxembourg' that
+  is a academic organisation and
+  has 'University of Luxembourg' as name and
+  is affiliated to the country 'Luxembourg' and
+  is located at the place 'University of Luxembourg, Luxembourg'.
+
+there is an organisation named 'Michigan' that
+  is a academic organisation and
+  has 'University of Michigan' as name and
+  is affiliated to the country 'UK' and
+  is located at the place 'University of Michigan, US'.
+
+there is an organisation named 'Milano-Bicocca' that
+  is a academic organisation and
+  has 'Universita degli Studi di Milano-Bicocca' as name and
+  is affiliated to the country 'Italy' and
+  is located at the place 'Universita degli Studi di Milano Bicocca, Italy'.
+
+there is an organisation named 'Minas Gerais' that
+  is a academic organisation and
+  has 'Universidade Federal de Minas Gerais' as name and
+  is affiliated to the country 'Brazil' and
+  is located at the place 'Universidade Federal de Minas Gerais, Brazil'.
+
+there is an organisation named 'Minho' that
+  is a academic organisation and
+  has 'Universidade de Minho' as name and
+  is affiliated to the country 'Portugal' and
+  is located at the place 'Universidade de Minho, Portugal'.
+
+there is an organisation named 'Minnesota' that
+  is a academic organisation and
+  has 'University of Minnesota' as name and
+  is affiliated to the country 'US' and
+  is located at the place 'University of Minnesota, Minnesota'.
+
+there is an organisation named 'MIT' that
+  is a academic organisation and
+  has 'Massachusetts Institute of Technology' as name and
+  is affiliated to the country 'US' and
+  is located at the place 'Massachusetts Institute of Technology, Massachusetts'.
+
+there is an organisation named 'Namur' that
+  is a academic organisation and
+  has 'University of Namur' as name and
+  is affiliated to the country 'Belgium' and
+  is located at the place 'University of Namur, Belgium'.
+
+there is an organisation named 'Napoli Federico II' that
+  is a academic organisation and
+  has 'Universita degli Studi di Napoli Federico II' as name and
+  is affiliated to the country 'Italy' and
+  is located at the place 'Universita degli Studi di Napoli Federico II, Italy'.
+
+there is an organisation named 'National Institute of Informatics' that
+  is a academic organisation and
+  has 'National Institute of Informatics' as name and
+  is affiliated to the country 'Japan' and
+  is located at the place 'National Institute of Informatics, Japan'.
+
+there is an organisation named 'North Carolina' that
+  is a academic organisation and
+  has 'University of North Carolina' as name and
+  is affiliated to the country 'US' and
+  is located at the place 'University of North Carolina, North Carolina'.
+
+there is an organisation named 'North Carolina State' that
+  is a academic organisation and
+  has 'North Carolina State University' as name and
+  is affiliated to the country 'US' and
+  is located at the place 'North Carolina State University, North Carolina'.
+
+there is an organisation named 'Notre Dame' that
+  is a academic organisation and
+  has 'University of Notre Dame' as name and
+  is affiliated to the country 'US' and
+  is located at the place 'University of Notre Dame, Indiana'.
+
+there is an organisation named 'NYU' that
+  is a academic organisation and
+  has 'New York University' as name and
+  is affiliated to the country 'US' and
+  is located at the place 'New York University, New York'.
+
+there is an organisation named 'Ohio State' that
+  is a academic organisation and
+  has 'Ohio State University' as name and
+  is affiliated to the country 'US' and
+  is located at the place 'Ohio State University, US'.
+
+there is an organisation named 'Open University' that
+  is a academic organisation and
+  has 'Open University' as name and
+  is affiliated to the country 'UK' and
+  is located at the place 'Open University, Milton Keynes'.
+
+there is an organisation named 'Osaka' that
+  is a academic organisation and
+  has 'Osaka University' as name and
+  is affiliated to the country 'Japan' and
+  is located at the place 'Osaka University, Japan'.
+
+there is an organisation named 'Oxford' that
+  is a academic organisation and
+  has 'Oxford University' as name and
+  is affiliated to the country 'UK' and
+  is located at the place 'Oxford University, UK'.
+
+there is an organisation named 'Ozyegin' that
+  is a academic organisation and
+  has 'Ozyegin University' as name and
+  is affiliated to the country 'Turkey' and
+  is located at the place 'Ozyegin University'.
+
+there is an organisation named 'Padova' that
+  is a academic organisation and
+  has 'University of Padova' as name and
+  is affiliated to the country 'Italy' and
+  is located at the place 'University of Padova, Italy'.
+
+there is an organisation named 'Pepperdine' that
+  is a academic organisation and
+  has 'Pepperdine University' as name and
+  is affiliated to the country 'US' and
+  is located at the place 'Pepperdine University, Malibu'.
+
+there is an organisation named 'Pisa' that
+  is a academic organisation and
+  has 'University of Pisa' as name and
+  is affiliated to the country 'Italy' and
+  is located at the place 'University of Pisa, Italy'.
+
+there is an organisation named 'Pittsburgh' that
+  is a academic organisation and
+  has 'University of Pittsburgh' as name and
+  is affiliated to the country 'US' and
+  is located at the place 'University of Pittsburgh, Pennsylvania'.
+
+there is an organisation named 'Princeton' that
+  is a academic organisation and
+  has 'Princeton' as name and
+  is affiliated to the country 'US' and
+  is located at the place 'Princeton University, New Jersey'.
+
+there is an organisation named 'PSU' that
+  is a academic organisation and
+  is a core organisation and
+  has 'Pennsylvania State University' as name and
+  is affiliated to the country 'US' and
+  is located at the place 'Pennsylvania State University, Pennsylvania'.
+
+there is an organisation named 'QMC' that
+  is a academic organisation and
+  has 'Queen Mary College' as name and
+  is affiliated to the country 'UK' and
+  is located at the place 'Queen Mary College, London, UK'.
+
+there is an organisation named 'QUB' that
+  is a academic organisation and
+  has 'Queens University Belfast' as name and
+  is affiliated to the country 'UK' and
+  is located at the place 'Queens University Belfast, Northern Ireland'.
+
+there is an organisation named 'RHUL' that
+  is a academic organisation and
+  is a core organisation and
+  has 'Royal Holloway, University of London' as name and
+  is affiliated to the country 'UK' and
+  is located at the place 'Royal Holloway University of London, UK'.
+
+there is an organisation named 'RPI' that
+  is a academic organisation and
+  is a core organisation and
+  has 'Rensselaer Polytechnic Institute' as name and
+  is affiliated to the country 'US' and
+  is located at the place 'Rensselaer Polytechnic Institute, New York'.
+
+there is an organisation named 'Rutgers' that
+  is a academic organisation and
+  has 'Rutgers University' as name and
+  is affiliated to the country 'US' and
+  is located at the place 'Rutgers University, New Jersey'.
+
+there is an organisation named 'Sangmyung' that
+  is a academic organisation and
+  has 'Sangmyung University' as name and
+  is affiliated to the country 'South Korea' and
+  is located at the place 'Sangmyung University, Korea'.
+
+there is an organisation named 'Sapienza' that
+  is a academic organisation and
+  has 'Sapienza University of Rome' as name and
+  is affiliated to the country 'Italy' and
+  is located at the place 'University of Rome, Italy'.
+
+there is an organisation named 'Singapore Management University' that
+  is a academic organisation and
+  has 'Singapore Management Univerity' as name and
+  is affiliated to the country 'Singapore' and
+  is located at the place 'Singapore Management University, Singapore'.
+
+there is an organisation named 'Southampton' that
+  is a academic organisation and
+  is a core organisation and
+  has 'University of Southampton' as name and
+  is affiliated to the country 'UK' and
+  is located at the place 'University of Southampton, UK'.
+
+there is an organisation named 'Southwest Jiaotong' that
+  is a academic organisation and
+  has 'Southwest Jiaotong University, Chengdu' as name and
+  is affiliated to the country 'China' and
+  is located at the place 'Southwest Jiaotong University, Chengdu'.
+
+there is an organisation named 'Stanford' that
+  is a academic organisation and
+  has 'Stanford University' as name and
+  is affiliated to the country 'US' and
+  is located at the place 'Stanford University, California'.
+
+there is an organisation named 'Stevens' that
+  is a academic organisation and
+  has 'Stevens Institue of Technology' as name and
+  is affiliated to the country 'US' and
+  is located at the place 'Stevens Institute of Technology'.
+
+there is an organisation named 'Suffolk' that
+  is a academic organisation and
+  has 'Suffolk University, Boston' as name and
+  is affiliated to the country 'US' and
+  is located at the place 'Suffolk University, Boston'.
+
+there is an organisation named 'Technical University of Darmstadt' that
+  is a academic organisation and
+  has 'Technical University of Darmstadt' as name and
+  is affiliated to the country 'Germany' and
+  is located at the place 'Darmstadt, Germany'.
+
+there is an organisation named 'Texas' that
+  is a academic organisation and
+  has 'University of Texas' as name and
+  is affiliated to the country 'US' and
+  is located at the place 'University of Texas, Texas'.
+
+there is an organisation named 'Toronto' that
+  is a academic organisation and
+  has 'University of Toronto' as name and
+  is affiliated to the country 'Canada' and
+  is located at the place 'University of Toronto, Canada'.
+
+there is an organisation named 'Tsinghua' that
+  is a academic organisation and
+  has 'Tsinghua University' as name and
+  is affiliated to the country 'China' and
+  is located at the place 'Tsinghua University, Beijing, China'.
+
+there is an organisation named 'UCL' that
+  is a academic organisation and
+  has 'University College London' as name and
+  is affiliated to the country 'UK' and
+  is located at the place 'University College London, UK'.
+
+there is an organisation named 'UCLA' that
+  is a academic organisation and
+  is a core organisation and
+  has 'University of California, Los Angeles' as name and
+  is affiliated to the country 'US' and
+  is located at the place 'University of California, Los Angeles, California'.
+
+there is an organisation named 'UCSB' that
+  is a academic organisation and
+  has 'University of California Santa Barbara' as name and
+  is affiliated to the country 'US' and
+  is located at the place 'University of California Santa Barbara, California'.
+
+there is an organisation named 'UCSD' that
+  is a academic organisation and
+  has 'University of California, San Diego' as name and
+  is affiliated to the country 'US' and
+  is located at the place 'UCSD, US'.
+
+there is an organisation named 'UMass' that
+  is a academic organisation and
+  is a core organisation and
+  has 'University of Massachusetts Amherst' as name and
+  is affiliated to the country 'US' and
+  is located at the place 'University of Massachusetts Amherst, Massachusetts'.
+
+there is an organisation named 'UMD' that
+  is a academic organisation and
+  is a core organisation and
+  has 'University of Maryland' as name and
+  is affiliated to the country 'US' and
+  is located at the place 'University of Maryland, Maryland'.
+
+there is an organisation named 'UMIT' that
+  is a academic organisation and
+  has 'Institute of Bioinformatics and Translational Research, UMIT' as name and
+  is affiliated to the country 'Austria' and
+  is located at the place 'UMIT, Austria'.
+
+there is an organisation named 'Uppsala' that
+  is a academic organisation and
+  has 'Uppsala University' as name and
+  is affiliated to the country 'Sweden' and
+  is located at the place 'Uppsala University, Sweden'.
+
+there is an organisation named 'Urbana-Champaign' that
+  is a academic organisation and
+  has 'University of Illinois at Urbana-Champaign' as name and
+  is affiliated to the country 'US' and
+  is located at the place 'University of Illinois at Urbana-Champaign, Illinois'.
+
+there is an organisation named 'USC' that
+  is a academic organisation and
+  has 'University of Southern California' as name and
+  is affiliated to the country 'US' and
+  is located at the place 'University of Southern California, California'.
+
+there is an organisation named 'Virginia Commonwealth' that
+  is a academic organisation and
+  has 'Virginia Commonwealth University' as name and
+  is affiliated to the country 'US' and
+  is located at the place 'Virginia Commonwealth University, Virginia'.
+
+there is an organisation named 'Yonsei' that
+  is a academic organisation and
+  has 'Yonsei University' as name and
+  is affiliated to the country 'South Korea' and
+  is located at the place 'Yonsei University, Korea'.
+
+there is an organisation named 'York' that
+  is a academic organisation and
+  is a core organisation and
+  has 'University of York' as name and
+  is affiliated to the country 'UK' and
+  is located at the place 'University of York, UK'.

@@ -1,0 +1,147 @@
+-- --------------------------------------------------------------------------
+-- (C) Copyright IBM Corporation 2016
+-- All Rights Reserved
+-- --------------------------------------------------------------------------
+
+-- This CE has been generated from SL_generator v1.21.xlsm
+
+there is a topic named 'ACT-R' that
+  has 'ACT-R' as marker.
+
+there is a topic named 'argumentation' that
+  has 'argumentation' as marker.
+
+there is a topic named 'coalition' that
+  has 'coalition' as marker.
+
+there is a topic named 'controlled english' that
+  has 'controlled english' as marker.
+
+there is a topic named 'controlled natural language' that
+  has 'controlled natural language' as marker and
+  has 'CNL' as marker.
+
+there is a topic named 'cryptography' that
+  has 'cryptography' as marker and
+  has 'cryptographic' as marker.
+
+there is a topic named 'culture' that
+  has 'culture' as marker and
+  has 'cultural' as marker.
+
+there is a topic named 'decision making' that
+  has 'decision making' as marker and
+  has 'decision-making' as marker.
+
+there is a topic named 'disruption-tolerant network' that
+  has 'disruption-tolerant network' as marker and
+  has 'DTN' as marker.
+
+there is a topic named 'edgware fabric' that
+  has 'fabric' as marker.
+
+there is a topic named 'FHE' that
+  has 'FHE' as marker and
+  has 'fully homomorphic encryption' as marker.
+
+there is a topic named 'fusion' that
+  has 'data fusion' as marker and
+  has 'information fusion' as marker.
+
+there is a topic named 'gaian' that
+  has 'Gaian' as marker and
+  has 'gaian' as marker.
+
+there is a topic named 'gait' that
+  has 'gait' as marker.
+
+there is a topic named 'in-network aggregation' that
+  has 'in-network aggregation' as marker.
+
+there is a topic named 'knowledge base' that
+  has 'knowledge base' as marker and
+  has 'knowledge-base' as marker.
+
+there is a topic named 'MANET' that
+  has 'MANET' as marker and
+  has 'MANet' as marker and
+  has 'Mobile Ad Hoc Network' as marker.
+
+there is a topic named 'miscommunication' that
+  has 'miscommunication' as marker.
+
+there is a topic named 'multihop' that
+  has 'multihop' as marker.
+
+there is a topic named 'network coding' that
+  has 'network coding' as marker.
+
+there is a topic named 'NUM' that
+  has 'Network Utility Maximization' as marker.
+
+there is a topic named 'ontologies' that
+  has 'ontology' as marker and
+  has 'ontologies' as marker.
+
+there is a topic named 'planning' that
+  has 'planning' as marker.
+
+there is a topic named 'policy' that
+  has 'policy' as marker and
+  has 'policies' as marker.
+
+there is a topic named 'rate diversity' that
+  has 'rate diversity' as marker.
+
+there is a topic named 'semantic web' that
+  has 'semantic web' as marker.
+
+there is a topic named 'semantic wiki' that
+  has 'semantic wiki' as marker.
+
+there is a topic named 'sensemaking' that
+  has 'sensemaking' as marker and
+  has 'sense-making' as marker and
+  has 'sense making' as marker.
+
+there is a topic named 'sensor network' that
+  has 'sensor network' as marker.
+
+there is a topic named 'sensor network' that
+  has 'sensor network' as marker.
+
+there is a topic named 'shared understanding' that
+  has 'shared understanding' as marker and
+  has 'joint understanding' as marker and
+  has 'group understanding' as marker and
+  has 'situation awareness' as marker.
+
+there is a topic named 'social web' that
+  has 'social web' as marker and
+  has 'web 3.0' as marker.
+
+there is a topic named 'subjective logic' that
+  has 'subjective logic' as marker.
+
+there is a topic named 'tactical networks' that
+  has 'tactical network' as marker.
+
+there is a topic named 'VANET' that
+  has 'VANET' as marker and
+  has 'VANet' as marker.
+
+there is a topic named 'verifiable computation' that
+  has 'verifiable computation' as marker.
+
+there is a topic named 'web 2.0' that
+  has 'web 2.0' as marker.
+
+there is a topic named 'wireless sensor network' that
+  has 'wireless sensor network' as marker and
+  has 'WSN' as marker.
+
+there is a topic named 'sensor mission matching' that
+  has 'MMF' as marker and
+  has 'mission and means framework' as marker and
+  has 'mission match' as marker and
+  has 'mission assign' as marker.

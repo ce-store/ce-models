@@ -1,0 +1,1190 @@
+[
+	{
+		"id": "aaa001",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "aaa002",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "aaa003",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "aa001",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "aa002",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "aa003",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "aa004",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "aa005",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "aa006",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "aa007",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "aa008",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "aa009",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "aa010",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "a001",
+		"interpret": {"question":{"text":"what is sachin tendulkars date of birth","words":["what","is","sachin","tendulkars","date","of","birth"]},"interpretations":[{"confidence":100,"result":{"properties":[{"phrase":"date of birth","start position":4,"end position":6,"entities":[{"_id":"person:date of birth:value","_concept":["attribute concept","meaning","concept","property concept","datatype property","dbpedia thing"],"property name":"date of birth","domain":"person","predicate name":"http://dbpedia.org/property/dateOfBirth"}]}],"instances":[{"phrase":"what","start position":0,"end position":0,"entities":[{"_id":"what","_concept":["question word"]}]},{"phrase":"what is","start position":0,"end position":1,"entities":[{"_id":"what is","_concept":["question phrase"],"is expressed by":["whats","what's"]}]},{"phrase":"is","start position":1,"end position":1,"entities":[{"_id":"is","_concept":["common word"]}]},{"phrase":"sachin tendulkars","start position":2,"end position":3,"entities":[{"_id":"SR Tendulkar","_concept":["bowler","person","batsman","player"],"is expressed by":["Master Blaster","Little Master","Sachin Tendulkar","Tendulkar","Tendlya"]}]}],"specials":[{"type":"matched-triple","phrase":"sachin tendulkars date of birth","start position":2,"end position":6,"predicate":{"phrase":"date of birth","start position":4,"end position":6,"entities":[{"_id":"person:date of birth:value","_concept":["attribute concept","meaning","concept","property concept","datatype property","dbpedia thing"],"property name":"date of birth","domain":"person","predicate name":"http://dbpedia.org/property/dateOfBirth"}]},"subject instances":[{"phrase":"sachin tendulkars","start position":2,"end position":3,"entities":[{"_id":"SR Tendulkar","_concept":["bowler","person","batsman","player"],"is expressed by":["Master Blaster","Little Master","Sachin Tendulkar","Tendulkar","Tendlya"]}]}]}]}}]},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "a002",
+		"interpret": {"question":{"text":"what is sachin tendulkar's place of birth","words":["what","is","sachin","tendulkar's","place","of","birth"]},"interpretations":[{"confidence":100,"result":{"properties":[{"phrase":"place of birth","start position":4,"end position":6,"entities":[{"_id":"person:place of birth:value","_concept":["attribute concept","meaning","concept","property concept","datatype property","dbpedia thing"],"property name":"place of birth","domain":"person","predicate name":"http://dbpedia.org/ontology/birthPlace"}]}],"instances":[{"phrase":"what","start position":0,"end position":0,"entities":[{"_id":"what","_concept":["question word"]}]},{"phrase":"what is","start position":0,"end position":1,"entities":[{"_id":"what is","_concept":["question phrase"],"is expressed by":["whats","what's"]}]},{"phrase":"is","start position":1,"end position":1,"entities":[{"_id":"is","_concept":["common word"]}]},{"phrase":"sachin tendulkar's","start position":2,"end position":3,"entities":[{"_id":"SR Tendulkar","_concept":["bowler","person","batsman","player"],"is expressed by":["Master Blaster","Little Master","Sachin Tendulkar","Tendulkar","Tendlya"]}]}],"specials":[{"type":"matched-triple","phrase":"sachin tendulkar's place of birth","start position":2,"end position":6,"predicate":{"phrase":"place of birth","start position":4,"end position":6,"entities":[{"_id":"person:place of birth:value","_concept":["attribute concept","meaning","concept","property concept","datatype property","dbpedia thing"],"property name":"place of birth","domain":"person","predicate name":"http://dbpedia.org/ontology/birthPlace"}]},"subject instances":[{"phrase":"sachin tendulkar's","start position":2,"end position":3,"entities":[{"_id":"SR Tendulkar","_concept":["bowler","person","batsman","player"],"is expressed by":["Master Blaster","Little Master","Sachin Tendulkar","Tendulkar","Tendlya"]}]}]}]}}]},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "a003",
+		"interpret": {"question":{"text":"what is sachin tendulkars religion","words":["what","is","sachin","tendulkars","religion"]},"interpretations":[{"confidence":100,"result":{"properties":[{"phrase":"religion","start position":4,"end position":4,"entities":[{"_id":"person:religion:value","_concept":["attribute concept","meaning","concept","property concept","datatype property","dbpedia thing"],"property name":"religion","domain":"person","predicate name":"http://dbpedia.org/property/religion"}]}],"instances":[{"phrase":"what","start position":0,"end position":0,"entities":[{"_id":"what","_concept":["question word"]}]},{"phrase":"what is","start position":0,"end position":1,"entities":[{"_id":"what is","_concept":["question phrase"],"is expressed by":["whats","what's"]}]},{"phrase":"is","start position":1,"end position":1,"entities":[{"_id":"is","_concept":["common word"]}]},{"phrase":"sachin tendulkars","start position":2,"end position":3,"entities":[{"_id":"SR Tendulkar","_concept":["bowler","person","batsman","player"],"is expressed by":["Master Blaster","Little Master","Sachin Tendulkar","Tendulkar","Tendlya"]}]}],"specials":[{"type":"matched-triple","phrase":"sachin tendulkars religion","start position":2,"end position":4,"predicate":{"phrase":"religion","start position":4,"end position":4,"entities":[{"_id":"person:religion:value","_concept":["attribute concept","meaning","concept","property concept","datatype property","dbpedia thing"],"property name":"religion","domain":"person","predicate name":"http://dbpedia.org/property/religion"}]},"subject instances":[{"phrase":"sachin tendulkars","start position":2,"end position":3,"entities":[{"_id":"SR Tendulkar","_concept":["bowler","person","batsman","player"],"is expressed by":["Master Blaster","Little Master","Sachin Tendulkar","Tendulkar","Tendlya"]}]}]}]}}]},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "a004",
+		"interpret": {"question":{"text":"what is sachin tendulkar's role","words":["what","is","sachin","tendulkar's","role"]},"interpretations":[{"confidence":100,"result":{"concepts":[{"phrase":"role","start position":4,"end position":4,"entities":[{"_id":"role","_concept":["entity concept","meaning","concept"]}]}],"properties":[{"phrase":"role","start position":4,"end position":4,"entities":[{"_id":"player:role:value","_concept":["attribute concept","meaning","concept","property concept","datatype property","dbpedia thing"],"property name":"role","domain":"player","predicate name":"http://dbpedia.org/property/role"}]}],"instances":[{"phrase":"what","start position":0,"end position":0,"entities":[{"_id":"what","_concept":["question word"]}]},{"phrase":"what is","start position":0,"end position":1,"entities":[{"_id":"what is","_concept":["question phrase"],"is expressed by":["whats","what's"]}]},{"phrase":"is","start position":1,"end position":1,"entities":[{"_id":"is","_concept":["common word"]}]},{"phrase":"sachin tendulkar's","start position":2,"end position":3,"entities":[{"_id":"SR Tendulkar","_concept":["bowler","person","batsman","player"],"is expressed by":["Master Blaster","Little Master","Sachin Tendulkar","Tendulkar","Tendlya"]}]}],"specials":[{"type":"matched-triple","phrase":"sachin tendulkar's role","start position":2,"end position":4,"predicate":{"phrase":"role","start position":4,"end position":4,"entities":[{"_id":"player:role:value","_concept":["attribute concept","meaning","concept","property concept","datatype property","dbpedia thing"],"property name":"role","domain":"player","predicate name":"http://dbpedia.org/property/role"}]},"subject instances":[{"phrase":"sachin tendulkar's","start position":2,"end position":3,"entities":[{"_id":"SR Tendulkar","_concept":["bowler","person","batsman","player"],"is expressed by":["Master Blaster","Little Master","Sachin Tendulkar","Tendulkar","Tendlya"]}]}]}]}}]},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "a005",
+		"interpret": {"question":{"text":"what are sachin tendulkar's roles","words":["what","are","sachin","tendulkar's","roles"]},"interpretations":[{"confidence":100,"result":{"concepts":[{"phrase":"roles","start position":4,"end position":4,"entities":[{"_id":"role","_concept":["entity concept","meaning","concept"]}]}],"properties":[{"phrase":"roles","start position":4,"end position":4,"entities":[{"_id":"player:role:value","_concept":["attribute concept","meaning","concept","property concept","datatype property","dbpedia thing"],"property name":"role","domain":"player","predicate name":"http://dbpedia.org/property/role"}]}],"instances":[{"phrase":"what","start position":0,"end position":0,"entities":[{"_id":"what","_concept":["question word"]}]},{"phrase":"what are","start position":0,"end position":1,"entities":[{"_id":"what are","_concept":["question phrase"]}]},{"phrase":"are","start position":1,"end position":1,"entities":[{"_id":"are","_concept":["common word"]}]},{"phrase":"sachin tendulkar's","start position":2,"end position":3,"entities":[{"_id":"SR Tendulkar","_concept":["bowler","person","batsman","player"],"is expressed by":["Master Blaster","Little Master","Sachin Tendulkar","Tendulkar","Tendlya"]}]}],"specials":[{"type":"matched-triple","phrase":"sachin tendulkar's roles","start position":2,"end position":4,"predicate":{"phrase":"roles","start position":4,"end position":4,"entities":[{"_id":"player:role:value","_concept":["attribute concept","meaning","concept","property concept","datatype property","dbpedia thing"],"property name":"role","domain":"player","predicate name":"http://dbpedia.org/property/role"}]},"subject instances":[{"phrase":"sachin tendulkar's","start position":2,"end position":3,"entities":[{"_id":"SR Tendulkar","_concept":["bowler","person","batsman","player"],"is expressed by":["Master Blaster","Little Master","Sachin Tendulkar","Tendulkar","Tendlya"]}]}]}]}}]},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "a006",
+		"interpret": {"question":{"text":"what is sachin tendulkars batting average","words":["what","is","sachin","tendulkars","batting","average"]},"interpretations":[{"confidence":100,"result":{"properties":[{"phrase":"batting average","start position":4,"end position":5,"entities":[{"_id":"batsman:batting average:value","_concept":["attribute concept","meaning","concept","property concept","datatype property","dbpedia thing"],"property name":"batting average","domain":"batsman","predicate name":"http://dbpedia.org/property/batAvg"}]}],"instances":[{"phrase":"what","start position":0,"end position":0,"entities":[{"_id":"what","_concept":["question word"]}]},{"phrase":"what is","start position":0,"end position":1,"entities":[{"_id":"what is","_concept":["question phrase"],"is expressed by":["whats","what's"]}]},{"phrase":"is","start position":1,"end position":1,"entities":[{"_id":"is","_concept":["common word"]}]},{"phrase":"sachin tendulkars","start position":2,"end position":3,"entities":[{"_id":"SR Tendulkar","_concept":["bowler","person","batsman","player"],"is expressed by":["Master Blaster","Little Master","Sachin Tendulkar","Tendulkar","Tendlya"]}]},{"phrase":"batting","start position":4,"end position":4,"entities":[{"_id":"w_035","_concept":["glossary term","local concept"],"main form":"Batting","description":"The act and skill of defending one's wicket and scoring runs.","source":"wikipedia:Glossary_of_cricket_terms"}]},{"phrase":"batting average","start position":4,"end position":5,"entities":[{"_id":"w_036","_concept":["glossary term","local concept"],"main form":"Batting average","description":"The average number of runs scored per innings by a batsman, calculated by dividing the batsman's total runs scored during those innings in question by the number of times the batsman was out.","source":"wikipedia:Glossary_of_cricket_terms"}]},{"phrase":"average","start position":5,"end position":5,"entities":[{"_id":"w_017","_concept":["glossary term","local concept"],"main form":"Average","description":"A bowler's bowling average is defined as the total number of runs conceded by the bowler (including wides and no-balls) divided by the number of wickets taken by the bowler.","source":"wikipedia:Glossary_of_cricket_terms"},{"_id":"w_018","_concept":["glossary term","local concept"],"main form":"Average","description":"A batsman's batting average is defined as the total number of runs scored by the batsman divided by the number of times he has been dismissed.","source":"wikipedia:Glossary_of_cricket_terms"}]}],"specials":[{"type":"matched-triple","phrase":"sachin tendulkars batting average","start position":2,"end position":5,"predicate":{"phrase":"batting average","start position":4,"end position":5,"entities":[{"_id":"batsman:batting average:value","_concept":["attribute concept","meaning","concept","property concept","datatype property","dbpedia thing"],"property name":"batting average","domain":"batsman","predicate name":"http://dbpedia.org/property/batAvg"}]},"subject instances":[{"phrase":"sachin tendulkars","start position":2,"end position":3,"entities":[{"_id":"SR Tendulkar","_concept":["bowler","person","batsman","player"],"is expressed by":["Master Blaster","Little Master","Sachin Tendulkar","Tendulkar","Tendlya"]}]}]}]}}]},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "a007",
+		"interpret": {"question":{"text":"what is sachin tendulkar' bowling average","words":["what","is","sachin","tendulkar'","bowling","average"]},"interpretations":[{"confidence":100,"result":{"properties":[{"phrase":"bowling average","start position":4,"end position":5,"entities":[{"_id":"bowler:bowling average:value","_concept":["attribute concept","meaning","concept","property concept","datatype property","dbpedia thing"],"property name":"bowling average","domain":"bowler","predicate name":"http://dbpedia.org/property/bowlAvg"}]}],"instances":[{"phrase":"what","start position":0,"end position":0,"entities":[{"_id":"what","_concept":["question word"]}]},{"phrase":"what is","start position":0,"end position":1,"entities":[{"_id":"what is","_concept":["question phrase"],"is expressed by":["whats","what's"]}]},{"phrase":"is","start position":1,"end position":1,"entities":[{"_id":"is","_concept":["common word"]}]},{"phrase":"sachin tendulkar'","start position":2,"end position":3,"entities":[{"_id":"SR Tendulkar","_concept":["bowler","person","batsman","player"],"is expressed by":["Master Blaster","Little Master","Sachin Tendulkar","Tendulkar","Tendlya"]}]},{"phrase":"bowling","start position":4,"end position":4,"entities":[{"_id":"w_065","_concept":["glossary term","local concept"],"main form":"Bowling","description":"The act of delivering the cricket ball to the batsman.","source":"wikipedia:Glossary_of_cricket_terms"}]},{"phrase":"average","start position":5,"end position":5,"entities":[{"_id":"w_017","_concept":["glossary term","local concept"],"main form":"Average","description":"A bowler's bowling average is defined as the total number of runs conceded by the bowler (including wides and no-balls) divided by the number of wickets taken by the bowler.","source":"wikipedia:Glossary_of_cricket_terms"},{"_id":"w_018","_concept":["glossary term","local concept"],"main form":"Average","description":"A batsman's batting average is defined as the total number of runs scored by the batsman divided by the number of times he has been dismissed.","source":"wikipedia:Glossary_of_cricket_terms"}]}],"specials":[{"type":"matched-triple","phrase":"sachin tendulkar' bowling average","start position":2,"end position":5,"predicate":{"phrase":"bowling average","start position":4,"end position":5,"entities":[{"_id":"bowler:bowling average:value","_concept":["attribute concept","meaning","concept","property concept","datatype property","dbpedia thing"],"property name":"bowling average","domain":"bowler","predicate name":"http://dbpedia.org/property/bowlAvg"}]},"subject instances":[{"phrase":"sachin tendulkar'","start position":2,"end position":3,"entities":[{"_id":"SR Tendulkar","_concept":["bowler","person","batsman","player"],"is expressed by":["Master Blaster","Little Master","Sachin Tendulkar","Tendulkar","Tendlya"]}]}]}]}}]},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "a008",
+		"interpret": {"question":{"text":"what is sachin tendulkars batting hand","words":["what","is","sachin","tendulkars","batting","hand"]},"interpretations":[{"confidence":100,"result":{"properties":[{"phrase":"batting hand","start position":4,"end position":5,"entities":[{"_id":"batsman:batting hand:value","_concept":["attribute concept","meaning","concept","property concept","datatype property","dbpedia thing"],"property name":"batting hand","domain":"batsman","predicate name":"http://dbpedia.org/property/batting"}]}],"instances":[{"phrase":"what","start position":0,"end position":0,"entities":[{"_id":"what","_concept":["question word"]}]},{"phrase":"what is","start position":0,"end position":1,"entities":[{"_id":"what is","_concept":["question phrase"],"is expressed by":["whats","what's"]}]},{"phrase":"is","start position":1,"end position":1,"entities":[{"_id":"is","_concept":["common word"]}]},{"phrase":"sachin tendulkars","start position":2,"end position":3,"entities":[{"_id":"SR Tendulkar","_concept":["bowler","person","batsman","player"],"is expressed by":["Master Blaster","Little Master","Sachin Tendulkar","Tendulkar","Tendlya"]}]},{"phrase":"batting","start position":4,"end position":4,"entities":[{"_id":"w_035","_concept":["glossary term","local concept"],"main form":"Batting","description":"The act and skill of defending one's wicket and scoring runs.","source":"wikipedia:Glossary_of_cricket_terms"}]}],"specials":[{"type":"matched-triple","phrase":"sachin tendulkars batting hand","start position":2,"end position":5,"predicate":{"phrase":"batting hand","start position":4,"end position":5,"entities":[{"_id":"batsman:batting hand:value","_concept":["attribute concept","meaning","concept","property concept","datatype property","dbpedia thing"],"property name":"batting hand","domain":"batsman","predicate name":"http://dbpedia.org/property/batting"}]},"subject instances":[{"phrase":"sachin tendulkars","start position":2,"end position":3,"entities":[{"_id":"SR Tendulkar","_concept":["bowler","person","batsman","player"],"is expressed by":["Master Blaster","Little Master","Sachin Tendulkar","Tendulkar","Tendlya"]}]}]}]}}]},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "a009",
+		"interpret": {"question":{"text":"what is sachin tendulkar' bowling hand","words":["what","is","sachin","tendulkar'","bowling","hand"]},"interpretations":[{"confidence":100,"result":{"properties":[{"phrase":"bowling hand","start position":4,"end position":5,"entities":[{"_id":"bowler:bowling hand:value","_concept":["attribute concept","meaning","concept","property concept","datatype property","dbpedia thing"],"property name":"bowling hand","domain":"bowler","predicate name":"http://dbpedia.org/property/bowling"}]}],"instances":[{"phrase":"what","start position":0,"end position":0,"entities":[{"_id":"what","_concept":["question word"]}]},{"phrase":"what is","start position":0,"end position":1,"entities":[{"_id":"what is","_concept":["question phrase"],"is expressed by":["whats","what's"]}]},{"phrase":"is","start position":1,"end position":1,"entities":[{"_id":"is","_concept":["common word"]}]},{"phrase":"sachin tendulkar'","start position":2,"end position":3,"entities":[{"_id":"SR Tendulkar","_concept":["bowler","person","batsman","player"],"is expressed by":["Master Blaster","Little Master","Sachin Tendulkar","Tendulkar","Tendlya"]}]},{"phrase":"bowling","start position":4,"end position":4,"entities":[{"_id":"w_065","_concept":["glossary term","local concept"],"main form":"Bowling","description":"The act of delivering the cricket ball to the batsman.","source":"wikipedia:Glossary_of_cricket_terms"}]}],"specials":[{"type":"matched-triple","phrase":"sachin tendulkar' bowling hand","start position":2,"end position":5,"predicate":{"phrase":"bowling hand","start position":4,"end position":5,"entities":[{"_id":"bowler:bowling hand:value","_concept":["attribute concept","meaning","concept","property concept","datatype property","dbpedia thing"],"property name":"bowling hand","domain":"bowler","predicate name":"http://dbpedia.org/property/bowling"}]},"subject instances":[{"phrase":"sachin tendulkar'","start position":2,"end position":3,"entities":[{"_id":"SR Tendulkar","_concept":["bowler","person","batsman","player"],"is expressed by":["Master Blaster","Little Master","Sachin Tendulkar","Tendulkar","Tendlya"]}]}]}]}}]},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "a010",
+		"interpret": {"question":{"text":"what is sachin tendulkars nickname","words":["what","is","sachin","tendulkars","nickname"]},"interpretations":[{"confidence":100,"result":{"properties":[{"phrase":"nickname","start position":4,"end position":4,"entities":[{"_id":"player:nickname:value","_concept":["attribute concept","meaning","concept","property concept","datatype property","dbpedia thing"],"property name":"nickname","domain":"player","predicate name":"http://dbpedia.org/property/alternativeNames"}]}],"instances":[{"phrase":"what","start position":0,"end position":0,"entities":[{"_id":"what","_concept":["question word"]}]},{"phrase":"what is","start position":0,"end position":1,"entities":[{"_id":"what is","_concept":["question phrase"],"is expressed by":["whats","what's"]}]},{"phrase":"is","start position":1,"end position":1,"entities":[{"_id":"is","_concept":["common word"]}]},{"phrase":"sachin tendulkars","start position":2,"end position":3,"entities":[{"_id":"SR Tendulkar","_concept":["bowler","person","batsman","player"],"is expressed by":["Master Blaster","Little Master","Sachin Tendulkar","Tendulkar","Tendlya"]}]}],"specials":[{"type":"matched-triple","phrase":"sachin tendulkars nickname","start position":2,"end position":4,"predicate":{"phrase":"nickname","start position":4,"end position":4,"entities":[{"_id":"player:nickname:value","_concept":["attribute concept","meaning","concept","property concept","datatype property","dbpedia thing"],"property name":"nickname","domain":"player","predicate name":"http://dbpedia.org/property/alternativeNames"}]},"subject instances":[{"phrase":"sachin tendulkars","start position":2,"end position":3,"entities":[{"_id":"SR Tendulkar","_concept":["bowler","person","batsman","player"],"is expressed by":["Master Blaster","Little Master","Sachin Tendulkar","Tendulkar","Tendlya"]}]}]}]}}]},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "a011",
+		"interpret": {"question":{"text":"what are sachin tendulkar's nicknames","words":["what","are","sachin","tendulkar's","nicknames"]},"interpretations":[{"confidence":100,"result":{"properties":[{"phrase":"nicknames","start position":4,"end position":4,"entities":[{"_id":"player:nickname:value","_concept":["attribute concept","meaning","concept","property concept","datatype property","dbpedia thing"],"property name":"nickname","domain":"player","predicate name":"http://dbpedia.org/property/alternativeNames"}]}],"instances":[{"phrase":"what","start position":0,"end position":0,"entities":[{"_id":"what","_concept":["question word"]}]},{"phrase":"what are","start position":0,"end position":1,"entities":[{"_id":"what are","_concept":["question phrase"]}]},{"phrase":"are","start position":1,"end position":1,"entities":[{"_id":"are","_concept":["common word"]}]},{"phrase":"sachin tendulkar's","start position":2,"end position":3,"entities":[{"_id":"SR Tendulkar","_concept":["bowler","person","batsman","player"],"is expressed by":["Master Blaster","Little Master","Sachin Tendulkar","Tendulkar","Tendlya"]}]}],"specials":[{"type":"matched-triple","phrase":"sachin tendulkar's nicknames","start position":2,"end position":4,"predicate":{"phrase":"nicknames","start position":4,"end position":4,"entities":[{"_id":"player:nickname:value","_concept":["attribute concept","meaning","concept","property concept","datatype property","dbpedia thing"],"property name":"nickname","domain":"player","predicate name":"http://dbpedia.org/property/alternativeNames"}]},"subject instances":[{"phrase":"sachin tendulkar's","start position":2,"end position":3,"entities":[{"_id":"SR Tendulkar","_concept":["bowler","person","batsman","player"],"is expressed by":["Master Blaster","Little Master","Sachin Tendulkar","Tendulkar","Tendlya"]}]}]}]}}]},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "a012",
+		"interpret": {"question":{"text":"who does sachin tendulkar play for","words":["who","does","sachin","tendulkar","play","for"]},"interpretations":[{"confidence":83,"explanation":"The word 'does' was not matched","result":{"properties":[{"phrase":"play for","start position":4,"end position":5,"entities":[{"_id":"player:plays for:team","_concept":["object property","meaning","concept","relation concept","property concept","dbpedia thing"],"property name":"plays for","domain":"player","range":"team","is expressed by":"play for","predicate name":"http://dbpedia.org/property/club"}]}],"instances":[{"phrase":"who","start position":0,"end position":0,"entities":[{"_id":"who","_concept":["question word"]}]},{"phrase":"sachin tendulkar","start position":2,"end position":3,"entities":[{"_id":"SR Tendulkar","_concept":["bowler","person","batsman","player"],"is expressed by":["Master Blaster","Little Master","Sachin Tendulkar","Tendulkar","Tendlya"]}]},{"phrase":"play","start position":4,"end position":4,"entities":[{"_id":"play","_concept":["modifier"],"corresponds to":"general:show"}]}],"specials":[{"type":"matched-triple","phrase":"sachin tendulkar play for","start position":2,"end position":5,"predicate":{"phrase":"play for","start position":4,"end position":5,"entities":[{"_id":"player:plays for:team","_concept":["object property","meaning","concept","relation concept","property concept","dbpedia thing"],"property name":"plays for","domain":"player","range":"team","is expressed by":"play for","predicate name":"http://dbpedia.org/property/club"}]},"subject instances":[{"phrase":"sachin tendulkar","start position":2,"end position":3,"entities":[{"_id":"SR Tendulkar","_concept":["bowler","person","batsman","player"],"is expressed by":["Master Blaster","Little Master","Sachin Tendulkar","Tendulkar","Tendlya"]}]}]}]}}]},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "a013",
+		"interpret": {"question":{"text":"what is sachin tendulkar captaincy list","words":["what","is","sachin","tendulkar","captaincy","list"]},"interpretations":[{"confidence":100,"result":{"properties":[{"phrase":"captaincy","start position":4,"end position":4,"entities":[{"_id":"player:captaincy:value","_concept":["attribute concept","meaning","concept","property concept","datatype property","dbpedia thing"],"property name":"captaincy","domain":"player","predicate name":"http://dbpedia.org/property/captain"}]}],"instances":[{"phrase":"what","start position":0,"end position":0,"entities":[{"_id":"what","_concept":["question word"]}]},{"phrase":"what is","start position":0,"end position":1,"entities":[{"_id":"what is","_concept":["question phrase"],"is expressed by":["whats","what's"]}]},{"phrase":"is","start position":1,"end position":1,"entities":[{"_id":"is","_concept":["common word"]}]},{"phrase":"sachin tendulkar","start position":2,"end position":3,"entities":[{"_id":"SR Tendulkar","_concept":["bowler","person","batsman","player"],"is expressed by":["Master Blaster","Little Master","Sachin Tendulkar","Tendulkar","Tendlya"]}]},{"phrase":"list","start position":5,"end position":5,"entities":[{"_id":"list","_concept":["modifier"],"corresponds to":"general:list"}]}],"specials":[{"type":"matched-triple","phrase":"sachin tendulkar captaincy","start position":2,"end position":4,"predicate":{"phrase":"captaincy","start position":4,"end position":4,"entities":[{"_id":"player:captaincy:value","_concept":["attribute concept","meaning","concept","property concept","datatype property","dbpedia thing"],"property name":"captaincy","domain":"player","predicate name":"http://dbpedia.org/property/captain"}]},"subject instances":[{"phrase":"sachin tendulkar","start position":2,"end position":3,"entities":[{"_id":"SR Tendulkar","_concept":["bowler","person","batsman","player"],"is expressed by":["Master Blaster","Little Master","Sachin Tendulkar","Tendulkar","Tendlya"]}]}]}]}}]},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "a014",
+		"interpret": {"question":{"text":"what is sachin tendulkar man of the match list","words":["what","is","sachin","tendulkar","man","of","the","match","list"]},"interpretations":[{"confidence":100,"result":{"concepts":[{"phrase":"man","start position":4,"end position":4,"entities":[{"_id":"man","_concept":["entity concept","meaning","concept"]}]},{"phrase":"match","start position":7,"end position":7,"entities":[{"_id":"match","_concept":["entity concept","meaning","concept"],"is expressed by":"game","plural form":"matches"}]}],"properties":[{"phrase":"man of the match","start position":4,"end position":7,"entities":[{"_id":"player:man of the match:value","_concept":["attribute concept","meaning","concept","property concept","datatype property","dbpedia thing"],"property name":"man of the match","domain":"player","predicate name":"http://dbpedia.org/property/motm"}]}],"instances":[{"phrase":"what","start position":0,"end position":0,"entities":[{"_id":"what","_concept":["question word"]}]},{"phrase":"what is","start position":0,"end position":1,"entities":[{"_id":"what is","_concept":["question phrase"],"is expressed by":["whats","what's"]}]},{"phrase":"is","start position":1,"end position":1,"entities":[{"_id":"is","_concept":["common word"]}]},{"phrase":"sachin tendulkar","start position":2,"end position":3,"entities":[{"_id":"SR Tendulkar","_concept":["bowler","person","batsman","player"],"is expressed by":["Master Blaster","Little Master","Sachin Tendulkar","Tendulkar","Tendlya"]}]},{"phrase":"man of the match","start position":4,"end position":7,"entities":[{"_id":"w_327","_concept":["glossary term","local concept"],"main form":"Man of the match","description":"an award which may be given to the highest scoring batsman, leading wicket taker or best overall performer in a match. Man of the series is the same over a whole series.","source":"wikipedia:Glossary_of_cricket_terms"}]},{"phrase":"the","start position":6,"end position":6,"entities":[{"_id":"the","_concept":["common word"]}]},{"phrase":"list","start position":8,"end position":8,"entities":[{"_id":"list","_concept":["modifier"],"corresponds to":"general:list"}]}],"specials":[{"type":"matched-triple","phrase":"sachin tendulkar man of the match","start position":2,"end position":7,"predicate":{"phrase":"man of the match","start position":4,"end position":7,"entities":[{"_id":"player:man of the match:value","_concept":["attribute concept","meaning","concept","property concept","datatype property","dbpedia thing"],"property name":"man of the match","domain":"player","predicate name":"http://dbpedia.org/property/motm"}]},"subject instances":[{"phrase":"sachin tendulkar","start position":2,"end position":3,"entities":[{"_id":"SR Tendulkar","_concept":["bowler","person","batsman","player"],"is expressed by":["Master Blaster","Little Master","Sachin Tendulkar","Tendulkar","Tendlya"]}]}]}]}}]},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "a015",
+		"interpret": {"question":{"text":"what is andrew strauss batting average","words":["what","is","andrew","strauss","batting","average"]},"interpretations":[{"confidence":100,"result":{"properties":[{"phrase":"batting average","start position":4,"end position":5,"entities":[{"_id":"batsman:batting average:value","_concept":["attribute concept","meaning","concept","property concept","datatype property","dbpedia thing"],"property name":"batting average","domain":"batsman","predicate name":"http://dbpedia.org/property/batAvg"}]}],"instances":[{"phrase":"what","start position":0,"end position":0,"entities":[{"_id":"what","_concept":["question word"]}]},{"phrase":"what is","start position":0,"end position":1,"entities":[{"_id":"what is","_concept":["question phrase"],"is expressed by":["whats","what's"]}]},{"phrase":"is","start position":1,"end position":1,"entities":[{"_id":"is","_concept":["common word"]}]},{"phrase":"andrew strauss","start position":2,"end position":3,"entities":[{"_id":"AJ Strauss","_concept":["person","batsman","player"],"is expressed by":"Andrew Strauss"}]},{"phrase":"batting","start position":4,"end position":4,"entities":[{"_id":"w_035","_concept":["glossary term","local concept"],"main form":"Batting","description":"The act and skill of defending one's wicket and scoring runs.","source":"wikipedia:Glossary_of_cricket_terms"}]},{"phrase":"batting average","start position":4,"end position":5,"entities":[{"_id":"w_036","_concept":["glossary term","local concept"],"main form":"Batting average","description":"The average number of runs scored per innings by a batsman, calculated by dividing the batsman's total runs scored during those innings in question by the number of times the batsman was out.","source":"wikipedia:Glossary_of_cricket_terms"}]},{"phrase":"average","start position":5,"end position":5,"entities":[{"_id":"w_017","_concept":["glossary term","local concept"],"main form":"Average","description":"A bowler's bowling average is defined as the total number of runs conceded by the bowler (including wides and no-balls) divided by the number of wickets taken by the bowler.","source":"wikipedia:Glossary_of_cricket_terms"},{"_id":"w_018","_concept":["glossary term","local concept"],"main form":"Average","description":"A batsman's batting average is defined as the total number of runs scored by the batsman divided by the number of times he has been dismissed.","source":"wikipedia:Glossary_of_cricket_terms"}]}],"specials":[{"type":"matched-triple","phrase":"andrew strauss batting average","start position":2,"end position":5,"predicate":{"phrase":"batting average","start position":4,"end position":5,"entities":[{"_id":"batsman:batting average:value","_concept":["attribute concept","meaning","concept","property concept","datatype property","dbpedia thing"],"property name":"batting average","domain":"batsman","predicate name":"http://dbpedia.org/property/batAvg"}]},"subject instances":[{"phrase":"andrew strauss","start position":2,"end position":3,"entities":[{"_id":"AJ Strauss","_concept":["person","batsman","player"],"is expressed by":"Andrew Strauss"}]}]}]}}]},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "a016",
+		"interpret": {"question":{"text":"what is andrew strauss career runs","words":["what","is","andrew","strauss","career","runs"]},"interpretations":[{"confidence":100,"result":{"concepts":[{"phrase":"runs","start position":5,"end position":5,"entities":[{"_id":"run","_concept":["score","entity concept","meaning","concept","potential score"],"sub-concept":["six","four"],"run count":"1"}]}],"properties":[{"phrase":"career runs","start position":4,"end position":5,"entities":[{"_id":"batsman:career runs:value","_concept":["attribute concept","meaning","concept","property concept","datatype property"],"property name":"career runs","domain":"batsman","is expressed by":["total runs","runs"]}]},{"phrase":"batsman:career runs:value","start position":5,"end position":5,"entities":[{"_id":"batsman:career runs:value","_concept":["attribute concept","meaning","concept","property concept","datatype property"],"property name":"career runs","domain":"batsman","is expressed by":["total runs","runs"]}]}],"instances":[{"phrase":"what","start position":0,"end position":0,"entities":[{"_id":"what","_concept":["question word"]}]},{"phrase":"what is","start position":0,"end position":1,"entities":[{"_id":"what is","_concept":["question phrase"],"is expressed by":["whats","what's"]}]},{"phrase":"is","start position":1,"end position":1,"entities":[{"_id":"is","_concept":["common word"]}]},{"phrase":"andrew strauss","start position":2,"end position":3,"entities":[{"_id":"AJ Strauss","_concept":["person","batsman","player"],"is expressed by":"Andrew Strauss"}]}],"specials":[{"type":"matched-triple","phrase":"andrew strauss career runs","start position":2,"end position":5,"predicate":{"phrase":"career runs","start position":4,"end position":5,"entities":[{"_id":"batsman:career runs:value","_concept":["attribute concept","meaning","concept","property concept","datatype property"],"property name":"career runs","domain":"batsman","is expressed by":["total runs","runs"]}]},"subject instances":[{"phrase":"andrew strauss","start position":2,"end position":3,"entities":[{"_id":"AJ Strauss","_concept":["person","batsman","player"],"is expressed by":"Andrew Strauss"}]}]},{"type":"matched-triple","phrase":"andrew strauss career batsman:career runs:value","start position":2,"end position":5,"predicate":{"phrase":"batsman:career runs:value","start position":5,"end position":5,"entities":[{"_id":"batsman:career runs:value","_concept":["attribute concept","meaning","concept","property concept","datatype property"],"property name":"career runs","domain":"batsman","is expressed by":["total runs","runs"]}]},"subject instances":[{"phrase":"andrew strauss","start position":2,"end position":3,"entities":[{"_id":"AJ Strauss","_concept":["person","batsman","player"],"is expressed by":"Andrew Strauss"}]}]}]}}]},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "a017",
+		"interpret": {"question":{"text":"what is andrew strauss total runs","words":["what","is","andrew","strauss","total","runs"]},"interpretations":[{"confidence":100,"result":{"concepts":[{"phrase":"total","start position":4,"end position":4,"entities":[{"_id":"score","_concept":["entity concept","meaning","concept"],"sub-concept":"potential score","is expressed by":["total","figure","scored"]}]},{"phrase":"runs","start position":5,"end position":5,"entities":[{"_id":"run","_concept":["score","entity concept","meaning","concept","potential score"],"sub-concept":["six","four"],"run count":"1"}]}],"properties":[{"phrase":"total runs","start position":4,"end position":5,"entities":[{"_id":"batsman:career runs:value","_concept":["attribute concept","meaning","concept","property concept","datatype property"],"property name":"career runs","domain":"batsman","is expressed by":["total runs","runs"]}]},{"phrase":"batsman:career runs:value","start position":5,"end position":5,"entities":[{"_id":"batsman:career runs:value","_concept":["attribute concept","meaning","concept","property concept","datatype property"],"property name":"career runs","domain":"batsman","is expressed by":["total runs","runs"]}]}],"instances":[{"phrase":"what","start position":0,"end position":0,"entities":[{"_id":"what","_concept":["question word"]}]},{"phrase":"what is","start position":0,"end position":1,"entities":[{"_id":"what is","_concept":["question phrase"],"is expressed by":["whats","what's"]}]},{"phrase":"is","start position":1,"end position":1,"entities":[{"_id":"is","_concept":["common word"]}]},{"phrase":"andrew strauss","start position":2,"end position":3,"entities":[{"_id":"AJ Strauss","_concept":["person","batsman","player"],"is expressed by":"Andrew Strauss"}]}],"specials":[{"type":"matched-triple","phrase":"andrew strauss total runs","start position":2,"end position":5,"predicate":{"phrase":"total runs","start position":4,"end position":5,"entities":[{"_id":"batsman:career runs:value","_concept":["attribute concept","meaning","concept","property concept","datatype property"],"property name":"career runs","domain":"batsman","is expressed by":["total runs","runs"]}]},"subject instances":[{"phrase":"andrew strauss","start position":2,"end position":3,"entities":[{"_id":"AJ Strauss","_concept":["person","batsman","player"],"is expressed by":"Andrew Strauss"}]}]},{"type":"matched-triple","phrase":"andrew strauss total batsman:career runs:value","start position":2,"end position":5,"predicate":{"phrase":"batsman:career runs:value","start position":5,"end position":5,"entities":[{"_id":"batsman:career runs:value","_concept":["attribute concept","meaning","concept","property concept","datatype property"],"property name":"career runs","domain":"batsman","is expressed by":["total runs","runs"]}]},"subject instances":[{"phrase":"andrew strauss","start position":2,"end position":3,"entities":[{"_id":"AJ Strauss","_concept":["person","batsman","player"],"is expressed by":"Andrew Strauss"}]}]}]}}]},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "a018",
+		"interpret": {"question":{"text":"what is andrew strauss balls faced","words":["what","is","andrew","strauss","balls","faced"]},"interpretations":[{"confidence":100,"result":{"concepts":[{"phrase":"balls","start position":4,"end position":4,"entities":[{"_id":"ball","_concept":["entity concept","meaning","concept"]}]}],"properties":[{"phrase":"balls","start position":4,"end position":4,"entities":[{"_id":"over:ball:ball","_concept":["attribute concept","object property","meaning","concept","property concept"],"property name":"ball","domain":"over","range":"ball"}]},{"phrase":"balls faced","start position":4,"end position":5,"entities":[{"_id":"batsman:balls faced:value","_concept":["attribute concept","meaning","concept","property concept","datatype property"],"property name":"balls faced","domain":"batsman","is expressed by":["balls faced","faced"]},{"_id":"batsman:balls faced:value","_concept":["attribute concept","meaning","concept","property concept","datatype property"],"property name":"balls faced","domain":"batsman","is expressed by":["balls faced","faced"]}]},{"phrase":"batsman:balls faced:value","start position":5,"end position":5,"entities":[{"_id":"batsman:balls faced:value","_concept":["attribute concept","meaning","concept","property concept","datatype property"],"property name":"balls faced","domain":"batsman","is expressed by":["balls faced","faced"]}]}],"instances":[{"phrase":"what","start position":0,"end position":0,"entities":[{"_id":"what","_concept":["question word"]}]},{"phrase":"what is","start position":0,"end position":1,"entities":[{"_id":"what is","_concept":["question phrase"],"is expressed by":["whats","what's"]}]},{"phrase":"is","start position":1,"end position":1,"entities":[{"_id":"is","_concept":["common word"]}]},{"phrase":"andrew strauss","start position":2,"end position":3,"entities":[{"_id":"AJ Strauss","_concept":["person","batsman","player"],"is expressed by":"Andrew Strauss"}]},{"phrase":"balls","start position":4,"end position":4,"entities":[{"_id":"w_030","_concept":["glossary term","local concept"],"main form":"Ball","description":"The round object which the batsman attempts to strike with the bat. Also a delivery.","source":"wikipedia:Glossary_of_cricket_terms"}]}],"specials":[{"type":"matched-triple","phrase":"andrew strauss balls faced","start position":2,"end position":5,"predicate":{"phrase":"balls faced","start position":4,"end position":5,"entities":[{"_id":"batsman:balls faced:value","_concept":["attribute concept","meaning","concept","property concept","datatype property"],"property name":"balls faced","domain":"batsman","is expressed by":["balls faced","faced"]}]},"subject instances":[{"phrase":"andrew strauss","start position":2,"end position":3,"entities":[{"_id":"AJ Strauss","_concept":["person","batsman","player"],"is expressed by":"Andrew Strauss"}]}]},{"type":"matched-triple","phrase":"andrew strauss balls faced","start position":2,"end position":5,"predicate":{"phrase":"balls faced","start position":4,"end position":5,"entities":[{"_id":"batsman:balls faced:value","_concept":["attribute concept","meaning","concept","property concept","datatype property"],"property name":"balls faced","domain":"batsman","is expressed by":["balls faced","faced"]}]},"subject instances":[{"phrase":"andrew strauss","start position":2,"end position":3,"entities":[{"_id":"AJ Strauss","_concept":["person","batsman","player"],"is expressed by":"Andrew Strauss"}]}]},{"type":"matched-triple","phrase":"andrew strauss balls batsman:balls faced:value","start position":2,"end position":5,"predicate":{"phrase":"batsman:balls faced:value","start position":5,"end position":5,"entities":[{"_id":"batsman:balls faced:value","_concept":["attribute concept","meaning","concept","property concept","datatype property"],"property name":"balls faced","domain":"batsman","is expressed by":["balls faced","faced"]}]},"subject instances":[{"phrase":"andrew strauss","start position":2,"end position":3,"entities":[{"_id":"AJ Strauss","_concept":["person","batsman","player"],"is expressed by":"Andrew Strauss"}]}]}]}}]},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "a019",
+		"interpret": {"question":{"text":"what is andrew strauss total outs","words":["what","is","andrew","strauss","total","outs"]},"interpretations":[{"confidence":100,"result":{"concepts":[{"phrase":"total","start position":4,"end position":4,"entities":[{"_id":"score","_concept":["entity concept","meaning","concept"],"sub-concept":"potential score","is expressed by":["total","figure","scored"]}]}],"properties":[{"phrase":"total outs","start position":4,"end position":5,"entities":[{"_id":"batsman:total outs:value","_concept":["attribute concept","meaning","concept","property concept","datatype property"],"property name":"total outs","domain":"batsman"}]}],"instances":[{"phrase":"what","start position":0,"end position":0,"entities":[{"_id":"what","_concept":["question word"]}]},{"phrase":"what is","start position":0,"end position":1,"entities":[{"_id":"what is","_concept":["question phrase"],"is expressed by":["whats","what's"]}]},{"phrase":"is","start position":1,"end position":1,"entities":[{"_id":"is","_concept":["common word"]}]},{"phrase":"andrew strauss","start position":2,"end position":3,"entities":[{"_id":"AJ Strauss","_concept":["person","batsman","player"],"is expressed by":"Andrew Strauss"}]},{"phrase":"outs","start position":5,"end position":5,"entities":[{"_id":"w_381","_concept":["glossary term","local concept"],"main form":"Out","description":"1.  the state of a batsman who has been dismissed.","source":"wikipedia:Glossary_of_cricket_terms"},{"_id":"w_382","_concept":["glossary term","local concept"],"main form":"Out","description":"2.  the word sometimes spoken while raising the index finger by the umpire when answering an appeal for a wicket in the affirmative.","source":"wikipedia:Glossary_of_cricket_terms"}]}],"specials":[{"type":"matched-triple","phrase":"andrew strauss total outs","start position":2,"end position":5,"predicate":{"phrase":"total outs","start position":4,"end position":5,"entities":[{"_id":"batsman:total outs:value","_concept":["attribute concept","meaning","concept","property concept","datatype property"],"property name":"total outs","domain":"batsman"}]},"subject instances":[{"phrase":"andrew strauss","start position":2,"end position":3,"entities":[{"_id":"AJ Strauss","_concept":["person","batsman","player"],"is expressed by":"Andrew Strauss"}]}]}]}}]},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "a020",
+		"interpret": {"question":{"text":"what is andrew strauss batting innings","words":["what","is","andrew","strauss","batting","innings"]},"interpretations":[{"confidence":100,"result":{"concepts":[{"phrase":"innings","start position":5,"end position":5,"entities":[{"_id":"innings","_concept":["entity concept","meaning","concept"]}]}],"properties":[{"phrase":"batting innings","start position":4,"end position":5,"entities":[{"_id":"batsman:batting innings:value","_concept":["attribute concept","meaning","concept","property concept","datatype property"],"property name":"batting innings","domain":"batsman"}]},{"phrase":"innings","start position":5,"end position":5,"entities":[{"_id":"match:innings:innings","_concept":["attribute concept","object property","meaning","concept","property concept"],"property name":"innings","domain":"match","range":"innings"}]}],"instances":[{"phrase":"what","start position":0,"end position":0,"entities":[{"_id":"what","_concept":["question word"]}]},{"phrase":"what is","start position":0,"end position":1,"entities":[{"_id":"what is","_concept":["question phrase"],"is expressed by":["whats","what's"]}]},{"phrase":"is","start position":1,"end position":1,"entities":[{"_id":"is","_concept":["common word"]}]},{"phrase":"andrew strauss","start position":2,"end position":3,"entities":[{"_id":"AJ Strauss","_concept":["person","batsman","player"],"is expressed by":"Andrew Strauss"}]},{"phrase":"batting","start position":4,"end position":4,"entities":[{"_id":"w_035","_concept":["glossary term","local concept"],"main form":"Batting","description":"The act and skill of defending one's wicket and scoring runs.","source":"wikipedia:Glossary_of_cricket_terms"}]},{"phrase":"innings","start position":5,"end position":5,"entities":[{"_id":"w_277","_concept":["glossary term","local concept"],"main form":"Innings","description":"one player's or one team's turn to bat (or bowl). Unlike in baseball, the cricket term \"innings\" is both singular and plural.","source":"wikipedia:Glossary_of_cricket_terms"}]}],"specials":[{"type":"matched-triple","phrase":"andrew strauss batting innings","start position":2,"end position":5,"predicate":{"phrase":"batting innings","start position":4,"end position":5,"entities":[{"_id":"batsman:batting innings:value","_concept":["attribute concept","meaning","concept","property concept","datatype property"],"property name":"batting innings","domain":"batsman"}]},"subject instances":[{"phrase":"andrew strauss","start position":2,"end position":3,"entities":[{"_id":"AJ Strauss","_concept":["person","batsman","player"],"is expressed by":"Andrew Strauss"}]}]}]}}]},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "a021",
+		"interpret": {"question":{"text":"what is andrew strauss career matches","words":["what","is","andrew","strauss","career","matches"]},"interpretations":[{"confidence":100,"result":{"concepts":[{"phrase":"matches","start position":5,"end position":5,"entities":[{"_id":"match","_concept":["entity concept","meaning","concept"],"is expressed by":"game","plural form":"matches"}]}],"properties":[{"phrase":"career matches","start position":4,"end position":5,"entities":[{"_id":"batsman:career matches:value","_concept":["attribute concept","meaning","concept","property concept","datatype property"],"property name":"career matches","domain":"batsman","is expressed by":"matches"}]},{"phrase":"batsman:career matches:value","start position":5,"end position":5,"entities":[{"_id":"batsman:career matches:value","_concept":["attribute concept","meaning","concept","property concept","datatype property"],"property name":"career matches","domain":"batsman","is expressed by":"matches"}]}],"instances":[{"phrase":"what","start position":0,"end position":0,"entities":[{"_id":"what","_concept":["question word"]}]},{"phrase":"what is","start position":0,"end position":1,"entities":[{"_id":"what is","_concept":["question phrase"],"is expressed by":["whats","what's"]}]},{"phrase":"is","start position":1,"end position":1,"entities":[{"_id":"is","_concept":["common word"]}]},{"phrase":"andrew strauss","start position":2,"end position":3,"entities":[{"_id":"AJ Strauss","_concept":["person","batsman","player"],"is expressed by":"Andrew Strauss"}]}],"specials":[{"type":"matched-triple","phrase":"andrew strauss career matches","start position":2,"end position":5,"predicate":{"phrase":"career matches","start position":4,"end position":5,"entities":[{"_id":"batsman:career matches:value","_concept":["attribute concept","meaning","concept","property concept","datatype property"],"property name":"career matches","domain":"batsman","is expressed by":"matches"}]},"subject instances":[{"phrase":"andrew strauss","start position":2,"end position":3,"entities":[{"_id":"AJ Strauss","_concept":["person","batsman","player"],"is expressed by":"Andrew Strauss"}]}]},{"type":"matched-triple","phrase":"andrew strauss career batsman:career matches:value","start position":2,"end position":5,"predicate":{"phrase":"batsman:career matches:value","start position":5,"end position":5,"entities":[{"_id":"batsman:career matches:value","_concept":["attribute concept","meaning","concept","property concept","datatype property"],"property name":"career matches","domain":"batsman","is expressed by":"matches"}]},"subject instances":[{"phrase":"andrew strauss","start position":2,"end position":3,"entities":[{"_id":"AJ Strauss","_concept":["person","batsman","player"],"is expressed by":"Andrew Strauss"}]}]}]}}]},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "a022",
+		"interpret": {"question":{"text":"what is andrew strauss total matches","words":["what","is","andrew","strauss","total","matches"]},"interpretations":[{"confidence":100,"result":{"concepts":[{"phrase":"total","start position":4,"end position":4,"entities":[{"_id":"score","_concept":["entity concept","meaning","concept"],"sub-concept":"potential score","is expressed by":["total","figure","scored"]}]},{"phrase":"matches","start position":5,"end position":5,"entities":[{"_id":"match","_concept":["entity concept","meaning","concept"],"is expressed by":"game","plural form":"matches"}]}],"properties":[{"phrase":"batsman:career matches:value","start position":5,"end position":5,"entities":[{"_id":"batsman:career matches:value","_concept":["attribute concept","meaning","concept","property concept","datatype property"],"property name":"career matches","domain":"batsman","is expressed by":"matches"}]}],"instances":[{"phrase":"what","start position":0,"end position":0,"entities":[{"_id":"what","_concept":["question word"]}]},{"phrase":"what is","start position":0,"end position":1,"entities":[{"_id":"what is","_concept":["question phrase"],"is expressed by":["whats","what's"]}]},{"phrase":"is","start position":1,"end position":1,"entities":[{"_id":"is","_concept":["common word"]}]},{"phrase":"andrew strauss","start position":2,"end position":3,"entities":[{"_id":"AJ Strauss","_concept":["person","batsman","player"],"is expressed by":"Andrew Strauss"}]}],"specials":[{"type":"matched-triple","phrase":"andrew strauss total batsman:career matches:value","start position":2,"end position":5,"predicate":{"phrase":"batsman:career matches:value","start position":5,"end position":5,"entities":[{"_id":"batsman:career matches:value","_concept":["attribute concept","meaning","concept","property concept","datatype property"],"property name":"career matches","domain":"batsman","is expressed by":"matches"}]},"subject instances":[{"phrase":"andrew strauss","start position":2,"end position":3,"entities":[{"_id":"AJ Strauss","_concept":["person","batsman","player"],"is expressed by":"Andrew Strauss"}]}]}]}}]},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "a023",
+		"interpret": {"question":{"text":"what player has the highest batting average","words":["what","player","has","the","highest","batting","average"]},"interpretations":[{"confidence":100,"result":{"concepts":[{"phrase":"player","start position":1,"end position":1,"entities":[{"_id":"player","_concept":["entity concept","meaning","concept"],"sub-concept":["all rounder","bowler","wicket keeper","batsman"]}]}],"properties":[{"phrase":"batting average","start position":5,"end position":6,"entities":[{"_id":"batsman:batting average:value","_concept":["attribute concept","meaning","concept","property concept","datatype property","dbpedia thing"],"property name":"batting average","domain":"batsman","predicate name":"http://dbpedia.org/property/batAvg"}]}],"instances":[{"phrase":"what","start position":0,"end position":0,"entities":[{"_id":"what","_concept":["question word"]}]},{"phrase":"has the","start position":2,"end position":3,"entities":[{"_id":"has the","_concept":["question phrase"]}]},{"phrase":"the","start position":3,"end position":3,"entities":[{"_id":"the","_concept":["common word"]}]},{"phrase":"highest","start position":4,"end position":4,"entities":[{"_id":"highest","_concept":["qualifier"],"maps to":"a:max"}]},{"phrase":"batting","start position":5,"end position":5,"entities":[{"_id":"w_035","_concept":["glossary term","local concept"],"main form":"Batting","description":"The act and skill of defending one's wicket and scoring runs.","source":"wikipedia:Glossary_of_cricket_terms"}]},{"phrase":"batting average","start position":5,"end position":6,"entities":[{"_id":"w_036","_concept":["glossary term","local concept"],"main form":"Batting average","description":"The average number of runs scored per innings by a batsman, calculated by dividing the batsman's total runs scored during those innings in question by the number of times the batsman was out.","source":"wikipedia:Glossary_of_cricket_terms"}]},{"phrase":"average","start position":6,"end position":6,"entities":[{"_id":"w_017","_concept":["glossary term","local concept"],"main form":"Average","description":"A bowler's bowling average is defined as the total number of runs conceded by the bowler (including wides and no-balls) divided by the number of wickets taken by the bowler.","source":"wikipedia:Glossary_of_cricket_terms"},{"_id":"w_018","_concept":["glossary term","local concept"],"main form":"Average","description":"A batsman's batting average is defined as the total number of runs scored by the batsman divided by the number of times he has been dismissed.","source":"wikipedia:Glossary_of_cricket_terms"}]}]}}]},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "a024",
+		"interpret": {"question":{"text":"what player has the lowest batting average","words":["what","player","has","the","lowest","batting","average"]},"interpretations":[{"confidence":100,"result":{"concepts":[{"phrase":"player","start position":1,"end position":1,"entities":[{"_id":"player","_concept":["entity concept","meaning","concept"],"sub-concept":["all rounder","bowler","wicket keeper","batsman"]}]}],"properties":[{"phrase":"batting average","start position":5,"end position":6,"entities":[{"_id":"batsman:batting average:value","_concept":["attribute concept","meaning","concept","property concept","datatype property","dbpedia thing"],"property name":"batting average","domain":"batsman","predicate name":"http://dbpedia.org/property/batAvg"}]}],"instances":[{"phrase":"what","start position":0,"end position":0,"entities":[{"_id":"what","_concept":["question word"]}]},{"phrase":"has the","start position":2,"end position":3,"entities":[{"_id":"has the","_concept":["question phrase"]}]},{"phrase":"the","start position":3,"end position":3,"entities":[{"_id":"the","_concept":["common word"]}]},{"phrase":"lowest","start position":4,"end position":4,"entities":[{"_id":"lowest","_concept":["qualifier"],"maps to":"a:min"}]},{"phrase":"batting","start position":5,"end position":5,"entities":[{"_id":"w_035","_concept":["glossary term","local concept"],"main form":"Batting","description":"The act and skill of defending one's wicket and scoring runs.","source":"wikipedia:Glossary_of_cricket_terms"}]},{"phrase":"batting average","start position":5,"end position":6,"entities":[{"_id":"w_036","_concept":["glossary term","local concept"],"main form":"Batting average","description":"The average number of runs scored per innings by a batsman, calculated by dividing the batsman's total runs scored during those innings in question by the number of times the batsman was out.","source":"wikipedia:Glossary_of_cricket_terms"}]},{"phrase":"average","start position":6,"end position":6,"entities":[{"_id":"w_017","_concept":["glossary term","local concept"],"main form":"Average","description":"A bowler's bowling average is defined as the total number of runs conceded by the bowler (including wides and no-balls) divided by the number of wickets taken by the bowler.","source":"wikipedia:Glossary_of_cricket_terms"},{"_id":"w_018","_concept":["glossary term","local concept"],"main form":"Average","description":"A batsman's batting average is defined as the total number of runs scored by the batsman divided by the number of times he has been dismissed.","source":"wikipedia:Glossary_of_cricket_terms"}]}]}}]},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "a026",
+		"interpret": {"question":{"text":"what Australian has the highest batting average","words":["what","Australian","has","the","highest","batting","average"]},"interpretations":[{"confidence":100,"result":{"properties":[{"phrase":"batting average","start position":5,"end position":6,"entities":[{"_id":"batsman:batting average:value","_concept":["attribute concept","meaning","concept","property concept","datatype property","dbpedia thing"],"property name":"batting average","domain":"batsman","predicate name":"http://dbpedia.org/property/batAvg"}]}],"instances":[{"phrase":"what","start position":0,"end position":0,"entities":[{"_id":"what","_concept":["question word"]}]},{"phrase":"australian","start position":1,"end position":1,"entities":[{"_id":"Australian","_concept":["nationality"],"is expressed by":"Aussie","corresponds to":"Australia"}]},{"phrase":"has the","start position":2,"end position":3,"entities":[{"_id":"has the","_concept":["question phrase"]}]},{"phrase":"the","start position":3,"end position":3,"entities":[{"_id":"the","_concept":["common word"]}]},{"phrase":"highest","start position":4,"end position":4,"entities":[{"_id":"highest","_concept":["qualifier"],"maps to":"a:max"}]},{"phrase":"batting","start position":5,"end position":5,"entities":[{"_id":"w_035","_concept":["glossary term","local concept"],"main form":"Batting","description":"The act and skill of defending one's wicket and scoring runs.","source":"wikipedia:Glossary_of_cricket_terms"}]},{"phrase":"batting average","start position":5,"end position":6,"entities":[{"_id":"w_036","_concept":["glossary term","local concept"],"main form":"Batting average","description":"The average number of runs scored per innings by a batsman, calculated by dividing the batsman's total runs scored during those innings in question by the number of times the batsman was out.","source":"wikipedia:Glossary_of_cricket_terms"}]},{"phrase":"average","start position":6,"end position":6,"entities":[{"_id":"w_017","_concept":["glossary term","local concept"],"main form":"Average","description":"A bowler's bowling average is defined as the total number of runs conceded by the bowler (including wides and no-balls) divided by the number of wickets taken by the bowler.","source":"wikipedia:Glossary_of_cricket_terms"},{"_id":"w_018","_concept":["glossary term","local concept"],"main form":"Average","description":"A batsman's batting average is defined as the total number of runs scored by the batsman divided by the number of times he has been dismissed.","source":"wikipedia:Glossary_of_cricket_terms"}]}],"specials":[{"type":"linked-instance","phrase":"australian","start position":1,"end position":1,"matched instance":{"_id":"Australian","_concept":["nationality"],"is expressed by":"Aussie","corresponds to":"Australia"},"linked instances":[{"_id":"Australia","_concept":["team"]}],"property":{"_id":"nationality:corresponds to:team","_concept":["object property","meaning","linked property","concept","relation concept","property concept"],"property name":"corresponds to","domain":"nationality","range":"team"}}]}}]},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "a027",
+		"interpret": {"question":{"text":"what Aussie has the lowest batting average","words":["what","Aussie","has","the","lowest","batting","average"]},"interpretations":[{"confidence":100,"result":{"properties":[{"phrase":"batting average","start position":5,"end position":6,"entities":[{"_id":"batsman:batting average:value","_concept":["attribute concept","meaning","concept","property concept","datatype property","dbpedia thing"],"property name":"batting average","domain":"batsman","predicate name":"http://dbpedia.org/property/batAvg"}]}],"instances":[{"phrase":"what","start position":0,"end position":0,"entities":[{"_id":"what","_concept":["question word"]}]},{"phrase":"aussie","start position":1,"end position":1,"entities":[{"_id":"Australian","_concept":["nationality"],"is expressed by":"Aussie","corresponds to":"Australia"}]},{"phrase":"has the","start position":2,"end position":3,"entities":[{"_id":"has the","_concept":["question phrase"]}]},{"phrase":"the","start position":3,"end position":3,"entities":[{"_id":"the","_concept":["common word"]}]},{"phrase":"lowest","start position":4,"end position":4,"entities":[{"_id":"lowest","_concept":["qualifier"],"maps to":"a:min"}]},{"phrase":"batting","start position":5,"end position":5,"entities":[{"_id":"w_035","_concept":["glossary term","local concept"],"main form":"Batting","description":"The act and skill of defending one's wicket and scoring runs.","source":"wikipedia:Glossary_of_cricket_terms"}]},{"phrase":"batting average","start position":5,"end position":6,"entities":[{"_id":"w_036","_concept":["glossary term","local concept"],"main form":"Batting average","description":"The average number of runs scored per innings by a batsman, calculated by dividing the batsman's total runs scored during those innings in question by the number of times the batsman was out.","source":"wikipedia:Glossary_of_cricket_terms"}]},{"phrase":"average","start position":6,"end position":6,"entities":[{"_id":"w_017","_concept":["glossary term","local concept"],"main form":"Average","description":"A bowler's bowling average is defined as the total number of runs conceded by the bowler (including wides and no-balls) divided by the number of wickets taken by the bowler.","source":"wikipedia:Glossary_of_cricket_terms"},{"_id":"w_018","_concept":["glossary term","local concept"],"main form":"Average","description":"A batsman's batting average is defined as the total number of runs scored by the batsman divided by the number of times he has been dismissed.","source":"wikipedia:Glossary_of_cricket_terms"}]}],"specials":[{"type":"linked-instance","phrase":"aussie","start position":1,"end position":1,"matched instance":{"_id":"Australian","_concept":["nationality"],"is expressed by":"Aussie","corresponds to":"Australia"},"linked instances":[{"_id":"Australia","_concept":["team"]}],"property":{"_id":"nationality:corresponds to:team","_concept":["object property","meaning","linked property","concept","relation concept","property concept"],"property name":"corresponds to","domain":"nationality","range":"team"}}]}}]},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "a028",
+		"interpret": {"question":{"text":"what player from Australia has the highest batting average","words":["what","player","from","Australia","has","the","highest","batting","average"]},"interpretations":[{"confidence":88,"explanation":"The word 'from' was not matched","result":{"concepts":[{"phrase":"player","start position":1,"end position":1,"entities":[{"_id":"player","_concept":["entity concept","meaning","concept"],"sub-concept":["all rounder","bowler","wicket keeper","batsman"]}]}],"properties":[{"phrase":"batting average","start position":7,"end position":8,"entities":[{"_id":"batsman:batting average:value","_concept":["attribute concept","meaning","concept","property concept","datatype property","dbpedia thing"],"property name":"batting average","domain":"batsman","predicate name":"http://dbpedia.org/property/batAvg"}]}],"instances":[{"phrase":"what","start position":0,"end position":0,"entities":[{"_id":"what","_concept":["question word"]}]},{"phrase":"australia","start position":3,"end position":3,"entities":[{"_id":"Australia","_concept":["team"]}]},{"phrase":"has the","start position":4,"end position":5,"entities":[{"_id":"has the","_concept":["question phrase"]}]},{"phrase":"the","start position":5,"end position":5,"entities":[{"_id":"the","_concept":["common word"]}]},{"phrase":"highest","start position":6,"end position":6,"entities":[{"_id":"highest","_concept":["qualifier"],"maps to":"a:max"}]},{"phrase":"batting","start position":7,"end position":7,"entities":[{"_id":"w_035","_concept":["glossary term","local concept"],"main form":"Batting","description":"The act and skill of defending one's wicket and scoring runs.","source":"wikipedia:Glossary_of_cricket_terms"}]},{"phrase":"batting average","start position":7,"end position":8,"entities":[{"_id":"w_036","_concept":["glossary term","local concept"],"main form":"Batting average","description":"The average number of runs scored per innings by a batsman, calculated by dividing the batsman's total runs scored during those innings in question by the number of times the batsman was out.","source":"wikipedia:Glossary_of_cricket_terms"}]},{"phrase":"average","start position":8,"end position":8,"entities":[{"_id":"w_017","_concept":["glossary term","local concept"],"main form":"Average","description":"A bowler's bowling average is defined as the total number of runs conceded by the bowler (including wides and no-balls) divided by the number of wickets taken by the bowler.","source":"wikipedia:Glossary_of_cricket_terms"},{"_id":"w_018","_concept":["glossary term","local concept"],"main form":"Average","description":"A batsman's batting average is defined as the total number of runs scored by the batsman divided by the number of times he has been dismissed.","source":"wikipedia:Glossary_of_cricket_terms"}]}]}}]},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "a029",
+		"interpret": {"question":{"text":"what English player has the highest batting average in an ODI","words":["what","English","player","has","the","highest","batting","average","in","an","ODI"]},"interpretations":[{"confidence":90,"explanation":"The word 'an' was not matched","result":{"concepts":[{"phrase":"player","start position":2,"end position":2,"entities":[{"_id":"player","_concept":["entity concept","meaning","concept"],"sub-concept":["all rounder","bowler","wicket keeper","batsman"]}]}],"instances":[{"phrase":"what","start position":0,"end position":0,"entities":[{"_id":"what","_concept":["question word"]}]},{"phrase":"english","start position":1,"end position":1,"entities":[{"_id":"English","_concept":["nationality"],"is expressed by":["Englishman","Englishmen"],"corresponds to":"England"}]},{"phrase":"has the","start position":3,"end position":4,"entities":[{"_id":"has the","_concept":["question phrase"]}]},{"phrase":"the","start position":4,"end position":4,"entities":[{"_id":"the","_concept":["common word"]}]},{"phrase":"highest","start position":5,"end position":5,"entities":[{"_id":"highest","_concept":["qualifier"],"maps to":"a:max"}]},{"phrase":"batting","start position":6,"end position":6,"entities":[{"_id":"w_035","_concept":["glossary term","local concept"],"main form":"Batting","description":"The act and skill of defending one's wicket and scoring runs.","source":"wikipedia:Glossary_of_cricket_terms"}]},{"phrase":"batting average","start position":6,"end position":7,"entities":[{"_id":"w_036","_concept":["glossary term","local concept"],"main form":"Batting average","description":"The average number of runs scored per innings by a batsman, calculated by dividing the batsman's total runs scored during those innings in question by the number of times the batsman was out.","source":"wikipedia:Glossary_of_cricket_terms"}]},{"phrase":"average","start position":7,"end position":7,"entities":[{"_id":"w_017","_concept":["glossary term","local concept"],"main form":"Average","description":"A bowler's bowling average is defined as the total number of runs conceded by the bowler (including wides and no-balls) divided by the number of wickets taken by the bowler.","source":"wikipedia:Glossary_of_cricket_terms"},{"_id":"w_018","_concept":["glossary term","local concept"],"main form":"Average","description":"A batsman's batting average is defined as the total number of runs scored by the batsman divided by the number of times he has been dismissed.","source":"wikipedia:Glossary_of_cricket_terms"}]},{"phrase":"in","start position":8,"end position":8,"entities":[{"_id":"w_271","_concept":["glossary term","local concept"],"main form":"In","description":"of a batsman, presently batting.","source":"wikipedia:Glossary_of_cricket_terms"}]},{"phrase":"odi","start position":10,"end position":10,"entities":[{"_id":"w_362","_concept":["glossary term","local concept","acronym term"],"main form":"ODI","description":"see One Day International","expansion":"One Day Interantional","source":"wikipedia:Glossary_of_cricket_terms"},{"_id":"ODI","_concept":["format"],"is expressed by":["one day international","one-day internationals","one-day international","one day","one-day","one day internationals"]}]}],"specials":[{"type":"linked-instance","phrase":"english","start position":1,"end position":1,"matched instance":{"_id":"English","_concept":["nationality"],"is expressed by":["Englishman","Englishmen"],"corresponds to":"England"},"linked instances":[{"_id":"England","_concept":["country","team"]}],"property":{"_id":"nationality:corresponds to:team","_concept":["object property","meaning","linked property","concept","relation concept","property concept"],"property name":"corresponds to","domain":"nationality","range":"team"}}]}}]},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "a030",
+		"interpret": {"question":{"text":"what player from England has the lowest batting average in an ODI","words":["what","player","from","England","has","the","lowest","batting","average","in","an","ODI"]},"interpretations":[{"confidence":83,"explanation":"The words 'from', 'an' were not matched","result":{"concepts":[{"phrase":"player","start position":1,"end position":1,"entities":[{"_id":"player","_concept":["entity concept","meaning","concept"],"sub-concept":["all rounder","bowler","wicket keeper","batsman"]}]}],"instances":[{"phrase":"what","start position":0,"end position":0,"entities":[{"_id":"what","_concept":["question word"]}]},{"phrase":"england","start position":3,"end position":3,"entities":[{"_id":"England","_concept":["country","team"]}]},{"phrase":"has the","start position":4,"end position":5,"entities":[{"_id":"has the","_concept":["question phrase"]}]},{"phrase":"the","start position":5,"end position":5,"entities":[{"_id":"the","_concept":["common word"]}]},{"phrase":"lowest","start position":6,"end position":6,"entities":[{"_id":"lowest","_concept":["qualifier"],"maps to":"a:min"}]},{"phrase":"batting","start position":7,"end position":7,"entities":[{"_id":"w_035","_concept":["glossary term","local concept"],"main form":"Batting","description":"The act and skill of defending one's wicket and scoring runs.","source":"wikipedia:Glossary_of_cricket_terms"}]},{"phrase":"batting average","start position":7,"end position":8,"entities":[{"_id":"w_036","_concept":["glossary term","local concept"],"main form":"Batting average","description":"The average number of runs scored per innings by a batsman, calculated by dividing the batsman's total runs scored during those innings in question by the number of times the batsman was out.","source":"wikipedia:Glossary_of_cricket_terms"}]},{"phrase":"average","start position":8,"end position":8,"entities":[{"_id":"w_017","_concept":["glossary term","local concept"],"main form":"Average","description":"A bowler's bowling average is defined as the total number of runs conceded by the bowler (including wides and no-balls) divided by the number of wickets taken by the bowler.","source":"wikipedia:Glossary_of_cricket_terms"},{"_id":"w_018","_concept":["glossary term","local concept"],"main form":"Average","description":"A batsman's batting average is defined as the total number of runs scored by the batsman divided by the number of times he has been dismissed.","source":"wikipedia:Glossary_of_cricket_terms"}]},{"phrase":"in","start position":9,"end position":9,"entities":[{"_id":"w_271","_concept":["glossary term","local concept"],"main form":"In","description":"of a batsman, presently batting.","source":"wikipedia:Glossary_of_cricket_terms"}]},{"phrase":"odi","start position":11,"end position":11,"entities":[{"_id":"w_362","_concept":["glossary term","local concept","acronym term"],"main form":"ODI","description":"see One Day International","expansion":"One Day Interantional","source":"wikipedia:Glossary_of_cricket_terms"},{"_id":"ODI","_concept":["format"],"is expressed by":["one day international","one-day internationals","one-day international","one day","one-day","one day internationals"]}]}]}}]},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "a031",
+		"interpret": {"question":{"text":"what Kiwi has the highest batting average in an ODI first innings","words":["what","Kiwi","has","the","highest","batting","average","in","an","ODI","first","innings"]},"interpretations":[{"confidence":91,"explanation":"The word 'an' was not matched","result":{"concepts":[{"phrase":"innings","start position":11,"end position":11,"entities":[{"_id":"innings","_concept":["entity concept","meaning","concept"]}]}],"properties":[{"phrase":"innings","start position":11,"end position":11,"entities":[{"_id":"match:innings:innings","_concept":["attribute concept","object property","meaning","concept","property concept"],"property name":"innings","domain":"match","range":"innings"}]}],"instances":[{"phrase":"what","start position":0,"end position":0,"entities":[{"_id":"what","_concept":["question word"]}]},{"phrase":"kiwi","start position":1,"end position":1,"entities":[{"_id":"New Zealander","_concept":["nationality"],"corresponds to":"New Zealand","is expressed by":"Kiwi"}]},{"phrase":"has the","start position":2,"end position":3,"entities":[{"_id":"has the","_concept":["question phrase"]}]},{"phrase":"the","start position":3,"end position":3,"entities":[{"_id":"the","_concept":["common word"]}]},{"phrase":"highest","start position":4,"end position":4,"entities":[{"_id":"highest","_concept":["qualifier"],"maps to":"a:max"}]},{"phrase":"batting","start position":5,"end position":5,"entities":[{"_id":"w_035","_concept":["glossary term","local concept"],"main form":"Batting","description":"The act and skill of defending one's wicket and scoring runs.","source":"wikipedia:Glossary_of_cricket_terms"}]},{"phrase":"batting average","start position":5,"end position":6,"entities":[{"_id":"w_036","_concept":["glossary term","local concept"],"main form":"Batting average","description":"The average number of runs scored per innings by a batsman, calculated by dividing the batsman's total runs scored during those innings in question by the number of times the batsman was out.","source":"wikipedia:Glossary_of_cricket_terms"}]},{"phrase":"average","start position":6,"end position":6,"entities":[{"_id":"w_017","_concept":["glossary term","local concept"],"main form":"Average","description":"A bowler's bowling average is defined as the total number of runs conceded by the bowler (including wides and no-balls) divided by the number of wickets taken by the bowler.","source":"wikipedia:Glossary_of_cricket_terms"},{"_id":"w_018","_concept":["glossary term","local concept"],"main form":"Average","description":"A batsman's batting average is defined as the total number of runs scored by the batsman divided by the number of times he has been dismissed.","source":"wikipedia:Glossary_of_cricket_terms"}]},{"phrase":"in","start position":7,"end position":7,"entities":[{"_id":"w_271","_concept":["glossary term","local concept"],"main form":"In","description":"of a batsman, presently batting.","source":"wikipedia:Glossary_of_cricket_terms"}]},{"phrase":"odi","start position":9,"end position":9,"entities":[{"_id":"w_362","_concept":["glossary term","local concept","acronym term"],"main form":"ODI","description":"see One Day International","expansion":"One Day Interantional","source":"wikipedia:Glossary_of_cricket_terms"},{"_id":"ODI","_concept":["format"],"is expressed by":["one day international","one-day internationals","one-day international","one day","one-day","one day internationals"]}]},{"phrase":"first","start position":10,"end position":10,"entities":[{"_id":"first","_concept":["qualifier"],"maps to":"a:max"}]},{"phrase":"first innings","start position":10,"end position":11,"entities":[{"_id":"first innings","_concept":["innings"],"is expressed by":"1st innings"}]},{"phrase":"innings","start position":11,"end position":11,"entities":[{"_id":"w_277","_concept":["glossary term","local concept"],"main form":"Innings","description":"one player's or one team's turn to bat (or bowl). Unlike in baseball, the cricket term \"innings\" is both singular and plural.","source":"wikipedia:Glossary_of_cricket_terms"}]}],"specials":[{"type":"linked-instance","phrase":"kiwi","start position":1,"end position":1,"matched instance":{"_id":"New Zealander","_concept":["nationality"],"corresponds to":"New Zealand","is expressed by":"Kiwi"},"linked instances":[{"_id":"New Zealand","_concept":["team"]}],"property":{"_id":"nationality:corresponds to:team","_concept":["object property","meaning","linked property","concept","relation concept","property concept"],"property name":"corresponds to","domain":"nationality","range":"team"}}]}}]},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "a032",
+		"interpret": {"question":{"text":"what New Zealander has the lowest batting average in his ODI first innings","words":["what","New","Zealander","has","the","lowest","batting","average","in","his","ODI","first","innings"]},"interpretations":[{"confidence":92,"explanation":"The word 'his' was not matched","result":{"concepts":[{"phrase":"innings","start position":12,"end position":12,"entities":[{"_id":"innings","_concept":["entity concept","meaning","concept"]}]}],"properties":[{"phrase":"innings","start position":12,"end position":12,"entities":[{"_id":"match:innings:innings","_concept":["attribute concept","object property","meaning","concept","property concept"],"property name":"innings","domain":"match","range":"innings"}]}],"instances":[{"phrase":"what","start position":0,"end position":0,"entities":[{"_id":"what","_concept":["question word"]}]},{"phrase":"new zealander","start position":1,"end position":2,"entities":[{"_id":"New Zealander","_concept":["nationality"],"corresponds to":"New Zealand","is expressed by":"Kiwi"}]},{"phrase":"has the","start position":3,"end position":4,"entities":[{"_id":"has the","_concept":["question phrase"]}]},{"phrase":"the","start position":4,"end position":4,"entities":[{"_id":"the","_concept":["common word"]}]},{"phrase":"lowest","start position":5,"end position":5,"entities":[{"_id":"lowest","_concept":["qualifier"],"maps to":"a:min"}]},{"phrase":"batting","start position":6,"end position":6,"entities":[{"_id":"w_035","_concept":["glossary term","local concept"],"main form":"Batting","description":"The act and skill of defending one's wicket and scoring runs.","source":"wikipedia:Glossary_of_cricket_terms"}]},{"phrase":"batting average","start position":6,"end position":7,"entities":[{"_id":"w_036","_concept":["glossary term","local concept"],"main form":"Batting average","description":"The average number of runs scored per innings by a batsman, calculated by dividing the batsman's total runs scored during those innings in question by the number of times the batsman was out.","source":"wikipedia:Glossary_of_cricket_terms"}]},{"phrase":"average","start position":7,"end position":7,"entities":[{"_id":"w_017","_concept":["glossary term","local concept"],"main form":"Average","description":"A bowler's bowling average is defined as the total number of runs conceded by the bowler (including wides and no-balls) divided by the number of wickets taken by the bowler.","source":"wikipedia:Glossary_of_cricket_terms"},{"_id":"w_018","_concept":["glossary term","local concept"],"main form":"Average","description":"A batsman's batting average is defined as the total number of runs scored by the batsman divided by the number of times he has been dismissed.","source":"wikipedia:Glossary_of_cricket_terms"}]},{"phrase":"in","start position":8,"end position":8,"entities":[{"_id":"w_271","_concept":["glossary term","local concept"],"main form":"In","description":"of a batsman, presently batting.","source":"wikipedia:Glossary_of_cricket_terms"}]},{"phrase":"odi","start position":10,"end position":10,"entities":[{"_id":"w_362","_concept":["glossary term","local concept","acronym term"],"main form":"ODI","description":"see One Day International","expansion":"One Day Interantional","source":"wikipedia:Glossary_of_cricket_terms"},{"_id":"ODI","_concept":["format"],"is expressed by":["one day international","one-day internationals","one-day international","one day","one-day","one day internationals"]}]},{"phrase":"first","start position":11,"end position":11,"entities":[{"_id":"first","_concept":["qualifier"],"maps to":"a:max"}]},{"phrase":"first innings","start position":11,"end position":12,"entities":[{"_id":"first innings","_concept":["innings"],"is expressed by":"1st innings"}]},{"phrase":"innings","start position":12,"end position":12,"entities":[{"_id":"w_277","_concept":["glossary term","local concept"],"main form":"Innings","description":"one player's or one team's turn to bat (or bowl). Unlike in baseball, the cricket term \"innings\" is both singular and plural.","source":"wikipedia:Glossary_of_cricket_terms"}]}],"specials":[{"type":"linked-instance","phrase":"new zealander","start position":1,"end position":2,"matched instance":{"_id":"New Zealander","_concept":["nationality"],"corresponds to":"New Zealand","is expressed by":"Kiwi"},"linked instances":[{"_id":"New Zealand","_concept":["team"]}],"property":{"_id":"nationality:corresponds to:team","_concept":["object property","meaning","linked property","concept","relation concept","property concept"],"property name":"corresponds to","domain":"nationality","range":"team"}}]}}]},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "a033",
+		"interpret": {"question":{"text":"what player from New Zealand has the highest batting average in their ODI first innings","words":["what","player","from","New","Zealand","has","the","highest","batting","average","in","their","ODI","first","innings"]},"interpretations":[{"confidence":86,"explanation":"The words 'from', 'their' were not matched","result":{"concepts":[{"phrase":"player","start position":1,"end position":1,"entities":[{"_id":"player","_concept":["entity concept","meaning","concept"],"sub-concept":["all rounder","bowler","wicket keeper","batsman"]}]},{"phrase":"innings","start position":14,"end position":14,"entities":[{"_id":"innings","_concept":["entity concept","meaning","concept"]}]}],"properties":[{"phrase":"innings","start position":14,"end position":14,"entities":[{"_id":"match:innings:innings","_concept":["attribute concept","object property","meaning","concept","property concept"],"property name":"innings","domain":"match","range":"innings"}]}],"instances":[{"phrase":"what","start position":0,"end position":0,"entities":[{"_id":"what","_concept":["question word"]}]},{"phrase":"new zealand","start position":3,"end position":4,"entities":[{"_id":"New Zealand","_concept":["team"]}]},{"phrase":"has the","start position":5,"end position":6,"entities":[{"_id":"has the","_concept":["question phrase"]}]},{"phrase":"the","start position":6,"end position":6,"entities":[{"_id":"the","_concept":["common word"]}]},{"phrase":"highest","start position":7,"end position":7,"entities":[{"_id":"highest","_concept":["qualifier"],"maps to":"a:max"}]},{"phrase":"batting","start position":8,"end position":8,"entities":[{"_id":"w_035","_concept":["glossary term","local concept"],"main form":"Batting","description":"The act and skill of defending one's wicket and scoring runs.","source":"wikipedia:Glossary_of_cricket_terms"}]},{"phrase":"batting average","start position":8,"end position":9,"entities":[{"_id":"w_036","_concept":["glossary term","local concept"],"main form":"Batting average","description":"The average number of runs scored per innings by a batsman, calculated by dividing the batsman's total runs scored during those innings in question by the number of times the batsman was out.","source":"wikipedia:Glossary_of_cricket_terms"}]},{"phrase":"average","start position":9,"end position":9,"entities":[{"_id":"w_017","_concept":["glossary term","local concept"],"main form":"Average","description":"A bowler's bowling average is defined as the total number of runs conceded by the bowler (including wides and no-balls) divided by the number of wickets taken by the bowler.","source":"wikipedia:Glossary_of_cricket_terms"},{"_id":"w_018","_concept":["glossary term","local concept"],"main form":"Average","description":"A batsman's batting average is defined as the total number of runs scored by the batsman divided by the number of times he has been dismissed.","source":"wikipedia:Glossary_of_cricket_terms"}]},{"phrase":"in","start position":10,"end position":10,"entities":[{"_id":"w_271","_concept":["glossary term","local concept"],"main form":"In","description":"of a batsman, presently batting.","source":"wikipedia:Glossary_of_cricket_terms"}]},{"phrase":"odi","start position":12,"end position":12,"entities":[{"_id":"w_362","_concept":["glossary term","local concept","acronym term"],"main form":"ODI","description":"see One Day International","expansion":"One Day Interantional","source":"wikipedia:Glossary_of_cricket_terms"},{"_id":"ODI","_concept":["format"],"is expressed by":["one day international","one-day internationals","one-day international","one day","one-day","one day internationals"]}]},{"phrase":"first","start position":13,"end position":13,"entities":[{"_id":"first","_concept":["qualifier"],"maps to":"a:max"}]},{"phrase":"first innings","start position":13,"end position":14,"entities":[{"_id":"first innings","_concept":["innings"],"is expressed by":"1st innings"}]},{"phrase":"innings","start position":14,"end position":14,"entities":[{"_id":"w_277","_concept":["glossary term","local concept"],"main form":"Innings","description":"one player's or one team's turn to bat (or bowl). Unlike in baseball, the cricket term \"innings\" is both singular and plural.","source":"wikipedia:Glossary_of_cricket_terms"}]}]}}]},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "a034",
+		"interpret": {"question":{"text":"what Sri Lankan has the highest batting average in an ODI first innings in 2012","words":["what","Sri","Lankan","has","the","highest","batting","average","in","an","ODI","first","innings","in","2012"]},"interpretations":[{"confidence":80,"explanation":"The words 'Sri', 'Lankan', 'an' were not matched","result":{"concepts":[{"phrase":"innings","start position":12,"end position":12,"entities":[{"_id":"innings","_concept":["entity concept","meaning","concept"]}]}],"properties":[{"phrase":"innings","start position":12,"end position":12,"entities":[{"_id":"match:innings:innings","_concept":["attribute concept","object property","meaning","concept","property concept"],"property name":"innings","domain":"match","range":"innings"}]}],"instances":[{"phrase":"what","start position":0,"end position":0,"entities":[{"_id":"what","_concept":["question word"]}]},{"phrase":"has the","start position":3,"end position":4,"entities":[{"_id":"has the","_concept":["question phrase"]}]},{"phrase":"the","start position":4,"end position":4,"entities":[{"_id":"the","_concept":["common word"]}]},{"phrase":"highest","start position":5,"end position":5,"entities":[{"_id":"highest","_concept":["qualifier"],"maps to":"a:max"}]},{"phrase":"batting","start position":6,"end position":6,"entities":[{"_id":"w_035","_concept":["glossary term","local concept"],"main form":"Batting","description":"The act and skill of defending one's wicket and scoring runs.","source":"wikipedia:Glossary_of_cricket_terms"}]},{"phrase":"batting average","start position":6,"end position":7,"entities":[{"_id":"w_036","_concept":["glossary term","local concept"],"main form":"Batting average","description":"The average number of runs scored per innings by a batsman, calculated by dividing the batsman's total runs scored during those innings in question by the number of times the batsman was out.","source":"wikipedia:Glossary_of_cricket_terms"}]},{"phrase":"average","start position":7,"end position":7,"entities":[{"_id":"w_017","_concept":["glossary term","local concept"],"main form":"Average","description":"A bowler's bowling average is defined as the total number of runs conceded by the bowler (including wides and no-balls) divided by the number of wickets taken by the bowler.","source":"wikipedia:Glossary_of_cricket_terms"},{"_id":"w_018","_concept":["glossary term","local concept"],"main form":"Average","description":"A batsman's batting average is defined as the total number of runs scored by the batsman divided by the number of times he has been dismissed.","source":"wikipedia:Glossary_of_cricket_terms"}]},{"phrase":"in","start position":8,"end position":8,"entities":[{"_id":"w_271","_concept":["glossary term","local concept"],"main form":"In","description":"of a batsman, presently batting.","source":"wikipedia:Glossary_of_cricket_terms"}]},{"phrase":"odi","start position":10,"end position":10,"entities":[{"_id":"w_362","_concept":["glossary term","local concept","acronym term"],"main form":"ODI","description":"see One Day International","expansion":"One Day Interantional","source":"wikipedia:Glossary_of_cricket_terms"},{"_id":"ODI","_concept":["format"],"is expressed by":["one day international","one-day internationals","one-day international","one day","one-day","one day internationals"]}]},{"phrase":"first","start position":11,"end position":11,"entities":[{"_id":"first","_concept":["qualifier"],"maps to":"a:max"}]},{"phrase":"first innings","start position":11,"end position":12,"entities":[{"_id":"first innings","_concept":["innings"],"is expressed by":"1st innings"}]},{"phrase":"innings","start position":12,"end position":12,"entities":[{"_id":"w_277","_concept":["glossary term","local concept"],"main form":"Innings","description":"one player's or one team's turn to bat (or bowl). Unlike in baseball, the cricket term \"innings\" is both singular and plural.","source":"wikipedia:Glossary_of_cricket_terms"}]},{"phrase":"in","start position":13,"end position":13,"entities":[{"_id":"w_271","_concept":["glossary term","local concept"],"main form":"In","description":"of a batsman, presently batting.","source":"wikipedia:Glossary_of_cricket_terms"}]},{"phrase":"2012","start position":14,"end position":14,"entities":[{"_id":"2012","_concept":["year"]}]}],"specials":[{"type":"number","phrase":"2012","start position":14,"end position":14}]}}]},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "a035",
+		"interpret": {"question":{"text":"what player fro Sri Lanka has the lowest batting average in an ODI first innings in 2012","words":["what","player","fro","Sri","Lanka","has","the","lowest","batting","average","in","an","ODI","first","innings","in","2012"]},"interpretations":[{"confidence":88,"explanation":"The words 'fro', 'an' were not matched","result":{"concepts":[{"phrase":"player","start position":1,"end position":1,"entities":[{"_id":"player","_concept":["entity concept","meaning","concept"],"sub-concept":["all rounder","bowler","wicket keeper","batsman"]}]},{"phrase":"innings","start position":14,"end position":14,"entities":[{"_id":"innings","_concept":["entity concept","meaning","concept"]}]}],"properties":[{"phrase":"innings","start position":14,"end position":14,"entities":[{"_id":"match:innings:innings","_concept":["attribute concept","object property","meaning","concept","property concept"],"property name":"innings","domain":"match","range":"innings"}]}],"instances":[{"phrase":"what","start position":0,"end position":0,"entities":[{"_id":"what","_concept":["question word"]}]},{"phrase":"sri lanka","start position":3,"end position":4,"entities":[{"_id":"Sri Lanka","_concept":["country","team"]}]},{"phrase":"has the","start position":5,"end position":6,"entities":[{"_id":"has the","_concept":["question phrase"]}]},{"phrase":"the","start position":6,"end position":6,"entities":[{"_id":"the","_concept":["common word"]}]},{"phrase":"lowest","start position":7,"end position":7,"entities":[{"_id":"lowest","_concept":["qualifier"],"maps to":"a:min"}]},{"phrase":"batting","start position":8,"end position":8,"entities":[{"_id":"w_035","_concept":["glossary term","local concept"],"main form":"Batting","description":"The act and skill of defending one's wicket and scoring runs.","source":"wikipedia:Glossary_of_cricket_terms"}]},{"phrase":"batting average","start position":8,"end position":9,"entities":[{"_id":"w_036","_concept":["glossary term","local concept"],"main form":"Batting average","description":"The average number of runs scored per innings by a batsman, calculated by dividing the batsman's total runs scored during those innings in question by the number of times the batsman was out.","source":"wikipedia:Glossary_of_cricket_terms"}]},{"phrase":"average","start position":9,"end position":9,"entities":[{"_id":"w_017","_concept":["glossary term","local concept"],"main form":"Average","description":"A bowler's bowling average is defined as the total number of runs conceded by the bowler (including wides and no-balls) divided by the number of wickets taken by the bowler.","source":"wikipedia:Glossary_of_cricket_terms"},{"_id":"w_018","_concept":["glossary term","local concept"],"main form":"Average","description":"A batsman's batting average is defined as the total number of runs scored by the batsman divided by the number of times he has been dismissed.","source":"wikipedia:Glossary_of_cricket_terms"}]},{"phrase":"in","start position":10,"end position":10,"entities":[{"_id":"w_271","_concept":["glossary term","local concept"],"main form":"In","description":"of a batsman, presently batting.","source":"wikipedia:Glossary_of_cricket_terms"}]},{"phrase":"odi","start position":12,"end position":12,"entities":[{"_id":"w_362","_concept":["glossary term","local concept","acronym term"],"main form":"ODI","description":"see One Day International","expansion":"One Day Interantional","source":"wikipedia:Glossary_of_cricket_terms"},{"_id":"ODI","_concept":["format"],"is expressed by":["one day international","one-day internationals","one-day international","one day","one-day","one day internationals"]}]},{"phrase":"first","start position":13,"end position":13,"entities":[{"_id":"first","_concept":["qualifier"],"maps to":"a:max"}]},{"phrase":"first innings","start position":13,"end position":14,"entities":[{"_id":"first innings","_concept":["innings"],"is expressed by":"1st innings"}]},{"phrase":"innings","start position":14,"end position":14,"entities":[{"_id":"w_277","_concept":["glossary term","local concept"],"main form":"Innings","description":"one player's or one team's turn to bat (or bowl). Unlike in baseball, the cricket term \"innings\" is both singular and plural.","source":"wikipedia:Glossary_of_cricket_terms"}]},{"phrase":"in","start position":15,"end position":15,"entities":[{"_id":"w_271","_concept":["glossary term","local concept"],"main form":"In","description":"of a batsman, presently batting.","source":"wikipedia:Glossary_of_cricket_terms"}]},{"phrase":"2012","start position":16,"end position":16,"entities":[{"_id":"2012","_concept":["year"]}]}],"specials":[{"type":"number","phrase":"2012","start position":16,"end position":16}]}}]},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "a036",
+		"interpret": {"question":{"text":"what female player from Sri Lanka has the highest batting average in an ODI first innings in 2012","words":["what","female","player","from","Sri","Lanka","has","the","highest","batting","average","in","an","ODI","first","innings","in","2012"]},"interpretations":[{"confidence":83,"explanation":"The words 'female', 'from', 'an' were not matched","result":{"concepts":[{"phrase":"player","start position":2,"end position":2,"entities":[{"_id":"player","_concept":["entity concept","meaning","concept"],"sub-concept":["all rounder","bowler","wicket keeper","batsman"]}]},{"phrase":"innings","start position":15,"end position":15,"entities":[{"_id":"innings","_concept":["entity concept","meaning","concept"]}]}],"properties":[{"phrase":"innings","start position":15,"end position":15,"entities":[{"_id":"match:innings:innings","_concept":["attribute concept","object property","meaning","concept","property concept"],"property name":"innings","domain":"match","range":"innings"}]}],"instances":[{"phrase":"what","start position":0,"end position":0,"entities":[{"_id":"what","_concept":["question word"]}]},{"phrase":"sri lanka","start position":4,"end position":5,"entities":[{"_id":"Sri Lanka","_concept":["country","team"]}]},{"phrase":"has the","start position":6,"end position":7,"entities":[{"_id":"has the","_concept":["question phrase"]}]},{"phrase":"the","start position":7,"end position":7,"entities":[{"_id":"the","_concept":["common word"]}]},{"phrase":"highest","start position":8,"end position":8,"entities":[{"_id":"highest","_concept":["qualifier"],"maps to":"a:max"}]},{"phrase":"batting","start position":9,"end position":9,"entities":[{"_id":"w_035","_concept":["glossary term","local concept"],"main form":"Batting","description":"The act and skill of defending one's wicket and scoring runs.","source":"wikipedia:Glossary_of_cricket_terms"}]},{"phrase":"batting average","start position":9,"end position":10,"entities":[{"_id":"w_036","_concept":["glossary term","local concept"],"main form":"Batting average","description":"The average number of runs scored per innings by a batsman, calculated by dividing the batsman's total runs scored during those innings in question by the number of times the batsman was out.","source":"wikipedia:Glossary_of_cricket_terms"}]},{"phrase":"average","start position":10,"end position":10,"entities":[{"_id":"w_017","_concept":["glossary term","local concept"],"main form":"Average","description":"A bowler's bowling average is defined as the total number of runs conceded by the bowler (including wides and no-balls) divided by the number of wickets taken by the bowler.","source":"wikipedia:Glossary_of_cricket_terms"},{"_id":"w_018","_concept":["glossary term","local concept"],"main form":"Average","description":"A batsman's batting average is defined as the total number of runs scored by the batsman divided by the number of times he has been dismissed.","source":"wikipedia:Glossary_of_cricket_terms"}]},{"phrase":"in","start position":11,"end position":11,"entities":[{"_id":"w_271","_concept":["glossary term","local concept"],"main form":"In","description":"of a batsman, presently batting.","source":"wikipedia:Glossary_of_cricket_terms"}]},{"phrase":"odi","start position":13,"end position":13,"entities":[{"_id":"w_362","_concept":["glossary term","local concept","acronym term"],"main form":"ODI","description":"see One Day International","expansion":"One Day Interantional","source":"wikipedia:Glossary_of_cricket_terms"},{"_id":"ODI","_concept":["format"],"is expressed by":["one day international","one-day internationals","one-day international","one day","one-day","one day internationals"]}]},{"phrase":"first","start position":14,"end position":14,"entities":[{"_id":"first","_concept":["qualifier"],"maps to":"a:max"}]},{"phrase":"first innings","start position":14,"end position":15,"entities":[{"_id":"first innings","_concept":["innings"],"is expressed by":"1st innings"}]},{"phrase":"innings","start position":15,"end position":15,"entities":[{"_id":"w_277","_concept":["glossary term","local concept"],"main form":"Innings","description":"one player's or one team's turn to bat (or bowl). Unlike in baseball, the cricket term \"innings\" is both singular and plural.","source":"wikipedia:Glossary_of_cricket_terms"}]},{"phrase":"in","start position":16,"end position":16,"entities":[{"_id":"w_271","_concept":["glossary term","local concept"],"main form":"In","description":"of a batsman, presently batting.","source":"wikipedia:Glossary_of_cricket_terms"}]},{"phrase":"2012","start position":17,"end position":17,"entities":[{"_id":"2012","_concept":["year"]}]}],"specials":[{"type":"number","phrase":"2012","start position":17,"end position":17}]}}]},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "a037",
+		"interpret": {"question":{"text":"what female player from Sri Lanka has the lowest batting average in an ODI first innings since 2012","words":["what","female","player","from","Sri","Lanka","has","the","lowest","batting","average","in","an","ODI","first","innings","since","2012"]},"interpretations":[{"confidence":77,"explanation":"The words 'female', 'from', 'an', 'since' were not matched","result":{"concepts":[{"phrase":"player","start position":2,"end position":2,"entities":[{"_id":"player","_concept":["entity concept","meaning","concept"],"sub-concept":["all rounder","bowler","wicket keeper","batsman"]}]},{"phrase":"innings","start position":15,"end position":15,"entities":[{"_id":"innings","_concept":["entity concept","meaning","concept"]}]}],"properties":[{"phrase":"innings","start position":15,"end position":15,"entities":[{"_id":"match:innings:innings","_concept":["attribute concept","object property","meaning","concept","property concept"],"property name":"innings","domain":"match","range":"innings"}]}],"instances":[{"phrase":"what","start position":0,"end position":0,"entities":[{"_id":"what","_concept":["question word"]}]},{"phrase":"sri lanka","start position":4,"end position":5,"entities":[{"_id":"Sri Lanka","_concept":["country","team"]}]},{"phrase":"has the","start position":6,"end position":7,"entities":[{"_id":"has the","_concept":["question phrase"]}]},{"phrase":"the","start position":7,"end position":7,"entities":[{"_id":"the","_concept":["common word"]}]},{"phrase":"lowest","start position":8,"end position":8,"entities":[{"_id":"lowest","_concept":["qualifier"],"maps to":"a:min"}]},{"phrase":"batting","start position":9,"end position":9,"entities":[{"_id":"w_035","_concept":["glossary term","local concept"],"main form":"Batting","description":"The act and skill of defending one's wicket and scoring runs.","source":"wikipedia:Glossary_of_cricket_terms"}]},{"phrase":"batting average","start position":9,"end position":10,"entities":[{"_id":"w_036","_concept":["glossary term","local concept"],"main form":"Batting average","description":"The average number of runs scored per innings by a batsman, calculated by dividing the batsman's total runs scored during those innings in question by the number of times the batsman was out.","source":"wikipedia:Glossary_of_cricket_terms"}]},{"phrase":"average","start position":10,"end position":10,"entities":[{"_id":"w_017","_concept":["glossary term","local concept"],"main form":"Average","description":"A bowler's bowling average is defined as the total number of runs conceded by the bowler (including wides and no-balls) divided by the number of wickets taken by the bowler.","source":"wikipedia:Glossary_of_cricket_terms"},{"_id":"w_018","_concept":["glossary term","local concept"],"main form":"Average","description":"A batsman's batting average is defined as the total number of runs scored by the batsman divided by the number of times he has been dismissed.","source":"wikipedia:Glossary_of_cricket_terms"}]},{"phrase":"in","start position":11,"end position":11,"entities":[{"_id":"w_271","_concept":["glossary term","local concept"],"main form":"In","description":"of a batsman, presently batting.","source":"wikipedia:Glossary_of_cricket_terms"}]},{"phrase":"odi","start position":13,"end position":13,"entities":[{"_id":"w_362","_concept":["glossary term","local concept","acronym term"],"main form":"ODI","description":"see One Day International","expansion":"One Day Interantional","source":"wikipedia:Glossary_of_cricket_terms"},{"_id":"ODI","_concept":["format"],"is expressed by":["one day international","one-day internationals","one-day international","one day","one-day","one day internationals"]}]},{"phrase":"first","start position":14,"end position":14,"entities":[{"_id":"first","_concept":["qualifier"],"maps to":"a:max"}]},{"phrase":"first innings","start position":14,"end position":15,"entities":[{"_id":"first innings","_concept":["innings"],"is expressed by":"1st innings"}]},{"phrase":"innings","start position":15,"end position":15,"entities":[{"_id":"w_277","_concept":["glossary term","local concept"],"main form":"Innings","description":"one player's or one team's turn to bat (or bowl). Unlike in baseball, the cricket term \"innings\" is both singular and plural.","source":"wikipedia:Glossary_of_cricket_terms"}]},{"phrase":"2012","start position":17,"end position":17,"entities":[{"_id":"2012","_concept":["year"]}]}],"specials":[{"type":"number","phrase":"2012","start position":17,"end position":17}]}}]},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "a038",
+		"interpret": {"question":{"text":"what female player from Sri Lanka has the lowest batting average in an ODI first innings before 2012","words":["what","female","player","from","Sri","Lanka","has","the","lowest","batting","average","in","an","ODI","first","innings","before","2012"]},"interpretations":[{"confidence":83,"explanation":"The words 'female', 'from', 'an' were not matched","result":{"concepts":[{"phrase":"player","start position":2,"end position":2,"entities":[{"_id":"player","_concept":["entity concept","meaning","concept"],"sub-concept":["all rounder","bowler","wicket keeper","batsman"]}]},{"phrase":"innings","start position":15,"end position":15,"entities":[{"_id":"innings","_concept":["entity concept","meaning","concept"]}]}],"properties":[{"phrase":"innings","start position":15,"end position":15,"entities":[{"_id":"match:innings:innings","_concept":["attribute concept","object property","meaning","concept","property concept"],"property name":"innings","domain":"match","range":"innings"}]}],"instances":[{"phrase":"what","start position":0,"end position":0,"entities":[{"_id":"what","_concept":["question word"]}]},{"phrase":"sri lanka","start position":4,"end position":5,"entities":[{"_id":"Sri Lanka","_concept":["country","team"]}]},{"phrase":"has the","start position":6,"end position":7,"entities":[{"_id":"has the","_concept":["question phrase"]}]},{"phrase":"the","start position":7,"end position":7,"entities":[{"_id":"the","_concept":["common word"]}]},{"phrase":"lowest","start position":8,"end position":8,"entities":[{"_id":"lowest","_concept":["qualifier"],"maps to":"a:min"}]},{"phrase":"batting","start position":9,"end position":9,"entities":[{"_id":"w_035","_concept":["glossary term","local concept"],"main form":"Batting","description":"The act and skill of defending one's wicket and scoring runs.","source":"wikipedia:Glossary_of_cricket_terms"}]},{"phrase":"batting average","start position":9,"end position":10,"entities":[{"_id":"w_036","_concept":["glossary term","local concept"],"main form":"Batting average","description":"The average number of runs scored per innings by a batsman, calculated by dividing the batsman's total runs scored during those innings in question by the number of times the batsman was out.","source":"wikipedia:Glossary_of_cricket_terms"}]},{"phrase":"average","start position":10,"end position":10,"entities":[{"_id":"w_017","_concept":["glossary term","local concept"],"main form":"Average","description":"A bowler's bowling average is defined as the total number of runs conceded by the bowler (including wides and no-balls) divided by the number of wickets taken by the bowler.","source":"wikipedia:Glossary_of_cricket_terms"},{"_id":"w_018","_concept":["glossary term","local concept"],"main form":"Average","description":"A batsman's batting average is defined as the total number of runs scored by the batsman divided by the number of times he has been dismissed.","source":"wikipedia:Glossary_of_cricket_terms"}]},{"phrase":"in","start position":11,"end position":11,"entities":[{"_id":"w_271","_concept":["glossary term","local concept"],"main form":"In","description":"of a batsman, presently batting.","source":"wikipedia:Glossary_of_cricket_terms"}]},{"phrase":"odi","start position":13,"end position":13,"entities":[{"_id":"w_362","_concept":["glossary term","local concept","acronym term"],"main form":"ODI","description":"see One Day International","expansion":"One Day Interantional","source":"wikipedia:Glossary_of_cricket_terms"},{"_id":"ODI","_concept":["format"],"is expressed by":["one day international","one-day internationals","one-day international","one day","one-day","one day internationals"]}]},{"phrase":"first","start position":14,"end position":14,"entities":[{"_id":"first","_concept":["qualifier"],"maps to":"a:max"}]},{"phrase":"first innings","start position":14,"end position":15,"entities":[{"_id":"first innings","_concept":["innings"],"is expressed by":"1st innings"}]},{"phrase":"innings","start position":15,"end position":15,"entities":[{"_id":"w_277","_concept":["glossary term","local concept"],"main form":"Innings","description":"one player's or one team's turn to bat (or bowl). Unlike in baseball, the cricket term \"innings\" is both singular and plural.","source":"wikipedia:Glossary_of_cricket_terms"}]},{"phrase":"before","start position":16,"end position":16,"entities":[{"_id":"before","_concept":["qualifier"],"maps to":"a:previous"}]},{"phrase":"2012","start position":17,"end position":17,"entities":[{"_id":"2012","_concept":["year"]}]}],"specials":[{"type":"number","phrase":"2012","start position":17,"end position":17}]}}]},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "a039",
+		"interpret": {"question":{"text":"what Australian has a batting average above 10","words":["what","Australian","has","a","batting","average","above","10"]},"interpretations":[{"confidence":100,"result":{"instances":[{"phrase":"what","start position":0,"end position":0,"entities":[{"_id":"what","_concept":["question word"]}]},{"phrase":"australian","start position":1,"end position":1,"entities":[{"_id":"Australian","_concept":["nationality"],"is expressed by":"Aussie","corresponds to":"Australia"}]},{"phrase":"has a","start position":2,"end position":3,"entities":[{"_id":"has a","_concept":["question phrase"]}]},{"phrase":"batting","start position":4,"end position":4,"entities":[{"_id":"w_035","_concept":["glossary term","local concept"],"main form":"Batting","description":"The act and skill of defending one's wicket and scoring runs.","source":"wikipedia:Glossary_of_cricket_terms"}]},{"phrase":"batting average","start position":4,"end position":5,"entities":[{"_id":"w_036","_concept":["glossary term","local concept"],"main form":"Batting average","description":"The average number of runs scored per innings by a batsman, calculated by dividing the batsman's total runs scored during those innings in question by the number of times the batsman was out.","source":"wikipedia:Glossary_of_cricket_terms"}]},{"phrase":"average","start position":5,"end position":5,"entities":[{"_id":"w_017","_concept":["glossary term","local concept"],"main form":"Average","description":"A bowler's bowling average is defined as the total number of runs conceded by the bowler (including wides and no-balls) divided by the number of wickets taken by the bowler.","source":"wikipedia:Glossary_of_cricket_terms"},{"_id":"w_018","_concept":["glossary term","local concept"],"main form":"Average","description":"A batsman's batting average is defined as the total number of runs scored by the batsman divided by the number of times he has been dismissed.","source":"wikipedia:Glossary_of_cricket_terms"}]},{"phrase":"above","start position":6,"end position":6,"entities":[{"_id":"above","_concept":["qualifier"],"maps to":"a:greater"}]}],"specials":[{"type":"number","phrase":"10","start position":7,"end position":7},{"type":"linked-instance","phrase":"australian","start position":1,"end position":1,"matched instance":{"_id":"Australian","_concept":["nationality"],"is expressed by":"Aussie","corresponds to":"Australia"},"linked instances":[{"_id":"Australia","_concept":["team"]}],"property":{"_id":"nationality:corresponds to:team","_concept":["object property","meaning","linked property","concept","relation concept","property concept"],"property name":"corresponds to","domain":"nationality","range":"team"}}]}}]},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "a040",
+		"interpret": {"question":{"text":"what Australian has a batting average over 10","words":["what","Australian","has","a","batting","average","over","10"]},"interpretations":[{"confidence":100,"result":{"concepts":[{"phrase":"over","start position":6,"end position":6,"entities":[{"_id":"over","_concept":["entity concept","meaning","concept"]}]}],"properties":[{"phrase":"over","start position":6,"end position":6,"entities":[{"_id":"innings:over:over","_concept":["attribute concept","object property","meaning","concept","property concept"],"property name":"over","domain":"innings","range":"over"}]}],"instances":[{"phrase":"what","start position":0,"end position":0,"entities":[{"_id":"what","_concept":["question word"]}]},{"phrase":"australian","start position":1,"end position":1,"entities":[{"_id":"Australian","_concept":["nationality"],"is expressed by":"Aussie","corresponds to":"Australia"}]},{"phrase":"has a","start position":2,"end position":3,"entities":[{"_id":"has a","_concept":["question phrase"]}]},{"phrase":"batting","start position":4,"end position":4,"entities":[{"_id":"w_035","_concept":["glossary term","local concept"],"main form":"Batting","description":"The act and skill of defending one's wicket and scoring runs.","source":"wikipedia:Glossary_of_cricket_terms"}]},{"phrase":"batting average","start position":4,"end position":5,"entities":[{"_id":"w_036","_concept":["glossary term","local concept"],"main form":"Batting average","description":"The average number of runs scored per innings by a batsman, calculated by dividing the batsman's total runs scored during those innings in question by the number of times the batsman was out.","source":"wikipedia:Glossary_of_cricket_terms"}]},{"phrase":"average","start position":5,"end position":5,"entities":[{"_id":"w_017","_concept":["glossary term","local concept"],"main form":"Average","description":"A bowler's bowling average is defined as the total number of runs conceded by the bowler (including wides and no-balls) divided by the number of wickets taken by the bowler.","source":"wikipedia:Glossary_of_cricket_terms"},{"_id":"w_018","_concept":["glossary term","local concept"],"main form":"Average","description":"A batsman's batting average is defined as the total number of runs scored by the batsman divided by the number of times he has been dismissed.","source":"wikipedia:Glossary_of_cricket_terms"}]},{"phrase":"over","start position":6,"end position":6,"entities":[{"_id":"w_386","_concept":["glossary term","local concept"],"main form":"Over","description":"the delivery of six consecutive legal balls by one bowler.","source":"wikipedia:Glossary_of_cricket_terms"}]}],"specials":[{"type":"number","phrase":"10","start position":7,"end position":7},{"type":"linked-instance","phrase":"australian","start position":1,"end position":1,"matched instance":{"_id":"Australian","_concept":["nationality"],"is expressed by":"Aussie","corresponds to":"Australia"},"linked instances":[{"_id":"Australia","_concept":["team"]}],"property":{"_id":"nationality:corresponds to:team","_concept":["object property","meaning","linked property","concept","relation concept","property concept"],"property name":"corresponds to","domain":"nationality","range":"team"}}]}}]},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "a041",
+		"interpret": {"question":{"text":"what Australian has a batting average of 10 or better","words":["what","Australian","has","a","batting","average","of","10","or","better"]},"interpretations":[{"confidence":80,"explanation":"The words 'of', 'better' were not matched","result":{"instances":[{"phrase":"what","start position":0,"end position":0,"entities":[{"_id":"what","_concept":["question word"]}]},{"phrase":"australian","start position":1,"end position":1,"entities":[{"_id":"Australian","_concept":["nationality"],"is expressed by":"Aussie","corresponds to":"Australia"}]},{"phrase":"has a","start position":2,"end position":3,"entities":[{"_id":"has a","_concept":["question phrase"]}]},{"phrase":"batting","start position":4,"end position":4,"entities":[{"_id":"w_035","_concept":["glossary term","local concept"],"main form":"Batting","description":"The act and skill of defending one's wicket and scoring runs.","source":"wikipedia:Glossary_of_cricket_terms"}]},{"phrase":"batting average","start position":4,"end position":5,"entities":[{"_id":"w_036","_concept":["glossary term","local concept"],"main form":"Batting average","description":"The average number of runs scored per innings by a batsman, calculated by dividing the batsman's total runs scored during those innings in question by the number of times the batsman was out.","source":"wikipedia:Glossary_of_cricket_terms"}]},{"phrase":"average","start position":5,"end position":5,"entities":[{"_id":"w_017","_concept":["glossary term","local concept"],"main form":"Average","description":"A bowler's bowling average is defined as the total number of runs conceded by the bowler (including wides and no-balls) divided by the number of wickets taken by the bowler.","source":"wikipedia:Glossary_of_cricket_terms"},{"_id":"w_018","_concept":["glossary term","local concept"],"main form":"Average","description":"A batsman's batting average is defined as the total number of runs scored by the batsman divided by the number of times he has been dismissed.","source":"wikipedia:Glossary_of_cricket_terms"}]},{"phrase":"or","start position":8,"end position":8,"entities":[{"_id":"or","_concept":["connector word"]}]}],"specials":[{"type":"number","phrase":"10","start position":7,"end position":7},{"type":"linked-instance","phrase":"australian","start position":1,"end position":1,"matched instance":{"_id":"Australian","_concept":["nationality"],"is expressed by":"Aussie","corresponds to":"Australia"},"linked instances":[{"_id":"Australia","_concept":["team"]}],"property":{"_id":"nationality:corresponds to:team","_concept":["object property","meaning","linked property","concept","relation concept","property concept"],"property name":"corresponds to","domain":"nationality","range":"team"}}]}}]},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "a042",
+		"interpret": {"question":{"text":"what Australian has a batting average above 10.5","words":["what","Australian","has","a","batting","average","above","10.5"]},"interpretations":[{"confidence":100,"result":{"instances":[{"phrase":"what","start position":0,"end position":0,"entities":[{"_id":"what","_concept":["question word"]}]},{"phrase":"australian","start position":1,"end position":1,"entities":[{"_id":"Australian","_concept":["nationality"],"is expressed by":"Aussie","corresponds to":"Australia"}]},{"phrase":"has a","start position":2,"end position":3,"entities":[{"_id":"has a","_concept":["question phrase"]}]},{"phrase":"batting","start position":4,"end position":4,"entities":[{"_id":"w_035","_concept":["glossary term","local concept"],"main form":"Batting","description":"The act and skill of defending one's wicket and scoring runs.","source":"wikipedia:Glossary_of_cricket_terms"}]},{"phrase":"batting average","start position":4,"end position":5,"entities":[{"_id":"w_036","_concept":["glossary term","local concept"],"main form":"Batting average","description":"The average number of runs scored per innings by a batsman, calculated by dividing the batsman's total runs scored during those innings in question by the number of times the batsman was out.","source":"wikipedia:Glossary_of_cricket_terms"}]},{"phrase":"average","start position":5,"end position":5,"entities":[{"_id":"w_017","_concept":["glossary term","local concept"],"main form":"Average","description":"A bowler's bowling average is defined as the total number of runs conceded by the bowler (including wides and no-balls) divided by the number of wickets taken by the bowler.","source":"wikipedia:Glossary_of_cricket_terms"},{"_id":"w_018","_concept":["glossary term","local concept"],"main form":"Average","description":"A batsman's batting average is defined as the total number of runs scored by the batsman divided by the number of times he has been dismissed.","source":"wikipedia:Glossary_of_cricket_terms"}]},{"phrase":"above","start position":6,"end position":6,"entities":[{"_id":"above","_concept":["qualifier"],"maps to":"a:greater"}]}],"specials":[{"type":"number","phrase":"10.5","start position":7,"end position":7},{"type":"linked-instance","phrase":"australian","start position":1,"end position":1,"matched instance":{"_id":"Australian","_concept":["nationality"],"is expressed by":"Aussie","corresponds to":"Australia"},"linked instances":[{"_id":"Australia","_concept":["team"]}],"property":{"_id":"nationality:corresponds to:team","_concept":["object property","meaning","linked property","concept","relation concept","property concept"],"property name":"corresponds to","domain":"nationality","range":"team"}}]}}]},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "a043",
+		"interpret": {"question":{"text":"how many Australians have a batting average above 10.5","words":["how","many","Australians","have","a","batting","average","above","10.5"]},"interpretations":[{"confidence":77,"explanation":"The words 'have', 'a' were not matched","result":{"instances":[{"phrase":"how","start position":0,"end position":0,"entities":[{"_id":"how","_concept":["question word"]}]},{"phrase":"how many","start position":0,"end position":1,"entities":[{"_id":"how many","_concept":["modifier","question phrase"],"corresponds to":"general:count"}]},{"phrase":"australians","start position":2,"end position":2,"entities":[{"_id":"Australian","_concept":["nationality"],"is expressed by":"Aussie","corresponds to":"Australia"}]},{"phrase":"batting","start position":5,"end position":5,"entities":[{"_id":"w_035","_concept":["glossary term","local concept"],"main form":"Batting","description":"The act and skill of defending one's wicket and scoring runs.","source":"wikipedia:Glossary_of_cricket_terms"}]},{"phrase":"batting average","start position":5,"end position":6,"entities":[{"_id":"w_036","_concept":["glossary term","local concept"],"main form":"Batting average","description":"The average number of runs scored per innings by a batsman, calculated by dividing the batsman's total runs scored during those innings in question by the number of times the batsman was out.","source":"wikipedia:Glossary_of_cricket_terms"}]},{"phrase":"average","start position":6,"end position":6,"entities":[{"_id":"w_017","_concept":["glossary term","local concept"],"main form":"Average","description":"A bowler's bowling average is defined as the total number of runs conceded by the bowler (including wides and no-balls) divided by the number of wickets taken by the bowler.","source":"wikipedia:Glossary_of_cricket_terms"},{"_id":"w_018","_concept":["glossary term","local concept"],"main form":"Average","description":"A batsman's batting average is defined as the total number of runs scored by the batsman divided by the number of times he has been dismissed.","source":"wikipedia:Glossary_of_cricket_terms"}]},{"phrase":"above","start position":7,"end position":7,"entities":[{"_id":"above","_concept":["qualifier"],"maps to":"a:greater"}]}],"specials":[{"type":"number","phrase":"10.5","start position":8,"end position":8},{"type":"linked-instance","phrase":"australians","start position":2,"end position":2,"matched instance":{"_id":"Australian","_concept":["nationality"],"is expressed by":"Aussie","corresponds to":"Australia"},"linked instances":[{"_id":"Australia","_concept":["team"]}],"property":{"_id":"nationality:corresponds to:team","_concept":["object property","meaning","linked property","concept","relation concept","property concept"],"property name":"corresponds to","domain":"nationality","range":"team"}}]}}]},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "a044",
+		"interpret": {"question":{"text":"which Australians have a batting average above 10.5","words":["which","Australians","have","a","batting","average","above","10.5"]},"interpretations":[{"confidence":62,"explanation":"The words 'which', 'have', 'a' were not matched","result":{"instances":[{"phrase":"australians","start position":1,"end position":1,"entities":[{"_id":"Australian","_concept":["nationality"],"is expressed by":"Aussie","corresponds to":"Australia"}]},{"phrase":"batting","start position":4,"end position":4,"entities":[{"_id":"w_035","_concept":["glossary term","local concept"],"main form":"Batting","description":"The act and skill of defending one's wicket and scoring runs.","source":"wikipedia:Glossary_of_cricket_terms"}]},{"phrase":"batting average","start position":4,"end position":5,"entities":[{"_id":"w_036","_concept":["glossary term","local concept"],"main form":"Batting average","description":"The average number of runs scored per innings by a batsman, calculated by dividing the batsman's total runs scored during those innings in question by the number of times the batsman was out.","source":"wikipedia:Glossary_of_cricket_terms"}]},{"phrase":"average","start position":5,"end position":5,"entities":[{"_id":"w_017","_concept":["glossary term","local concept"],"main form":"Average","description":"A bowler's bowling average is defined as the total number of runs conceded by the bowler (including wides and no-balls) divided by the number of wickets taken by the bowler.","source":"wikipedia:Glossary_of_cricket_terms"},{"_id":"w_018","_concept":["glossary term","local concept"],"main form":"Average","description":"A batsman's batting average is defined as the total number of runs scored by the batsman divided by the number of times he has been dismissed.","source":"wikipedia:Glossary_of_cricket_terms"}]},{"phrase":"above","start position":6,"end position":6,"entities":[{"_id":"above","_concept":["qualifier"],"maps to":"a:greater"}]}],"specials":[{"type":"number","phrase":"10.5","start position":7,"end position":7},{"type":"linked-instance","phrase":"australians","start position":1,"end position":1,"matched instance":{"_id":"Australian","_concept":["nationality"],"is expressed by":"Aussie","corresponds to":"Australia"},"linked instances":[{"_id":"Australia","_concept":["team"]}],"property":{"_id":"nationality:corresponds to:team","_concept":["object property","meaning","linked property","concept","relation concept","property concept"],"property name":"corresponds to","domain":"nationality","range":"team"}}]}}]},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "a045",
+		"interpret": {"question":{"text":"what player from Yorkshire has a batting average above 10.5","words":["what","player","from","Yorkshire","has","a","batting","average","above","10.5"]},"interpretations":[{"confidence":90,"explanation":"The word 'from' was not matched","result":{"concepts":[{"phrase":"player","start position":1,"end position":1,"entities":[{"_id":"player","_concept":["entity concept","meaning","concept"],"sub-concept":["all rounder","bowler","wicket keeper","batsman"]}]}],"instances":[{"phrase":"what","start position":0,"end position":0,"entities":[{"_id":"what","_concept":["question word"]}]},{"phrase":"yorkshire","start position":3,"end position":3,"entities":[{"_id":"Yorkshire","_concept":["nationality","team"],"is expressed by":["Yorkshiremen","Yorkshireman"],"corresponds to":"Yorkshire"}]},{"phrase":"has a","start position":4,"end position":5,"entities":[{"_id":"has a","_concept":["question phrase"]}]},{"phrase":"batting","start position":6,"end position":6,"entities":[{"_id":"w_035","_concept":["glossary term","local concept"],"main form":"Batting","description":"The act and skill of defending one's wicket and scoring runs.","source":"wikipedia:Glossary_of_cricket_terms"}]},{"phrase":"batting average","start position":6,"end position":7,"entities":[{"_id":"w_036","_concept":["glossary term","local concept"],"main form":"Batting average","description":"The average number of runs scored per innings by a batsman, calculated by dividing the batsman's total runs scored during those innings in question by the number of times the batsman was out.","source":"wikipedia:Glossary_of_cricket_terms"}]},{"phrase":"average","start position":7,"end position":7,"entities":[{"_id":"w_017","_concept":["glossary term","local concept"],"main form":"Average","description":"A bowler's bowling average is defined as the total number of runs conceded by the bowler (including wides and no-balls) divided by the number of wickets taken by the bowler.","source":"wikipedia:Glossary_of_cricket_terms"},{"_id":"w_018","_concept":["glossary term","local concept"],"main form":"Average","description":"A batsman's batting average is defined as the total number of runs scored by the batsman divided by the number of times he has been dismissed.","source":"wikipedia:Glossary_of_cricket_terms"}]},{"phrase":"above","start position":8,"end position":8,"entities":[{"_id":"above","_concept":["qualifier"],"maps to":"a:greater"}]}],"specials":[{"type":"number","phrase":"10.5","start position":9,"end position":9},{"type":"linked-instance","phrase":"yorkshire","start position":3,"end position":3,"matched instance":{"_id":"Yorkshire","_concept":["nationality","team"],"is expressed by":["Yorkshiremen","Yorkshireman"],"corresponds to":"Yorkshire"},"linked instances":[{"_id":"Yorkshire","_concept":["nationality","team"],"is expressed by":["Yorkshiremen","Yorkshireman"],"corresponds to":"Yorkshire"}],"property":{"_id":"nationality:corresponds to:team","_concept":["object property","meaning","linked property","concept","relation concept","property concept"],"property name":"corresponds to","domain":"nationality","range":"team"}}]}}]},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "a046",
+		"interpret": {"question":{"text":"what Yorkshireman has a batting average above 10.5","words":["what","Yorkshireman","has","a","batting","average","above","10.5"]},"interpretations":[{"confidence":100,"result":{"instances":[{"phrase":"what","start position":0,"end position":0,"entities":[{"_id":"what","_concept":["question word"]}]},{"phrase":"yorkshireman","start position":1,"end position":1,"entities":[{"_id":"Yorkshire","_concept":["nationality","team"],"is expressed by":["Yorkshiremen","Yorkshireman"],"corresponds to":"Yorkshire"}]},{"phrase":"has a","start position":2,"end position":3,"entities":[{"_id":"has a","_concept":["question phrase"]}]},{"phrase":"batting","start position":4,"end position":4,"entities":[{"_id":"w_035","_concept":["glossary term","local concept"],"main form":"Batting","description":"The act and skill of defending one's wicket and scoring runs.","source":"wikipedia:Glossary_of_cricket_terms"}]},{"phrase":"batting average","start position":4,"end position":5,"entities":[{"_id":"w_036","_concept":["glossary term","local concept"],"main form":"Batting average","description":"The average number of runs scored per innings by a batsman, calculated by dividing the batsman's total runs scored during those innings in question by the number of times the batsman was out.","source":"wikipedia:Glossary_of_cricket_terms"}]},{"phrase":"average","start position":5,"end position":5,"entities":[{"_id":"w_017","_concept":["glossary term","local concept"],"main form":"Average","description":"A bowler's bowling average is defined as the total number of runs conceded by the bowler (including wides and no-balls) divided by the number of wickets taken by the bowler.","source":"wikipedia:Glossary_of_cricket_terms"},{"_id":"w_018","_concept":["glossary term","local concept"],"main form":"Average","description":"A batsman's batting average is defined as the total number of runs scored by the batsman divided by the number of times he has been dismissed.","source":"wikipedia:Glossary_of_cricket_terms"}]},{"phrase":"above","start position":6,"end position":6,"entities":[{"_id":"above","_concept":["qualifier"],"maps to":"a:greater"}]}],"specials":[{"type":"number","phrase":"10.5","start position":7,"end position":7},{"type":"linked-instance","phrase":"yorkshireman","start position":1,"end position":1,"matched instance":{"_id":"Yorkshire","_concept":["nationality","team"],"is expressed by":["Yorkshiremen","Yorkshireman"],"corresponds to":"Yorkshire"},"linked instances":[{"_id":"Yorkshire","_concept":["nationality","team"],"is expressed by":["Yorkshiremen","Yorkshireman"],"corresponds to":"Yorkshire"}],"property":{"_id":"nationality:corresponds to:team","_concept":["object property","meaning","linked property","concept","relation concept","property concept"],"property name":"corresponds to","domain":"nationality","range":"team"}}]}}]},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "a047",
+		"interpret": {"question":{"text":"what female player from Yorkshire has a batting average above 10.5","words":["what","female","player","from","Yorkshire","has","a","batting","average","above","10.5"]},"interpretations":[{"confidence":81,"explanation":"The words 'female', 'from' were not matched","result":{"concepts":[{"phrase":"player","start position":2,"end position":2,"entities":[{"_id":"player","_concept":["entity concept","meaning","concept"],"sub-concept":["all rounder","bowler","wicket keeper","batsman"]}]}],"instances":[{"phrase":"what","start position":0,"end position":0,"entities":[{"_id":"what","_concept":["question word"]}]},{"phrase":"yorkshire","start position":4,"end position":4,"entities":[{"_id":"Yorkshire","_concept":["nationality","team"],"is expressed by":["Yorkshiremen","Yorkshireman"],"corresponds to":"Yorkshire"}]},{"phrase":"has a","start position":5,"end position":6,"entities":[{"_id":"has a","_concept":["question phrase"]}]},{"phrase":"batting","start position":7,"end position":7,"entities":[{"_id":"w_035","_concept":["glossary term","local concept"],"main form":"Batting","description":"The act and skill of defending one's wicket and scoring runs.","source":"wikipedia:Glossary_of_cricket_terms"}]},{"phrase":"batting average","start position":7,"end position":8,"entities":[{"_id":"w_036","_concept":["glossary term","local concept"],"main form":"Batting average","description":"The average number of runs scored per innings by a batsman, calculated by dividing the batsman's total runs scored during those innings in question by the number of times the batsman was out.","source":"wikipedia:Glossary_of_cricket_terms"}]},{"phrase":"average","start position":8,"end position":8,"entities":[{"_id":"w_017","_concept":["glossary term","local concept"],"main form":"Average","description":"A bowler's bowling average is defined as the total number of runs conceded by the bowler (including wides and no-balls) divided by the number of wickets taken by the bowler.","source":"wikipedia:Glossary_of_cricket_terms"},{"_id":"w_018","_concept":["glossary term","local concept"],"main form":"Average","description":"A batsman's batting average is defined as the total number of runs scored by the batsman divided by the number of times he has been dismissed.","source":"wikipedia:Glossary_of_cricket_terms"}]},{"phrase":"above","start position":9,"end position":9,"entities":[{"_id":"above","_concept":["qualifier"],"maps to":"a:greater"}]}],"specials":[{"type":"number","phrase":"10.5","start position":10,"end position":10},{"type":"linked-instance","phrase":"yorkshire","start position":4,"end position":4,"matched instance":{"_id":"Yorkshire","_concept":["nationality","team"],"is expressed by":["Yorkshiremen","Yorkshireman"],"corresponds to":"Yorkshire"},"linked instances":[{"_id":"Yorkshire","_concept":["nationality","team"],"is expressed by":["Yorkshiremen","Yorkshireman"],"corresponds to":"Yorkshire"}],"property":{"_id":"nationality:corresponds to:team","_concept":["object property","meaning","linked property","concept","relation concept","property concept"],"property name":"corresponds to","domain":"nationality","range":"team"}}]}}]},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "a048",
+		"interpret": {"question":{"text":"what Yorkshire woman has a batting average above 10.5","words":["what","Yorkshire","woman","has","a","batting","average","above","10.5"]},"interpretations":[{"confidence":100,"result":{"concepts":[{"phrase":"woman","start position":2,"end position":2,"entities":[{"_id":"woman","_concept":["entity concept","meaning","concept"]}]}],"instances":[{"phrase":"what","start position":0,"end position":0,"entities":[{"_id":"what","_concept":["question word"]}]},{"phrase":"yorkshire","start position":1,"end position":1,"entities":[{"_id":"Yorkshire","_concept":["nationality","team"],"is expressed by":["Yorkshiremen","Yorkshireman"],"corresponds to":"Yorkshire"}]},{"phrase":"has a","start position":3,"end position":4,"entities":[{"_id":"has a","_concept":["question phrase"]}]},{"phrase":"batting","start position":5,"end position":5,"entities":[{"_id":"w_035","_concept":["glossary term","local concept"],"main form":"Batting","description":"The act and skill of defending one's wicket and scoring runs.","source":"wikipedia:Glossary_of_cricket_terms"}]},{"phrase":"batting average","start position":5,"end position":6,"entities":[{"_id":"w_036","_concept":["glossary term","local concept"],"main form":"Batting average","description":"The average number of runs scored per innings by a batsman, calculated by dividing the batsman's total runs scored during those innings in question by the number of times the batsman was out.","source":"wikipedia:Glossary_of_cricket_terms"}]},{"phrase":"average","start position":6,"end position":6,"entities":[{"_id":"w_017","_concept":["glossary term","local concept"],"main form":"Average","description":"A bowler's bowling average is defined as the total number of runs conceded by the bowler (including wides and no-balls) divided by the number of wickets taken by the bowler.","source":"wikipedia:Glossary_of_cricket_terms"},{"_id":"w_018","_concept":["glossary term","local concept"],"main form":"Average","description":"A batsman's batting average is defined as the total number of runs scored by the batsman divided by the number of times he has been dismissed.","source":"wikipedia:Glossary_of_cricket_terms"}]},{"phrase":"above","start position":7,"end position":7,"entities":[{"_id":"above","_concept":["qualifier"],"maps to":"a:greater"}]}],"specials":[{"type":"number","phrase":"10.5","start position":8,"end position":8},{"type":"linked-instance","phrase":"yorkshire","start position":1,"end position":1,"matched instance":{"_id":"Yorkshire","_concept":["nationality","team"],"is expressed by":["Yorkshiremen","Yorkshireman"],"corresponds to":"Yorkshire"},"linked instances":[{"_id":"Yorkshire","_concept":["nationality","team"],"is expressed by":["Yorkshiremen","Yorkshireman"],"corresponds to":"Yorkshire"}],"property":{"_id":"nationality:corresponds to:team","_concept":["object property","meaning","linked property","concept","relation concept","property concept"],"property name":"corresponds to","domain":"nationality","range":"team"}}]}}]},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "a049",
+		"interpret": {"question":{"text":"which Yorkshire or Lanchashire players have a batting average above 10.5","words":["which","Yorkshire","or","Lanchashire","players","have","a","batting","average","above","10.5"]},"interpretations":[{"confidence":63,"explanation":"The words 'which', 'Lanchashire', 'have', 'a' were not matched","result":{"concepts":[{"phrase":"players","start position":4,"end position":4,"entities":[{"_id":"player","_concept":["entity concept","meaning","concept"],"sub-concept":["all rounder","bowler","wicket keeper","batsman"]}]}],"instances":[{"phrase":"yorkshire","start position":1,"end position":1,"entities":[{"_id":"Yorkshire","_concept":["nationality","team"],"is expressed by":["Yorkshiremen","Yorkshireman"],"corresponds to":"Yorkshire"}]},{"phrase":"or","start position":2,"end position":2,"entities":[{"_id":"or","_concept":["connector word"]}]},{"phrase":"batting","start position":7,"end position":7,"entities":[{"_id":"w_035","_concept":["glossary term","local concept"],"main form":"Batting","description":"The act and skill of defending one's wicket and scoring runs.","source":"wikipedia:Glossary_of_cricket_terms"}]},{"phrase":"batting average","start position":7,"end position":8,"entities":[{"_id":"w_036","_concept":["glossary term","local concept"],"main form":"Batting average","description":"The average number of runs scored per innings by a batsman, calculated by dividing the batsman's total runs scored during those innings in question by the number of times the batsman was out.","source":"wikipedia:Glossary_of_cricket_terms"}]},{"phrase":"average","start position":8,"end position":8,"entities":[{"_id":"w_017","_concept":["glossary term","local concept"],"main form":"Average","description":"A bowler's bowling average is defined as the total number of runs conceded by the bowler (including wides and no-balls) divided by the number of wickets taken by the bowler.","source":"wikipedia:Glossary_of_cricket_terms"},{"_id":"w_018","_concept":["glossary term","local concept"],"main form":"Average","description":"A batsman's batting average is defined as the total number of runs scored by the batsman divided by the number of times he has been dismissed.","source":"wikipedia:Glossary_of_cricket_terms"}]},{"phrase":"above","start position":9,"end position":9,"entities":[{"_id":"above","_concept":["qualifier"],"maps to":"a:greater"}]}],"specials":[{"type":"number","phrase":"10.5","start position":10,"end position":10},{"type":"linked-instance","phrase":"yorkshire","start position":1,"end position":1,"matched instance":{"_id":"Yorkshire","_concept":["nationality","team"],"is expressed by":["Yorkshiremen","Yorkshireman"],"corresponds to":"Yorkshire"},"linked instances":[{"_id":"Yorkshire","_concept":["nationality","team"],"is expressed by":["Yorkshiremen","Yorkshireman"],"corresponds to":"Yorkshire"}],"property":{"_id":"nationality:corresponds to:team","_concept":["object property","meaning","linked property","concept","relation concept","property concept"],"property name":"corresponds to","domain":"nationality","range":"team"}}]}}]},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "a050",
+		"interpret": {"question":{"text":"how many runs did Sachin Tendulkar score against England","words":["how","many","runs","did","Sachin","Tendulkar","score","against","England"]},"interpretations":[{"confidence":88,"explanation":"The word 'did' was not matched","result":{"concepts":[{"phrase":"runs","start position":2,"end position":2,"entities":[{"_id":"run","_concept":["score","entity concept","meaning","concept","potential score"],"sub-concept":["six","four"],"run count":"1"}]},{"phrase":"score","start position":6,"end position":6,"entities":[{"_id":"score","_concept":["entity concept","meaning","concept"],"is expressed by":["total","figure","scored"],"sub-concept":"potential score"}]}],"properties":[{"phrase":"batsman:career runs:value","start position":2,"end position":2,"entities":[{"_id":"batsman:career runs:value","_concept":["attribute concept","meaning","concept","property concept","datatype property"],"is expressed by":["total runs","runs"],"property name":"career runs","domain":"batsman"}]},{"phrase":"score","start position":6,"end position":6,"entities":[{"_id":"match:score:score","_concept":["attribute concept","object property","meaning","concept","property concept"],"property name":"score","domain":"match","range":"score"}]},{"phrase":"score against","start position":6,"end position":7,"entities":[{"_id":"player:scores against:player","_concept":["object property","meaning","concept","relation concept","property concept"],"is expressed by":["score against","scored against"],"property name":"scores against","domain":"player","range":"player"},{"_id":"player:scores against:team","_concept":["object property","meaning","concept","relation concept","property concept"],"is expressed by":["score against","scored against"],"property name":"scores against","domain":"player","range":"team"}]}],"instances":[{"phrase":"how","start position":0,"end position":0,"entities":[{"_id":"how","_concept":["question word"]}]},{"phrase":"how many","start position":0,"end position":1,"entities":[{"_id":"how many","_concept":["modifier","question phrase"],"corresponds to":"general:count"}]},{"phrase":"sachin tendulkar","start position":4,"end position":5,"entities":[{"_id":"SR Tendulkar","_concept":["bowler","person","batsman","player"],"is expressed by":["Master Blaster","Little Master","Sachin Tendulkar","Tendulkar","Tendlya"]}]},{"phrase":"england","start position":8,"end position":8,"entities":[{"_id":"England","_concept":["country","team"]}]}],"specials":[{"type":"matched-triple","phrase":"batsman:career runs:value did sachin tendulkar","start position":2,"end position":5,"predicate":{"phrase":"batsman:career runs:value","start position":2,"end position":2,"entities":[{"_id":"batsman:career runs:value","_concept":["attribute concept","meaning","concept","property concept","datatype property"],"is expressed by":["total runs","runs"],"property name":"career runs","domain":"batsman"}]},"subject instances":[{"phrase":"sachin tendulkar","start position":4,"end position":5,"entities":[{"_id":"SR Tendulkar","_concept":["bowler","person","batsman","player"],"is expressed by":["Master Blaster","Little Master","Sachin Tendulkar","Tendulkar","Tendlya"]}]}]},{"type":"matched-triple","phrase":"sachin tendulkar score against","start position":4,"end position":7,"predicate":{"phrase":"score against","start position":6,"end position":7,"entities":[{"_id":"player:scores against:player","_concept":["object property","meaning","concept","relation concept","property concept"],"is expressed by":["score against","scored against"],"property name":"scores against","domain":"player","range":"player"}]},"subject instances":[{"phrase":"sachin tendulkar","start position":4,"end position":5,"entities":[{"_id":"SR Tendulkar","_concept":["bowler","person","batsman","player"],"is expressed by":["Master Blaster","Little Master","Sachin Tendulkar","Tendulkar","Tendlya"]}]}]},{"type":"matched-triple","phrase":"sachin tendulkar score against england","start position":4,"end position":8,"predicate":{"phrase":"score against","start position":6,"end position":7,"entities":[{"_id":"player:scores against:team","_concept":["object property","meaning","concept","relation concept","property concept"],"is expressed by":["score against","scored against"],"property name":"scores against","domain":"player","range":"team"}]},"subject instances":[{"phrase":"sachin tendulkar","start position":4,"end position":5,"entities":[{"_id":"SR Tendulkar","_concept":["bowler","person","batsman","player"],"is expressed by":["Master Blaster","Little Master","Sachin Tendulkar","Tendulkar","Tendlya"]}]}],"object instances":[{"phrase":"england","start position":8,"end position":8,"entities":[{"_id":"England","_concept":["country","team"]}]}]}]}}]},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "a051",
+		"interpret": {"question":{"text":"how many runs has Sachin Tendulkar ever scored against Andrew Strauss","words":["how","many","runs","has","Sachin","Tendulkar","ever","scored","against","Andrew","Strauss"]},"interpretations":[{"confidence":90,"explanation":"The word 'has' was not matched","result":{"concepts":[{"phrase":"runs","start position":2,"end position":2,"entities":[{"_id":"run","_concept":["score","entity concept","meaning","concept","potential score"],"sub-concept":["six","four"],"run count":"1"}]},{"phrase":"scored","start position":7,"end position":7,"entities":[{"_id":"score","_concept":["entity concept","meaning","concept"],"is expressed by":["total","figure","scored"],"sub-concept":"potential score"}]}],"properties":[{"phrase":"batsman:career runs:value","start position":2,"end position":2,"entities":[{"_id":"batsman:career runs:value","_concept":["attribute concept","meaning","concept","property concept","datatype property"],"is expressed by":["total runs","runs"],"property name":"career runs","domain":"batsman"}]},{"phrase":"scored against","start position":7,"end position":8,"entities":[{"_id":"player:scores against:player","_concept":["object property","meaning","concept","relation concept","property concept"],"is expressed by":["score against","scored against"],"property name":"scores against","domain":"player","range":"player"},{"_id":"player:scores against:team","_concept":["object property","meaning","concept","relation concept","property concept"],"is expressed by":["score against","scored against"],"property name":"scores against","domain":"player","range":"team"}]}],"instances":[{"phrase":"how","start position":0,"end position":0,"entities":[{"_id":"how","_concept":["question word"]}]},{"phrase":"how many","start position":0,"end position":1,"entities":[{"_id":"how many","_concept":["modifier","question phrase"],"corresponds to":"general:count"}]},{"phrase":"sachin tendulkar","start position":4,"end position":5,"entities":[{"_id":"SR Tendulkar","_concept":["bowler","person","batsman","player"],"is expressed by":["Master Blaster","Little Master","Sachin Tendulkar","Tendulkar","Tendlya"]}]},{"phrase":"ever","start position":6,"end position":6,"entities":[{"_id":"ever","_concept":["qualifier"]}]},{"phrase":"andrew strauss","start position":9,"end position":10,"entities":[{"_id":"AJ Strauss","_concept":["person","batsman","player"],"is expressed by":"Andrew Strauss"}]}],"specials":[{"type":"matched-triple","phrase":"batsman:career runs:value has sachin tendulkar","start position":2,"end position":5,"predicate":{"phrase":"batsman:career runs:value","start position":2,"end position":2,"entities":[{"_id":"batsman:career runs:value","_concept":["attribute concept","meaning","concept","property concept","datatype property"],"is expressed by":["total runs","runs"],"property name":"career runs","domain":"batsman"}]},"subject instances":[{"phrase":"sachin tendulkar","start position":4,"end position":5,"entities":[{"_id":"SR Tendulkar","_concept":["bowler","person","batsman","player"],"is expressed by":["Master Blaster","Little Master","Sachin Tendulkar","Tendulkar","Tendlya"]}]},{"phrase":"andrew strauss","start position":9,"end position":10,"entities":[{"_id":"AJ Strauss","_concept":["person","batsman","player"],"is expressed by":"Andrew Strauss"}]}]},{"type":"matched-triple","phrase":"sachin tendulkar scored against andrew strauss","start position":4,"end position":10,"predicate":{"phrase":"scored against","start position":7,"end position":8,"entities":[{"_id":"player:scores against:player","_concept":["object property","meaning","concept","relation concept","property concept"],"is expressed by":["score against","scored against"],"property name":"scores against","domain":"player","range":"player"}]},"subject instances":[{"phrase":"sachin tendulkar","start position":4,"end position":5,"entities":[{"_id":"SR Tendulkar","_concept":["bowler","person","batsman","player"],"is expressed by":["Master Blaster","Little Master","Sachin Tendulkar","Tendulkar","Tendlya"]}]}],"object instances":[{"phrase":"andrew strauss","start position":9,"end position":10,"entities":[{"_id":"AJ Strauss","_concept":["person","batsman","player"],"is expressed by":"Andrew Strauss"}]}]},{"type":"matched-triple","phrase":"sachin tendulkar ever scored against","start position":4,"end position":8,"predicate":{"phrase":"scored against","start position":7,"end position":8,"entities":[{"_id":"player:scores against:team","_concept":["object property","meaning","concept","relation concept","property concept"],"is expressed by":["score against","scored against"],"property name":"scores against","domain":"player","range":"team"}]},"subject instances":[{"phrase":"sachin tendulkar","start position":4,"end position":5,"entities":[{"_id":"SR Tendulkar","_concept":["bowler","person","batsman","player"],"is expressed by":["Master Blaster","Little Master","Sachin Tendulkar","Tendulkar","Tendlya"]}]}]}]}}]},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "c001",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "c002",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "c003",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "c004",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "c005",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "c006",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "c007",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "c008",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "c009",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "c010",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "c011",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "c012",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "c013",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "c014",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "c015",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "c016",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "c017",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "c018",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "c019",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "c020",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "c021",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "c022",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "c023",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "c024",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "c025",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "c026",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "c027",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "c028",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "c029",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "c030",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "c031",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "c032",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "c033",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "c034",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "c035",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "c036",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "c037",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "c038",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "c039",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "c040",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "c041",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "c042",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "c043",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "c044",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "c045",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "c046",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "c047",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "c048",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "c049",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "c050",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "c051",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "c052",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "c053",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "c054",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "c055",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "c056",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "c057",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "c058",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "c059",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "c060",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "c061",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "c062",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "c063",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "c064",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "c065",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "c066",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "c067",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "c068",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "c069",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "c070",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "c071",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "c072",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "c073",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "c074",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "c075",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "c076",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "c077",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "c078",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "c079",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "c080",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "c081",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "c082",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "c083",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "c084",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "c085",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "c086",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "c087",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "c088",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "c089",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "c090",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "c091",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "c092",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "c093",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "c094",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "c095",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "c096",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "c097",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "c098",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "c099",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "c100",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "c101",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "c102",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "c103",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "c104",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "c105",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "c106",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "c107",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "c108",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "c109",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "c110",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "c111",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "c112",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "c113",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "c114",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "c115",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "c116",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "c117",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "c118",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "c119",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "c120",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "c121",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "c122",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "c123",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "c124",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "c125",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "c126",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "c127",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "c128",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "c129",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "c130",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "c131",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "c132",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "c133",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "c134",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	},
+	{
+		"id": "c135",
+		"interpret": {},
+		"execute": {},
+		"answer": {}
+	}
+]

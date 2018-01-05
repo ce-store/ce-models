@@ -1,0 +1,21 @@
+perform set 'ce root' to '{{base_url}}/'.
+
+{{#each command_files}}
+perform load sentences from url './{{this}}'.
+{{/each}}
+
+{{#each model_files}}
+perform load sentences from url './{{this}}'.
+{{/each}}
+
+{{#each hudson_files}}
+perform load sentences from url './{{this}}'.
+{{/each}}
+
+{{#each fact_files}}
+perform load sentences from url './{{this}}'.
+{{/each}}
+
+{{#each agent_files}}
+perform load sentences from url './{{this}}'.
+{{/each}}

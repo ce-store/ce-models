@@ -1,0 +1,12 @@
+-- --------------------------------------------------------------------------
+-- (C) Copyright IBM Corporation  2011, 2016
+-- All Rights Reserved
+-- --------------------------------------------------------------------------
+
+-- Because this command file is part of the model directory service
+-- the 'core' Hudson models and facts are automatically loaded prior
+-- to this CE being processed and do not need to be specified here
+
+-- Load the video specific models and facts
+perform load sentences from url './models/video/model/vid_model.ce'.
+perform load sentences from url './models/video/facts/vid_facts.ce'.

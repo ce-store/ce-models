@@ -1,0 +1,17 @@
+-- --------------------------------------------------------------------------
+-- (C) Copyright IBM Corporation  2011, 2016
+-- All Rights Reserved
+-- --------------------------------------------------------------------------
+
+there is a format named 'test'.
+there is a format named 'T20'.
+there is a format named 'international'.
+
+there is a format named 'ODI' that
+  is expressed by 'one day international' and
+  is expressed by 'one-day international' and
+  is expressed by 'one day' and
+  is expressed by 'one-day' and
+  is expressed by 'one day internationals' and
+  is expressed by 'one-day internationals'.
+Note: Need to do plural checking on 'is expressed by' values...

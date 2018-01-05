@@ -1,0 +1,130 @@
+-- --------------------------------------------------------------------------
+-- (C) Copyright IBM Corporation 2016
+-- All Rights Reserved
+-- --------------------------------------------------------------------------
+
+-- This CE has been generated from SL_generator v1.21.xlsm
+
+there is an event series named 'AAMAS' that
+  has 'International Conference on Autonomous Agents and Multiagent Systems (AAMAS)' as full name and
+  has 'http://www.aamas-conference.org/' as url.
+
+there is an event series named 'AFM (or ACITA)' that
+  has 'Annual Fall Meeting of the International Technology Alliance (AFM)' as full name and
+  is also known as 'ACITA' and
+  is also known as 'AFM'.
+
+there is an event series named 'ArgMAS' that
+  has 'Argumentation in Multi-Agent Systems (ArgMAS)' as full name and
+  has 'http://www.mit.edu/~irahwan/argmas/' as url.
+
+there is an event series named 'ASC' that
+  has 'Army Science Conference (ASC)' as full name and
+  has 'http://www.arl.army.mil/www/?article=449' as url.
+
+there is an event series named 'ASIACRYPT' that
+  has 'IACR Annual International Conference on the Theory and Application of Cryptology and Information (ASIACRYPT)' as full name and
+  has 'http://www.iacr.org/meetings/asiacrypt/' as url.
+
+there is an event series named 'CNSM' that
+  has 'IEEE International Conference on Network and Service Management (CNSM)' as full name and
+  has 'http://www.cnsm-conf.org/' as url.
+
+there is an event series named 'COMMSNETS' that
+  has 'IEEE International Conference on Communication Systems and Networks and Workshops (COMMSNETS)' as full name and
+  has 'http://www.comsnets.org/' as url.
+
+there is an event series named 'CoNEXT' that
+  has 'ACM Conference on emerging Networking EXperiments and Technologies (CoNEXT)' as full name and
+  has 'http://www.sigcomm.org/events/conext-conference' as url.
+
+there is an event series named 'CRYPTO' that
+  has 'IACR Annual International Cryptology Conference (CRYPTO)' as full name and
+  has 'http://www.iacr.org/meetings/crypto/' as url.
+
+there is an event series named 'DCoSS' that
+  has 'IEEE International Conference on Distributed Computing in Sensor Systems (DCoSS)' as full name and
+  has 'http://www.dcoss.org/' as url.
+
+there is an event series named 'EUMAS' that
+  has 'European Workshop on Multi-Agent Systems (EUMAS)' as full name and
+  has 'http://www.ia.urjc.es/www.eumas.org/' as url.
+
+there is an event series named 'EUROCRYPT' that
+  has 'IACR Annual Annual International Conference on the Theory and Applications of Cryptographic Techniques (EUROCRYPT)' as full name and
+  has 'http://www.iacr.org/meetings/eurocrypt/' as url.
+
+there is an event series named 'FUSION' that
+  has 'International Conference on Information Fusion (Fusion)' as full name and
+  is also known as 'ISIF'.
+
+there is an event series named 'GlobeCom' that
+  has 'IEEE Global Communications Conference (GlobeCom)' as full name and
+  has 'http://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1000308' as url.
+
+there is an event series named 'ICC' that
+  has 'IEEE International Conference on Communications (ICC)' as full name and
+  has 'http://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1000104' as url.
+
+there is an event series named 'ICCRTS' that
+  has 'International Command and Control Research Technology Symposium (ICCRTS)' as full name and
+  has 'http://www.dodccrp.org/html4/events_symposium_home.html' as url.
+
+there is an event series named 'IJCAI' that
+  has 'International Joint Conferences on Artificial Intelligence (IJCAI)' as full name and
+  has 'http://ijcai.org/' as url.
+
+there is an event series named 'InfoCom' that
+  has 'IEEE International Conference on Computer Communications (InfoCom)' as full name and
+  has 'http://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1000359' as url.
+
+there is an event series named 'ISWC' that
+  has 'International Semantic Web Conference (ISWC)' as full name and
+  has 'http://swsa.semanticweb.org/content/international-semantic-web-conference-iswc' as url.
+
+there is an event series named 'KSCO' that
+  has 'Knowledge Systems for Coalition Operations (KSCO)' as full name and
+  has 'http://www.aiai.ed.ac.uk/project/coalition/' as url.
+
+there is an event series named 'MASS' that
+  has 'IEEE International Conference on Mobile Ad Hoc and Sensor Systems (MASS)' as full name and
+  has 'http://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1001499' as url.
+
+there is an event series named 'MILCOM' that
+  has 'IEEE Military Communication Conference (Milcom)' as full name.
+
+there is an event series named 'MobiCom' that
+  has 'Annual International Conference on Mobile Computing and Networking (MobiCom)' as full name and
+  has 'http://www.sigmobile.org/mobicom/' as url.
+
+there is an event series named 'MobiHoc' that
+  has 'ACM International Symposium on Mobile Ad Hoc Networking and Computing (MobiHoc)' as full name and
+  has 'http://www.sigmobile.org/mobihoc/' as url.
+
+there is an event series named 'PerCom' that
+  has 'IEEE International Conference on Pervasive Computing and Communications (PerCom)' as full name and
+  has 'http://www.percom.org/' as url.
+
+there is an event series named 'PIMRC' that
+  has 'IEEE International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC)' as full name and
+  has 'http://www.ieee-pimrc.org/' as url.
+
+there is an event series named 'POLICY' that
+  has 'IEEE International Symposium on Policies for Distributed Systems and Networks (POLICY)' as full name and
+  has 'http://www.policy-workshop.org/' as url.
+
+there is an event series named 'SECON' that
+  has 'IEEE Communications Society Conference on Sensor, Mesh and Ad Hoc Communications and Networks (SECON)' as full name and
+  has 'http://ieee-secon.org' as url.
+
+there is an event series named 'SPIE DSS' that
+  has 'International Society for Optics and Photonics - Defense, Security and Sensing (SPIE DSS)' as full name and
+  has 'http://spie.org/dss' as url.
+
+there is an event series named 'SPIE ESD' that
+  has 'International Society for Optics and Photonics - Europe Security and Defense (SPIE ESD)' as full name and
+  has 'http://spieeurope.org/esd' as url.
+
+there is an event series named 'WCNC' that
+  has 'IEEE Wireless Communications and Networking Conference (WCNC)' as full name and
+  has 'http://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1000817' as url.

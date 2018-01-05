@@ -1,0 +1,23 @@
+-- --------------------------------------------------------------------------
+-- (C) Copyright IBM Corporation  2011, 2016
+-- All Rights Reserved
+-- --------------------------------------------------------------------------
+
+the entity concept 'annotation'
+  is expressed by 'clip'.
+
+the property concept 'annotation:contains:target'
+  is expressed by 'show'.
+
+there is a position named 'midfielder'.
+
+there is a player named 'Fred Smith'
+  that is a target
+  and has the position 'midfielder' as position.
+
+there is an annotation named 'Fred Smith annotation'
+  that contains the target 'Fred Smith'
+  and has '123' as start
+  and has '456' as end.
+
+there is a palyer named 'John Smith'.

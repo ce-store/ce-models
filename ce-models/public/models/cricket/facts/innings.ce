@@ -1,0 +1,16 @@
+-- --------------------------------------------------------------------------
+-- (C) Copyright IBM Corporation  2011, 2016
+-- All Rights Reserved
+-- --------------------------------------------------------------------------
+
+there is an innings named 'first innings' that
+  is expressed by '1st innings'.
+
+there is an innings named 'second innings' that
+  is expressed by '2nd innings'.
+
+there is an innings named 'third innings' that
+  is expressed by '3rd innings'.
+
+there is an innings named 'fourth innings' that
+  is expressed by '4th innings'.

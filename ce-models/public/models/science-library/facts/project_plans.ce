@@ -1,0 +1,34 @@
+-- --------------------------------------------------------------------------
+-- (C) Copyright IBM Corporation 2016
+-- All Rights Reserved
+-- --------------------------------------------------------------------------
+
+-- This CE has been generated from SL_generator v1.21.xlsm
+
+there is a project plan named 'IPP06' that
+  has 'IPP06' as code name and and
+  ran during the year '2006'.
+
+there is a project plan named 'BPP07' that
+  has 'BPP07' as code name and and
+  ran during the year '2007' and
+  ran during the year '2008'.
+
+there is a project plan named 'BPP09' that
+  has 'BPP09' as code name and and
+  ran during the year '2009' and
+  ran during the year '2010'.
+
+there is a project plan named 'BPP11' that
+  has 'BPP11' as code name and and
+  ran during the year '2011' and
+  ran during the year '2012'.
+
+there is a project plan named 'BPP13' that
+  has 'BPP13' as code name and and
+  ran during the year '2013' and
+  ran during the year '2014'.
+
+there is a project plan named 'FPP15' that
+  has 'FPP15' as code name and and
+  ran during the year '2015'.

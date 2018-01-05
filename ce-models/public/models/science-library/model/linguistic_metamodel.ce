@@ -1,0 +1,13 @@
+-- --------------------------------------------------------------------------
+-- (C) Copyright IBM Corporation 2016
+-- All Rights Reserved
+-- --------------------------------------------------------------------------
+the linguistic thing 'person' has 'people' as plural form.
+
+the entity concept 'person' is a separately identified concept.
+the entity concept 'organisation' is a separately identified concept.
+the entity concept 'document' is a separately identified concept.
+
+the property concept 'person:full name:value' is an identification property concept.
+the property concept 'organisation:name:value' is an identification property concept.
+the property concept 'document:title:value' is an identification property concept.

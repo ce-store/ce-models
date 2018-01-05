@@ -1,0 +1,11 @@
+-- --------------------------------------------------------------------------
+-- (C) Copyright IBM Corporation  2011, 2016
+-- All Rights Reserved
+-- --------------------------------------------------------------------------
+
+the property concept 'scronym term:expansion:value'
+  is expressed by 'stands for' and
+  is expressed by 'stand for'.
+
+the entity concept 'person'
+  is expressed by 'people'.

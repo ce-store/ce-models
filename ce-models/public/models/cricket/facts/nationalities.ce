@@ -1,0 +1,30 @@
+-- --------------------------------------------------------------------------
+-- (C) Copyright IBM Corporation  2011, 2016
+-- All Rights Reserved
+-- --------------------------------------------------------------------------
+
+there is a nationality named 'Yorkshire' that
+  corresponds to the team 'Yorkshire' and
+  is expressed by 'Yorkshireman' and
+  is expressed by 'Yorkshiremen'.
+
+there is a nationality named 'South African' that
+  corresponds to the team 'South Africa'.
+
+there is a nationality named 'Indian' that
+  corresponds to the team 'India'.
+
+there is a nationality named 'Australian' that
+  corresponds to the team 'Australia' and
+  is expressed by 'Aussie'.
+
+there is a nationality named 'English' that
+  corresponds to the team 'England' and
+  is expressed by 'Englishman' and
+  is expressed by 'Englishmen'.
+
+there is a nationality named 'New Zealander' that
+  corresponds to the team 'New Zealand'.
+
+there is a nationality named 'New Zealander' that
+  is expressed by 'Kiwi'.

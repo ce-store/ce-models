@@ -1,0 +1,10 @@
+[
+    "connectors.ce",
+    "cricket_linguistics.ce",
+    "cricket_metamodel.ce",
+    "cricket_model.ce",
+    "extra_model.ce",
+    "linguistic_extensions_model.ce",
+    "number_words.ce",
+    "question_phrases.ce"
+]

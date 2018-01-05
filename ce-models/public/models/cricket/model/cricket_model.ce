@@ -1,0 +1,139 @@
+-- --------------------------------------------------------------------------
+-- (C) Copyright IBM Corporation  2011, 2016
+-- All Rights Reserved
+-- --------------------------------------------------------------------------
+
+-- people
+
+conceptualise a ~ person ~ P that
+  ~ was born in ~ the country C and
+  has the nationality N as ~ nationality ~ and
+  has the value DOB as ~ date of birth ~ and
+  has the value POB as ~ place of birth ~ and
+  has the value A as ~ age ~ and
+  has the value RE as ~ religion ~.
+
+conceptualise a ~ player ~ P that
+  is a person and
+  ~ plays for ~ the team T and
+  has the value RO as ~ role ~ and
+  has the value NN as ~ nickname ~ and
+  has the value C as ~ captaincy ~ and
+  has the value MM as ~ man of the match ~ and
+  ~ scores against ~ the team T and
+  ~ scores against ~ the player P2.
+
+conceptualise a ~ batsman ~ B that
+  is a player and
+  has the value BA as ~ batting average ~ and
+  has the value BAH as ~ batting hand ~ and
+  has the value CR as ~ career runs ~ and
+  has the value BF as ~ balls faced ~ and
+  has the value TO as ~ total outs ~ and
+  has the value BI as ~ batting innings ~ and
+  has the value BA as ~ career matches ~.
+
+conceptualise a ~ player ~ P that
+ has the team T as ~ batting average against ~.
+
+conceptualise a ~ player ~ P that
+  has the team T as ~ runs against ~.
+
+conceptualise a ~ player ~ P that
+  has the team T as ~ balls faced against ~.
+
+conceptualise a ~ player ~ P that
+    has the team T as ~ faced against ~.
+
+conceptualise a ~ player ~ P that
+  has the team T as ~ matches played against ~.
+
+conceptualise a ~ player ~ P that
+ has the team T as ~ matches against ~.
+
+conceptualise a ~ player ~ P that
+  has the team T as ~ played against ~.
+
+conceptualise a ~ player ~ P that
+    has the team T as ~ innings against ~.
+
+conceptualise a ~ bowler ~ B that
+  is a player and
+  has the value BOA as ~ bowling average ~ and
+  has the value BOH as ~ bowling hand ~.
+
+conceptualise an ~ all rounder ~ AR that is a player.
+conceptualise an ~ wicket keeper ~ WK that is a player.
+
+conceptualise an ~ umpire ~ U that is a person.
+
+conceptualise a ~ nationality ~ N that
+  ~ corresponds to ~ the team T.
+
+conceptualise a ~ format ~ F.
+
+
+-- teams
+
+conceptualise a ~ team ~ T.
+
+
+-- places
+
+conceptualise a ~ country ~ C.
+
+conceptualise a ~ city ~ CI that
+  is a spatial thing and
+  ~ is within ~ the country CO.
+
+conceptualise a ~ venue ~ V that
+  is a spatial thing and
+  ~ is within ~ the city C and
+  ~ is home to ~ the team T.
+
+conceptualise a ~ county ~ C that
+  ~ is within ~ the country C.
+
+-- mechanics
+conceptualise a ~ match ~ M that
+  has the outcome O as ~ outcome ~ and
+  has the score S as ~ score ~ and
+  has the innings I as ~ innings ~ and
+  ~ is played at ~ the venue V.
+
+conceptualise a ~ series ~ S that
+  ~ is part of ~ the match M.
+
+conceptualise an ~ innings ~ I that
+  has the over O as ~ over ~.
+
+conceptualise an ~ over ~ O that
+  has the ball B as ~ ball ~.
+
+conceptualise a ~ ball ~ B that
+  has the ball outcome BO as ~ outcome ~.
+
+conceptualise an ~ outcome ~ O.
+conceptualise a ~ match outcome ~ MO that is an outcome.
+conceptualise a ~ ball outcome ~ BO that is an outcome.
+
+conceptualise a ~ win ~ W that is a match outcome.
+conceptualise a ~ lose ~ L that is a match outcome.
+conceptualise a ~ draw ~ D that is a match outcome.
+
+conceptualise a ~ wicket ~ W that is a ball outcome.
+
+conceptualise a ~ score ~ S that
+  has the value RC as ~ run count ~ and
+  has the value BC as ~ batsman count ~.
+
+conceptualise a ~ potential score ~ P that
+  is a score.
+
+conceptualise a ~ run ~ R.
+conceptualise a ~ six ~ S that is a run.
+conceptualise a ~ four ~ F that is a run.
+
+conceptualise an ~ over ~ O.
+
+conceptualise a ~ role ~ R.

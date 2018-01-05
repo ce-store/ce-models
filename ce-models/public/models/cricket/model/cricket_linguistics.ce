@@ -1,0 +1,71 @@
+-- --------------------------------------------------------------------------
+-- (C) Copyright IBM Corporation  2011, 2016
+-- All Rights Reserved
+-- --------------------------------------------------------------------------
+
+the entity concept 'team'
+  is expressed by 'side' and
+  is expressed by 'club'.
+
+the entity concept 'match' is expressed by 'game'.
+
+the entity concept 'wicket keeper'
+  is expressed by 'wicketkeeper' and
+  is expressed by 'wicketkeepers'.
+
+the property concept 'player:plays for:team' is expressed by 'play for'.
+
+the property concept 'player:scores against:team' is expressed by 'score against'.
+the property concept 'player:scores against:team' is expressed by 'scored against'.
+
+the property concept 'player:scores against:player' is expressed by 'score against'.
+the property concept 'player:scores against:player' is expressed by 'scored against'.
+
+the property concept 'player:matches played against:team' is expressed by 'played against'.
+
+the property concept 'batsman:career matches:value' is expressed by 'matches'.
+
+the property concept 'batsman:career runs:value' is expressed by 'total runs'.
+the property concept 'batsman:career runs:value' is expressed by 'runs'.
+
+the property concept 'player:career matches:value' is expressed by 'career matches against'.
+the property concept 'player:career matches:value' is expressed by 'total matches'.
+
+the property concept 'batsman:balls faced:value' is expressed by 'balls faced'.
+the property concept 'batsman:balls faced:value' is expressed by 'faced'.
+
+
+
+the entity concept 'batsman' has 'batsmen' as plural form.
+
+the entity concept 'score'
+  is expressed by 'total' and
+  is expressed by 'figure'.
+
+the entity concept 'won'
+  is expressed by 'win' and
+  is expressed by 'wins' and
+  is expressed by 'won' and
+  is expressed by 'winning'.
+
+the entity concept 'lose'
+  is expressed by 'lost'.
+
+the entity concept 'venue'
+  is expressed by 'stadium'.
+
+the entity concept 'six' is expressed by 'sixes'.
+the entity concept 'score' is expressed by 'scored'.
+
+the entity concept 'match:is played at:venue'
+  is expressed by 'played at'.
+
+the property concept 'person:was born in:country'
+  is expressed by 'were born in'.
+
+the entity concept 'person'
+  has 'people' as plural form.
+
+the entity concept 'county' has 'counties' as plural form.
+
+the entity concept 'match' has 'matches' as plural form.

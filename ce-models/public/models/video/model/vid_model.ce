@@ -1,0 +1,32 @@
+-- --------------------------------------------------------------------------
+-- (C) Copyright IBM Corporation  2011, 2016
+-- All Rights Reserved
+-- --------------------------------------------------------------------------
+
+Model:   Video
+Title:   Video model
+Version: 1.0
+
+conceptualise a ~ video ~ V.
+
+conceptualise a ~ target template ~ T.
+
+conceptualise a ~ tag template ~ T.
+
+conceptualise a ~ target ~ T that
+  ~ exists in ~ the video V.
+
+conceptualise a ~ tag ~ T.
+
+conceptualise an ~ annotation ~ A
+ that ~ contains ~ the target T
+  and has the value S as ~ start ~
+  and has the value E as ~ end ~
+  and ~ is tagged with ~ the tag TAG.
+
+conceptualise a ~ position ~ V that 
+  is a property.
+
+conceptualise a ~ player ~ T that 
+  is a target template
+  and has the position V as ~ position ~.

@@ -1,0 +1,24 @@
+-- --------------------------------------------------------------------------
+-- (C) Copyright IBM Corporation  2011, 2016
+-- All Rights Reserved
+-- --------------------------------------------------------------------------
+
+the renderable thing 'hospital' has '/ce-store/icons/medicine/hospital.png' as icon file name.
+
+
+the hospital 'Basingstoke and North Hampshire Hospital'
+  has '51.2807463' as latitude and
+  has '-1.1095547' as longitude.
+
+the hospital 'Royal Hampshire County Hospital'
+  has '51.0621731' as latitude and
+  has '-1.3290164' as longitude.
+
+the hospital 'Andover War Memorial Hospital'
+  has '51.2157949' as latitude and
+  has '-1.4948623' as longitude and
+  has the media 'media_001' as picture.
+
+there is a media named 'media_001' that
+  has 'http://www.southernhealth.nhs.uk/EasysiteWeb/getresource.axd?AssetID=18498&type=full&servicetype=Inline' as url and
+  has 'Southern Health NHS' as credit.

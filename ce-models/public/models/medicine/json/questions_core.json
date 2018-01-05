@@ -1,0 +1,184 @@
+ [
+	{
+		"id": "001a",
+		"question": "list people",
+		"delay": 1000
+	},
+	{
+		"id": "001b",
+		"question": "list people ascending"
+	},
+	{
+		"id": "001c",
+		"question": "list people descending"
+	},
+	{
+		"id": "002",
+		"question": "list persons",
+		"answerer_parameters": "?returnInstances=true"
+	},
+	{
+		"id": "003",
+		"question": "list person"
+	},
+	{
+		"id": "004a",
+		"question": "list people and lumps",
+		"answerer_parameters": "?returnInstances=true&returnInterpretation=true"
+	},
+	{
+		"id": "004b",
+		"question": "list people and lumps consolidated",
+		"answerer_parameters": "?returnInstances=true&returnInterpretation=true"
+	},
+	{
+		"id": "005a",
+		"question": "list people, lumps and patients"
+	},
+	{
+		"id": "005b",
+		"question": "list people, lumps and patients together"
+	},
+	{
+		"id": "006",
+		"question": "who is bill"
+	},
+	{
+		"id": "007",
+		"question": "what is jean",
+		"answerer_parameters": "?returnInstances=true"
+	},
+	{
+		"id": "008",
+		"question": "who are bill and jean"
+	},
+	{
+		"id": "009",
+		"question": "what are bill, jean and john",
+		"answerer_parameters": "?returnInstances=true"
+	},
+	{
+		"id": "010",
+		"question": "who is bill and what is jean"
+	},
+	{
+		"id": "011",
+		"question": "expand bill"
+	},
+	{
+		"id": "012",
+		"question": "expand bill and jean",
+		"answerer_parameters": "?returnInstances=true"
+	},
+	{
+		"id": "013a",
+		"question": "where is Andover War Memorial Hospital",
+		"answerer_parameters": "?returnInstances=true"
+	},
+	{
+		"id": "013b",
+		"question": "where is Bill",
+		"answerer_parameters": "?returnInstances=true"
+	},
+	{
+		"id": "013c",
+		"question": "where is Jean",
+		"answerer_parameters": "?returnInstances=true"
+	},
+	{
+		"id": "014",
+		"question": "count people",
+		"answerer_parameters": "?returnInstances=true"
+	},
+	{
+		"id": "015",
+		"question": "what is person"
+	},
+	{
+		"id": "016",
+		"question": "expand person",
+		"answerer_parameters": "?returnInstances=true"
+	},
+	{
+		"id": "017",
+		"question": "list concepts"
+	},
+	{
+		"id": "018",
+		"question": "what is Andover War Memorial Hospital picture"
+	},
+	{
+		"id": "019",
+		"question": "what does Andover War Memorial Hospital look like",
+		"answerer_parameters": "?returnInstances=true"
+	},
+	{
+		"id": "020",
+		"question": "what age is jean",
+		"answerer_parameters": "?returnInstances=true"
+	},
+	{
+		"id": "021a",
+		"question": "who is closely related to jean",
+		"answerer_parameters": "?returnInstances=true"
+	},
+	{
+		"id": "021b",
+		"question": "who is jean is closely related to",
+		"answerer_parameters": "?returnInstances=true"
+	},
+	{
+		"id": "022",
+		"question": "who is closely related to more than 2 people"
+	},
+	{
+		"id": "023",
+		"question": "what is jean doing"
+	},
+	{
+		"id": "024",
+		"question": "who is the parent of john"
+	},
+	{
+		"id": "025",
+		"question": "who is john's parent"
+	},
+	{
+		"id": "026",
+		"question": "who are john's parents",
+		"answerer_parameters": "?returnInstances=true"
+	},
+	{
+		"id": "027",
+		"question": "who is john the parent of"
+	},
+	{
+		"id": "028",
+		"question": "what is report 1"
+	},
+	{
+		"id": "029",
+		"question": "list people by social security number"
+	},
+	{
+		"id": "030",
+		"question": "list people by social security number descending"
+	},
+	{
+		"id": "031",
+		"question": "list people by age ascending",
+		"answerer_parameters": "?returnInstances=true"
+	},
+	{
+		"id": "032",
+		"question": "who is the sibling of jean"
+	},
+	{
+		"id": "033",
+		"question": "who are the siblings of jean"
+	},
+	{
+		"id": "034",
+		"question": "who is the sibling of bill"
+	}
+]

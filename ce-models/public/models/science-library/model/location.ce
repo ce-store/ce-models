@@ -1,0 +1,13 @@
+-- --------------------------------------------------------------------------
+-- (C) Copyright IBM Corporation 2016
+-- All Rights Reserved
+-- --------------------------------------------------------------------------
+
+conceptualise a ~ spatial thing ~ S that
+  has the value LAT as ~ latitude ~ and
+  has the value LON as ~ longitude ~.
+
+conceptualise a ~ place ~ P that
+  is a spatial thing.
+
+conceptualise a ~ country ~ C.

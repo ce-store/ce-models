@@ -1,0 +1,152 @@
+-- --------------------------------------------------------------------------
+-- (C) Copyright IBM Corporation  2011, 2016
+-- All Rights Reserved
+-- --------------------------------------------------------------------------
+
+-- All information on this page sourced from Wikidata
+--   on: Wednesday 5th October, 2016
+
+
+-- Kennington Oval
+the wikidata thing 'Kennington Oval'
+  has 'https://www.wikidata.org/wiki/Q1155836' as wikidata url and
+  has 'https://en.wikipedia.org/wiki/The_Oval' as wikipedia url.
+
+the venue 'Kennington Oval'
+  has the team 'Surrey County Cricket Club' as occupant and
+  is operated by the organisation 'Surrey County Cricket Club' and
+  is owned by the organisation 'Duchy of Cornwall' and
+  has '26000' as capacity and
+  has '1845' as inception year and
+  has the image 'KO_img' as image.
+
+
+-- Rose Bowl
+the wikidata thing 'Rose Bowl'
+  has 'https://www.wikidata.org/wiki/Q7367656' as wikidata url and
+  has 'https://en.wikipedia.org/wiki/Rose_Bowl_(cricket_ground)' as wikipedia url.
+
+the venue 'Rose Bowl'
+  has the team 'Hampshire County Cricket Club' as occupant and
+  is owned by the organisation 'Eastleigh Borough Council' and
+  has '16500' as capacity and
+  has 'http://www.ageasbowl.com/' as website and
+  has the image 'RB_logo' as logo and
+  has '2001' as inception year and
+  has the image 'RB_img' as image.
+
+
+-- Lords
+the wikidata thing 'Lords'
+  has 'https://www.wikidata.org/wiki/Q331613' as wikidata url and
+  has 'https://en.wikipedia.org/wiki/Lord%27s_Cricket_Ground' as wikipedia url.
+
+the venue 'Lords'
+  has the team 'England and Wales Cricket Club' as occupant and
+  is owned by the organisation 'Marylebone Cricket Club' and
+  has '28000' as capacity and
+  has '1814' as inception year and
+  has the image 'Lords_img' as image.
+
+
+-- Trent Bridge
+the wikidata thing 'Trent Bridge'
+  has 'https://www.wikidata.org/wiki/Q2096399' as wikidata url and
+  has 'https://en.wikipedia.org/wiki/Trent_Bridge' as wikipedia url.
+
+the venue 'Trent Bridge'
+  has the team 'Nottinghamshire County Cricket Club' as occupant and
+  has the team 'England' as occupant and
+  has 'http://www.trentbridge.co.uk' as website and
+  has '17500' as capacity and
+  has '1841' as inception year and
+  has the image 'TB_img' as image.
+
+
+-- Brisbane Cricket Ground
+the wikidata thing 'Brisbane Cricket Ground'
+  has 'https://www.wikidata.org/wiki/Q2462392' as wikidata url and
+  has 'https://en.wikipedia.org/wiki/The_Gabba' as wikipedia url.
+
+the venue 'Brisbane Cricket Ground'
+  is owned by the organisation 'Queensland Government' and
+  has the team 'Queensland Cricket Team' as occupant and
+  has '42000' as capacity and
+  has 'http://www.thegabba.com.au' as website and
+  has the image 'Gabba_logo' as logo and
+  has '1895' as inception year and
+  has the image 'Gabba_img' as image.
+
+
+-- Western Australia Cricket Association Ground
+the wikidata thing 'Western Australia Cricket Association Ground'
+  has 'https://www.wikidata.org/wiki/Q2738971' as wikidata url and
+  has 'https://en.wikipedia.org/wiki/WACA_Ground' as wikipedia url.
+
+the venue 'Western Australia Cricket Association Ground'
+  is owned by the organisation 'Western Australia Cricket Association' and
+  has the team 'Western Australia Cricket Team' as occupant and
+  has '20000' as capacity and
+  has '1890' as inception year and
+  hosts the sport 'Australian Rules Football' and
+  has the image 'WACA_img' as image.
+
+
+-- Melbourne Cricket Ground
+the wikidata thing 'Melbourne Cricket Ground'
+  has 'https://www.wikidata.org/wiki/Q330136' as wikidata url and
+  has 'https://en.wikipedia.org/wiki/Melbourne_Cricket_Ground' as wikipedia url.
+
+the venue 'Melbourne Cricket Ground'
+  is owned by the organisation 'Government of Victoria' and
+  is operated by the organisation 'Melbourne Cricket Club' and
+  has the organisation 'Arup' as structural engineer and
+  has the team 'Australia' as occupant and
+  has '100024' as capacity and
+  has 'http://www.mcg.org.au/' as website and
+  has the image 'MCG_logo' as logo and
+  has '1853' as inception year and
+  hosts the sport 'Australian Rules Football' and
+  has the image 'MCG_img' as image.
+
+
+-- Old Trafford
+the wikidata thing 'Old Trafford'
+  has 'https://www.wikidata.org/wiki/Q1572215' as wikidata url and
+  has 'https://en.wikipedia.org/wiki/Old_Trafford_Cricket_Ground' as wikipedia url.
+
+the venue 'Old Trafford'
+  has the team 'Lancashire County Cricket Club' as occupant and
+  has the team 'England' as occupant and
+  has the image 'OT_logo' as logo and
+  has '19000' as capacity and
+  has the image 'OT_img' as image.
+
+
+-- Headingley
+the wikidata thing 'Headingley'
+  has 'https://www.wikidata.org/wiki/Q21061609' as wikidata url and
+  has 'https://en.wikipedia.org/wiki/Headingley_Cricket_Ground' as wikipedia url.
+
+the venue 'Headingley'
+  is owned by the organisation 'Yorkshire County Cricket Club' and
+  has the team 'Yorkshire County Cricket Club' as occupant and
+  has '17500' as capacity and
+  has '1890' as inception year and
+  has the image 'Headingley_img' as image.
+
+
+-- Adelaide Oval
+the wikidata thing 'Adelaide Oval'
+  has 'https://www.wikidata.org/wiki/Q2462430' as wikidata url and
+  has 'https://en.wikipedia.org/wiki/Adelaide_Oval' as wikipedia url.
+
+the venue 'Adelaide Oval'
+  is owned by the organisation 'South Australian Government' and
+  is operated by the organisation 'Adelaide Oval SMA Ltd' and
+  has the team 'South Australian Cricket Association' as occupant and
+  has '53583' as capacity and
+  has 'http://www.adelaideoval.com.au' as website and
+  has the image 'Adelaide_logo' as logo and
+  has '1871' as inception year and
+  has the image 'Adelaide_img' as image.

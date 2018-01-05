@@ -1,0 +1,37 @@
+-- --------------------------------------------------------------------------
+-- (C) Copyright IBM Corporation 2016
+-- All Rights Reserved
+-- --------------------------------------------------------------------------
+
+conceptualise a ~ co-author statistic ~ C that
+  has the published person MA as ~ main-author ~ and
+  has the published person CA as ~ co-author ~ and
+  has the value CC as ~ co-author count ~.
+
+conceptualise a ~ topic statistic ~ T that
+  has the topic T as ~ topic ~ and
+  has the document D as ~ document ~ and
+  has the value C as ~ paper count ~.
+
+conceptualise a ~ topic-person statistic ~ T that
+  is a topic statistic and
+  has the person P as ~ person ~.
+
+conceptualise a ~ topic-organisation statistic ~ T that
+  is a topic statistic and
+  has the organisation P as ~ organisation ~.
+
+conceptualise a ~ total ~ T that
+  has the value S as ~ scope ~ and
+  ~ applies to ~ the year Y and
+  has the value TC as ~ total paper count ~ and
+  has the value SC as ~ single institute paper count ~ and
+  has the value CC as ~ collaborative paper count ~ and
+  has the value IC as ~ international paper count ~ and
+  has the value GC as ~ government paper count ~ and
+  has the value JC as ~ journal paper count ~ and
+  has the value ECC as ~ external conference paper count ~ and
+  has the value PC as ~ patent count ~ and
+  has the value AIA as ~ active ITA authors ~ and
+  has the value ANA as ~ active non-ITA authors ~ and
+  has the value TC as ~ total citations ~.

@@ -1,0 +1,6 @@
+-- --------------------------------------------------------------------------
+-- (C) Copyright IBM Corporation  2011, 2016
+-- All Rights Reserved
+-- --------------------------------------------------------------------------
+
+the relation concept 'nationality:corresponds to:team' is a linked property.

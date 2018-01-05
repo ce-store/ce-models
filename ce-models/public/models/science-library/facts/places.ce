@@ -1,0 +1,1062 @@
+-- --------------------------------------------------------------------------
+-- (C) Copyright IBM Corporation 2016
+-- All Rights Reserved
+-- --------------------------------------------------------------------------
+
+-- This CE has been generated from SL_generator v1.21.xlsm
+
+there is a place named 'Agent Dynamics Inc, Pennsylvania' that
+  has '40.4497854' as latitude and
+  has '-79.9097949' as longitude.
+
+there is a place named 'Alexandria, Virginia' that
+  has '38.8048355' as latitude and
+  has '-77.0469214' as longitude.
+
+there is a place named 'American University of Beirut, Lebanon' that
+  has '33.9011125' as latitude and
+  has '35.481616' as longitude.
+
+there is a place named 'Anchorage, Alaska' that
+  has '61.2180556' as latitude and
+  has '-149.9002778' as longitude.
+
+there is a place named 'Applied Communication Sciences, New York' that
+  has '40.3353193' as latitude and
+  has '-74.0956761' as longitude.
+
+there is a place named 'ARA, US' that
+  has '27.6848907' as latitude and
+  has '-97.3770887' as longitude.
+
+there is a place named 'Arizona State University, Arizona' that
+  has '33.4242399' as latitude and
+  has '-111.9280527' as longitude.
+
+there is a place named 'ARL, Washington DC' that
+  has '38.908858' as latitude and
+  has '-77.043735' as longitude.
+
+there is a place named 'Askeri Museum, Istanbul' that
+  has '41.0478' as latitude and
+  has '28.988075' as longitude.
+
+there is a place named 'AT&T Labs-Research, New York' that
+  has '40.3973552' as latitude and
+  has '-74.1356959' as longitude.
+
+there is a place named 'Athens, Greece' that
+  has '37.983917' as latitude and
+  has '23.7293599' as longitude.
+
+there is a place named 'Atlanta, Georgia' that
+  has '33.7489954' as latitude and
+  has '-84.3879824' as longitude.
+
+there is a place named 'Baltimore Convention Center, Maryland' that
+  has '39.285605' as latitude and
+  has '-76.6163753' as longitude.
+
+there is a place named 'Bangalore, India' that
+  has '12.9715987' as latitude and
+  has '77.5945627' as longitude.
+
+there is a place named 'Bar-Ilan University, Ramat Gan, Israel' that
+  has '32.0691989' as latitude and
+  has '34.8430876' as longitude.
+
+there is a place named 'Barcelona, Spain' that
+  has '41.3850639' as latitude and
+  has '2.1734035' as longitude.
+
+there is a place named 'BBN Technologies, Illinois' that
+  has '38.586709' as latitude and
+  has '-89.946577' as longitude.
+
+there is a place named 'Beijing, China' that
+  has '39.904211' as latitude and
+  has '116.407395' as longitude.
+
+there is a place named 'Bellaterra, Spain' that
+  has '41.502218' as latitude and
+  has '2.104217' as longitude.
+
+there is a place named 'Berliner Congress Centre, Berlin' that
+  has '52.5207778' as latitude and
+  has '13.4165146' as longitude.
+
+there is a place named 'Boeing, Seattle' that
+  has '47.522654' as latitude and
+  has '-122.310947' as longitude.
+
+there is a place named 'Bordeaux University, France' that
+  has '44.808375' as latitude and
+  has '-0.596705' as longitude.
+
+there is a place named 'Boston University, Massachusetts' that
+  has '42.3504997' as latitude and
+  has '-71.1053991' as longitude.
+
+there is a place named 'Boston World Trade Center, Massachusetts' that
+  has '42.3506567' as latitude and
+  has '-71.0409877' as longitude.
+
+there is a place named 'Boston, Massachusetts' that
+  has '42.3600825' as latitude and
+  has '-71.0588801' as longitude.
+
+there is a place named 'Botley Park Hotel, Southampton' that
+  has '50.9312947' as latitude and
+  has '-1.2810664' as longitude.
+
+there is a place named 'Budapest, Hungary' that
+  has '47.497912' as latitude and
+  has '19.040235' as longitude.
+
+there is a place named 'Buenos Aires, Argentina' that
+  has '-34.6036844' as latitude and
+  has '-58.3815591' as longitude.
+
+there is a place named 'BUP&T, Beijing, China' that
+  has '39.9647647' as latitude and
+  has '116.357206' as longitude.
+
+there is a place named 'California Institute of Technology, California' that
+  has '34.1376576' as latitude and
+  has '-118.125269' as longitude.
+
+there is a place named 'Cannes, France' that
+  has '43.552847' as latitude and
+  has '7.017369' as longitude.
+
+there is a place named 'Cape Town, South Africa' that
+  has '-33.9248685' as latitude and
+  has '18.4240553' as longitude.
+
+there is a place named 'Cardiff Marriott, UK' that
+  has '51.477061' as latitude and
+  has '-3.175287' as longitude.
+
+there is a place named 'Cardiff University, UK' that
+  has '51.4866271' as latitude and
+  has '-3.1788641' as longitude.
+
+there is a place named 'Carnegie Mellon University, Pennsylvania' that
+  has '40.4424925' as latitude and
+  has '-79.9425528' as longitude.
+
+there is a place named 'Centrum Wiskunde & Informatica, Netherlands' that
+  has '52.356522' as latitude and
+  has '4.9521154' as longitude.
+
+there is a place named 'CERDEC, Washington DC' that
+  has '39.2617701' as latitude and
+  has '-75.9262603' as longitude.
+
+there is a place named 'Chicago, Illinois' that
+  has '41.8781136' as latitude and
+  has '-87.6297982' as longitude.
+
+there is a place named 'Chicago, US' that
+  has '41.8781136' as latitude and
+  has '-87.6297982' as longitude.
+
+there is a place named 'Chinese Academy of Sciences' that
+  has '39.9080858' as latitude and
+  has '116.250701' as longitude.
+
+there is a place named 'Cisco, San Jose' that
+  has '37.4082995' as latitude and
+  has '-121.9534926' as longitude.
+
+there is a place named 'City University, UK' that
+  has '51.5277955' as latitude and
+  has '-0.102331' as longitude.
+
+there is a place named 'CNR, Italy' that
+  has '41.9007079' as latitude and
+  has '12.512548' as longitude.
+
+there is a place named 'Cologne, Germany' that
+  has '50.937531' as latitude and
+  has '6.9602786' as longitude.
+
+there is a place named 'Columbia, NYC' that
+  has '40.8075355' as latitude and
+  has '-73.9625727' as longitude.
+
+there is a place named 'Copenhagen, Denmark' that
+  has '55.6760968' as latitude and
+  has '12.5683371' as longitude.
+
+there is a place named 'Cornell University, Ithica' that
+  has '42.4534492' as latitude and
+  has '-76.4735027' as longitude.
+
+there is a place named 'Cranfield, UK' that
+  has '52.074389' as latitude and
+  has '-0.629225' as longitude.
+
+there is a place named 'CUBRC, Buffalo' that
+  has '42.9329554' as latitude and
+  has '-78.7218048' as longitude.
+
+there is a place named 'Dallas, USA' that
+  has '32.7766642' as latitude and
+  has '-96.7969879' as longitude.
+
+there is a place named 'Darmstadt, Germany' that
+  has '49.874778' as latitude and
+  has '8.65614' as longitude.
+
+there is a place named 'Deutsche Telekom Laboratories/TU-Berlin, Germany' that
+  has '52.5129792' as latitude and
+  has '13.3200294' as longitude.
+
+there is a place named 'DoCoMo Labs, California' that
+  has '37.4079628' as latitude and
+  has '-122.1462858' as longitude.
+
+there is a place named 'Doha, Qatar' that
+  has '25.2854473' as latitude and
+  has '51.5310398' as longitude.
+
+there is a place named 'DSTL, UK' that
+  has '50.8591331' as latitude and
+  has '-1.126808' as longitude.
+
+there is a place named 'EADS, UK' that
+  has '51.5149158' as latitude and
+  has '-2.574932' as longitude.
+
+there is a place named 'ECC, Budapest' that
+  has '47.4855049' as latitude and
+  has '19.0744663' as longitude.
+
+there is a place named 'Edinburgh Uni, UK' that
+  has '55.9445158' as latitude and
+  has '-3.1892413' as longitude.
+
+there is a place named 'Edinburgh, UK' that
+  has '55.953252' as latitude and
+  has '-3.188267' as longitude.
+
+there is a place named 'Edwards Air Force Base' that
+  has '34.9223' as latitude and
+  has '-117.889' as longitude.
+
+there is a place named 'EPFL, Switzerland' that
+  has '46.5190557' as latitude and
+  has '6.5667576' as longitude.
+
+there is a place named 'Estoril, Portugal' that
+  has '38.7133152' as latitude and
+  has '-9.3936558' as longitude.
+
+there is a place named 'ETH, Zurich' that
+  has '47.3757226' as latitude and
+  has '8.5479407' as longitude.
+
+there is a place named 'Fairfax, Virginia' that
+  has '38.8462236' as latitude and
+  has '-77.3063733' as longitude.
+
+there is a place named 'Federal University of Santa Catarina, Brazil' that
+  has '-27.6002039' as latitude and
+  has '-48.5199835' as longitude.
+
+there is a place named 'Fiksu Inc, Boston' that
+  has '42.3509394' as latitude and
+  has '-71.0715487' as longitude.
+
+there is a place named 'Florida International University, Florida' that
+  has '25.7571955' as latitude and
+  has '-80.3758328' as longitude.
+
+there is a place named 'Galveston, Texas' that
+  has '29.3013479' as latitude and
+  has '-94.7976958' as longitude.
+
+there is a place named 'Gaylord Palms Resort & Convention Center, Orlando, Florida' that
+  has '28.342194' as latitude and
+  has '-81.526477' as longitude.
+
+there is a place named 'George Mason University' that
+  has '38.8309353' as latitude and
+  has '-77.3073537' as longitude.
+
+there is a place named 'George Washington University' that
+  has '38.8997145' as latitude and
+  has '-77.0485992' as longitude.
+
+there is a place named 'Georgia Institute of Technology, Georgia' that
+  has 'Georgia' as latitude and
+  has '-84.396285' as longitude.
+
+there is a place named 'Glasgow Uni, UK' that
+  has '55.8721211' as latitude and
+  has '-4.2882005' as longitude.
+
+there is a place named 'Grand Hyatt Hotel, Washington DC' that
+  has '38.8995447' as latitude and
+  has '-77.0264077' as longitude.
+
+there is a place named 'Guandong University' that
+  has '23.2002509' as latitude and
+  has '113.2898677' as longitude.
+
+there is a place named 'Hainan, China' that
+  has '20.0592658' as latitude and
+  has '110.3383983' as longitude.
+
+there is a place named 'HangZhou, China' that
+  has '30.274085' as latitude and
+  has '120.15507' as longitude.
+
+there is a place named 'Hawaii Convention Center' that
+  has '21.2896543' as latitude and
+  has '-157.8366322' as longitude.
+
+there is a place named 'Heavy Iron Studios, LA' that
+  has '33.9801788' as latitude and
+  has '-118.3941903' as longitude.
+
+there is a place named 'Heidelberg, Germany' that
+  has '49.3987524' as latitude and
+  has '8.6724335' as longitude.
+
+there is a place named 'Heinrich Heine University, Germany' that
+  has '51.19687' as latitude and
+  has '6.790667' as longitude.
+
+there is a place named 'Hilton Hawaiian Village, Honolulu' that
+  has '21.282438' as latitude and
+  has '-157.837522' as longitude.
+
+there is a place named 'Honeywell, Minneapolis' that
+  has '44.9514219' as latitude and
+  has '-93.2701552' as longitude.
+
+there is a place named 'Hong Kong, China' that
+  has '22.396428' as latitude and
+  has '114.109497' as longitude.
+
+there is a place named 'Hongik University, Korea' that
+  has '37.5509769' as latitude and
+  has '126.9257007' as longitude.
+
+there is a place named 'Honolulu, Hawaii' that
+  has '21.3069444' as latitude and
+  has '-157.8583333' as longitude.
+
+there is a place named 'Houston, Texas' that
+  has '29.7604267' as latitude and
+  has '-95.3698028' as longitude.
+
+there is a place named 'Hyderabad, India' that
+  has '17.385044' as latitude and
+  has '78.486671' as longitude.
+
+there is a place named 'IBM Hursley, UK' that
+  has '51.0238664' as latitude and
+  has '-1.4008732' as longitude.
+
+there is a place named 'IBM Palisades Conference Center, US' that
+  has '41.0187467' as latitude and
+  has '-73.9217531' as longitude.
+
+there is a place named 'IBM Research, Bangalore' that
+  has '13.0480098' as latitude and
+  has '77.6220131' as longitude.
+
+there is a place named 'IBM Research, Beijing' that
+  has '40.0451661' as latitude and
+  has '116.2907048' as longitude.
+
+there is a place named 'IBM Research, India' that
+  has '28.5445828' as latitude and
+  has '77.1480991' as longitude.
+
+there is a place named 'IBM Research, Yorktown Heights' that
+  has '41.2107219' as latitude and
+  has '-73.8031728' as longitude.
+
+there is a place named 'IBM Research, Zurich' that
+  has '47.3757226' as latitude and
+  has '8.5479407' as longitude.
+
+there is a place named 'IMDEA Software Institute, Spain' that
+  has '40.4070527' as latitude and
+  has '-3.8356447' as longitude.
+
+there is a place named 'Imperial College London, UK' that
+  has '51.4987997' as latitude and
+  has '-0.1748772' as longitude.
+
+there is a place named 'Imperial College, London' that
+  has '51.4987997' as latitude and
+  has '-0.1748772' as longitude.
+
+there is a place named 'INRIA, Paris-Rocquencourt Center, France' that
+  has '48.8377819' as latitude and
+  has '2.1028251' as longitude.
+
+there is a place named 'Institut Eurecom, France' that
+  has '43.6155724' as latitude and
+  has '7.071125' as longitude.
+
+there is a place named 'Institute for Infocomm Research, Singapore' that
+  has '1.2996402' as latitude and
+  has '103.7879476' as longitude.
+
+there is a place named 'Iowa State University, Iowa' that
+  has '42.0266187' as latitude and
+  has '-93.6464654' as longitude.
+
+there is a place named 'IST, Austria' that
+  has '48.309852' as latitude and
+  has '16.2596959' as longitude.
+
+there is a place named 'Istanbul Congress Center' that
+  has '41.045833' as latitude and
+  has '28.988333' as longitude.
+
+there is a place named 'Istanbul, Turkey' that
+  has '41.0082376' as latitude and
+  has '28.9783589' as longitude.
+
+there is a place named 'Istituto Superiore Mario Boella Torino, Italy' that
+  has '45.0647802' as latitude and
+  has '7.6585141' as longitude.
+
+there is a place named 'Jilin, China' that
+  has '43.8243356' as latitude and
+  has '125.28982' as longitude.
+
+there is a place named 'Kansas State University, Kansas' that
+  has '39.1974437' as latitude and
+  has '-96.5847249' as longitude.
+
+there is a place named 'Karlsruhe Institute of Technology, Germany' that
+  has '49.0119199' as latitude and
+  has '8.4170303' as longitude.
+
+there is a place named 'Karlstad University, Sweden' that
+  has '59.4063421' as latitude and
+  has '13.5823954' as longitude.
+
+there is a place named 'Kings College London, UK' that
+  has '51.5114864' as latitude and
+  has '-0.115997' as longitude.
+
+there is a place named 'Las Vegas, Nevada' that
+  has '36.1699412' as latitude and
+  has '-115.1398296' as longitude.
+
+there is a place named 'Leipzig University, Germany' that
+  has '51.3385738' as latitude and
+  has '12.3784615' as longitude.
+
+there is a place named 'Logica, UK' that
+  has '51.7457376' as latitude and
+  has '-0.327058' as longitude.
+
+there is a place named 'London, UK' that
+  has '51.5073509' as latitude and
+  has '-0.1277583' as longitude.
+
+there is a place named 'Los Alamos National Laboratories, New Mexico' that
+  has '35.8440582' as latitude and
+  has '-106.287162' as longitude.
+
+there is a place named 'Lugano, Switzerland' that
+  has '46.0036778' as latitude and
+  has '8.951052' as longitude.
+
+there is a place named 'Maastricht, Netherlands' that
+  has '50.8513682' as latitude and
+  has '5.6909725' as longitude.
+
+there is a place named 'Macau, China' that
+  has '22.198745' as latitude and
+  has '113.543873' as longitude.
+
+there is a place named 'Mannheim, Germany' that
+  has '49.4874592' as latitude and
+  has '8.4660395' as longitude.
+
+there is a place named 'Marina Del Ray, California' that
+  has '33.9802893' as latitude and
+  has '-118.4517449' as longitude.
+
+there is a place named 'Marriot Wardman Park Hotel, Washington DC' that
+  has '38.9249359' as latitude and
+  has '-77.0533494' as longitude.
+
+there is a place named 'Massachusetts Institute of Technology, Massachusetts' that
+  has '42.360091' as latitude and
+  has '-71.09416' as longitude.
+
+there is a place named 'Miami, Florida' that
+  has '25.7616798' as latitude and
+  has '-80.1917902' as longitude.
+
+there is a place named 'Microsoft Research, UK' that
+  has '52.1948799' as latitude and
+  has '0.1349908' as longitude.
+
+there is a place named 'MoD, London' that
+  has '51.5039344' as latitude and
+  has '-0.1250339' as longitude.
+
+there is a place named 'Monaco, France' that
+  has '43.737411' as latitude and
+  has '7.420816' as longitude.
+
+there is a place named 'Montreal, Canada' that
+  has '45.5016889' as latitude and
+  has '-73.567256' as longitude.
+
+there is a place named 'Montreal, Quebec' that
+  has '45.5016889' as latitude and
+  has '-73.567256' as longitude.
+
+there is a place named 'National Institute of Informatics, Japan' that
+  has '35.6924336' as latitude and
+  has '139.7581921' as longitude.
+
+there is a place named 'New Orleans, Louisiana' that
+  has '29.9510658' as latitude and
+  has '-90.0715323' as longitude.
+
+there is a place named 'New York University, New York' that
+  has '40.7295134' as latitude and
+  has '-73.9964609' as longitude.
+
+there is a place named 'New York, New York' that
+  has '40.7127837' as latitude and
+  has '-74.0059413' as longitude.
+
+there is a place named 'Niagara Falls, Canada' that
+  has '43.0895577' as latitude and
+  has '-79.0849436' as longitude.
+
+there is a place named 'Nokia Research Center, Palo Alto, California' that
+  has '37.4191653' as latitude and
+  has '-122.144777' as longitude.
+
+there is a place named 'North Carolina State University, North Carolina' that
+  has '35.7846633' as latitude and
+  has '-78.6820946' as longitude.
+
+there is a place named 'Ohio State University, US' that
+  has '40.0141905' as latitude and
+  has '-83.0309143' as longitude.
+
+there is a place named 'Open University, Milton Keynes' that
+  has '52.0247473' as latitude and
+  has '-0.708248' as longitude.
+
+there is a place named 'Orlando World Center Marriot Resort, Florida' that
+  has '28.3610305' as latitude and
+  has '-81.5096872' as longitude.
+
+there is a place named 'Orlando, Florida' that
+  has '28.5383355' as latitude and
+  has '-81.3792365' as longitude.
+
+there is a place named 'Osaka University, Japan' that
+  has '34.8220139' as latitude and
+  has '135.5244676' as longitude.
+
+there is a place named 'Oxford University, UK' that
+  has '51.7566341' as latitude and
+  has '-1.2547037' as longitude.
+
+there is a place named 'Ozyegin University' that
+  has '41.0294823' as latitude and
+  has '29.2585202' as longitude.
+
+there is a place named 'Palisades, New York' that
+  has '41.0113078' as latitude and
+  has '-73.9132927' as longitude.
+
+there is a place named 'PARC, Palo Alto' that
+  has '37.4025127' as latitude and
+  has '-122.1479373' as longitude.
+
+there is a place named 'Paris, France' that
+  has '48.856614' as latitude and
+  has '2.3522219' as longitude.
+
+there is a place named 'Pennsylvania State University, Pennsylvania' that
+  has '40.7982133' as latitude and
+  has '-77.8599084' as longitude.
+
+there is a place named 'Pensacola, Florida' that
+  has '30.421309' as latitude and
+  has '87.2169149' as longitude.
+
+there is a place named 'Pepperdine University, Malibu' that
+  has '34.0414045' as latitude and
+  has '118.7095814' as longitude.
+
+there is a place named 'Phoenix, Arizona' that
+  has '33.4483771' as latitude and
+  has '-112.0740373' as longitude.
+
+there is a place named 'Pisa, Italy' that
+  has '43.7228386' as latitude and
+  has '10.4016888' as longitude.
+
+there is a place named 'Princeton University, New Jersey' that
+  has '40.3572976' as latitude and
+  has '-74.6672226' as longitude.
+
+there is a place named 'Queen Mary College, London, UK' that
+  has '51.5240671' as latitude and
+  has '-0.0403745' as longitude.
+
+there is a place named 'Queens University Belfast, Northern Ireland' that
+  has '54.5844087' as latitude and
+  has '-5.9340494' as longitude.
+
+there is a place named 'Rensselaer Polytechnic Institute, New York' that
+  has '42.730172' as latitude and
+  has '-73.6788026' as longitude.
+
+there is a place named 'Rio de Janeiro, Brazil' that
+  has '-22.9068467' as latitude and
+  has '-43.1728965' as longitude.
+
+there is a place named 'Roke Manor Research Ltd, UK' that
+  has '50.999416' as latitude and
+  has '-1.519833' as longitude.
+
+there is a place named 'Royal Holloway University of London, UK' that
+  has '51.425673' as latitude and
+  has '-0.5630625' as longitude.
+
+there is a place named 'Ruhr-Universitat Bochum, Germany' that
+  has '51.4456659' as latitude and
+  has '7.2616093' as longitude.
+
+there is a place named 'Rutgers University, New Jersey' that
+  has '40.5008186' as latitude and
+  has '-74.4473991' as longitude.
+
+there is a place named 'Saint Paul, Minnesota' that
+  has '44.9537029' as latitude and
+  has '-93.0899578' as longitude.
+
+there is a place named 'Salamanca University, Spain' that
+  has '40.9613376' as latitude and
+  has '-5.6669251' as longitude.
+
+there is a place named 'San Diego Convention Center, California' that
+  has '32.70656' as latitude and
+  has '-117.16184' as longitude.
+
+there is a place named 'San Diego, California' that
+  has '32.715738' as latitude and
+  has '-117.1610838' as longitude.
+
+there is a place named 'San Francisco, California' that
+  has '37.7749295' as latitude and
+  has '-122.4194155' as longitude.
+
+there is a place named 'San Jose Convention Center, California' that
+  has '37.3298443' as latitude and
+  has '-121.8888075' as longitude.
+
+there is a place named 'Sangmyung University, Korea' that
+  has '37.602638' as latitude and
+  has '126.955252' as longitude.
+
+there is a place named 'Santa Barbara, California' that
+  has '34.4208305' as latitude and
+  has '-119.6981901' as longitude.
+
+there is a place named 'Santorini Island, Greece' that
+  has '36.3931562' as latitude and
+  has '25.4615092' as longitude.
+
+there is a place named 'Seattle, US' that
+  has '47.6062095' as latitude and
+  has '-122.3320708' as longitude.
+
+there is a place named 'Seattle, Washington' that
+  has '47.6062095' as latitude and
+  has '-122.3320708' as longitude.
+
+there is a place named 'Seoul, Korea' that
+  has '37.566535' as latitude and
+  has '126.9779692' as longitude.
+
+there is a place named 'Shanghai, China' that
+  has '31.230416' as latitude and
+  has '121.473701' as longitude.
+
+there is a place named 'Sheraton Center Toronto Hotel' that
+  has '43.651162' as latitude and
+  has '-79.384508' as longitude.
+
+there is a place named 'Sheraton Hong Kong Hotel and Towers, Hong Kong' that
+  has '22.295262' as latitude and
+  has '114.172601' as longitude.
+
+there is a place named 'Singapore Management University, Singapore' that
+  has '1.2965676' as latitude and
+  has '103.8521184' as longitude.
+
+there is a place named 'Southampton, UK' that
+  has '37.5212314' as latitude and
+  has '126.9183058' as longitude.
+
+there is a place named 'Southwest Jiaotong University, Chengdu' that
+  has '30.698826' as latitude and
+  has '104.054862' as longitude.
+
+there is a place named 'Sprint, California' that
+  has '34.0223519' as latitude and
+  has '-118.285117' as longitude.
+
+there is a place named 'SRI International, California' that
+  has '37.4572541' as latitude and
+  has '-122.1759112' as longitude.
+
+there is a place named 'Stanford University, California' that
+  has '37.4274745' as latitude and
+  has '-122.169719' as longitude.
+
+there is a place named 'Stevens Institute of Technology' that
+  has '40.7443226' as latitude and
+  has '-74.0258682' as longitude.
+
+there is a place named 'Suffolk University, Boston' that
+  has '42.3589075' as latitude and
+  has '-71.0617961' as longitude.
+
+there is a place named 'Swissotel, Singapore' that
+  has '1.29391087' as latitude and
+  has '103.85342684' as longitude.
+
+there is a place named 'Sydney, Australia' that
+  has '-33.8674869' as latitude and
+  has '151.2069902' as longitude.
+
+there is a place named 'Systems Engineering & Assessment, UK' that
+  has '51.262277' as latitude and
+  has '-2.287452' as longitude.
+
+there is a place named 'Taipei International Convention Center' that
+  has '25.0331797' as latitude and
+  has '121.5608466' as longitude.
+
+there is a place named 'Teledyne, CA' that
+  has '33.9220514' as latitude and
+  has '-118.3922376' as longitude.
+
+there is a place named 'The City University of New York, New York' that
+  has '40.750606' as latitude and
+  has '-73.9734607' as longitude.
+
+there is a place named 'The MITRE Corporation, USA' that
+  has '38.816769' as latitude and
+  has '-104.7600746' as longitude.
+
+there is a place named 'Tokyo, Japan' that
+  has '35.6894875' as latitude and
+  has '139.6917064' as longitude.
+
+there is a place named 'Toronto, Canada' that
+  has '43.653226' as latitude and
+  has '-79.3831843' as longitude.
+
+there is a place named 'Tsinghua University, Beijing, China' that
+  has '39.9996674' as latitude and
+  has '116.3264439' as longitude.
+
+there is a place named 'Turin, Italy' that
+  has '45.0703393' as latitude and
+  has '7.686864' as longitude.
+
+there is a place named 'UC Berkeley, California' that
+  has '37.8718992' as latitude and
+  has '-122.2585399' as longitude.
+
+there is a place named 'UCSD, US' that
+  has '32.8800604' as latitude and
+  has '-117.2340135' as longitude.
+
+there is a place named 'UMIT, Austria' that
+  has '47.2836533' as latitude and
+  has '11.5173808' as longitude.
+
+there is a place named 'Universidade de Lisboa, Portugal' that
+  has '38.7530019' as latitude and
+  has '-9.1567472' as longitude.
+
+there is a place named 'Universidade de Minho, Portugal' that
+  has '41.5593934' as latitude and
+  has '-8.3972497' as longitude.
+
+there is a place named 'Universidade Federal de Minas Gerais, Brazil' that
+  has '-19.9235486' as latitude and
+  has '-43.9663841' as longitude.
+
+there is a place named 'Universita degli Studi di Milano Bicocca, Italy' that
+  has '45.5183837' as latitude and
+  has '9.2134041' as longitude.
+
+there is a place named 'Universita degli Studi di Napoli Federico II, Italy' that
+  has '40.8454396' as latitude and
+  has '14.2578438' as longitude.
+
+there is a place named 'Universita di Catania, Italy' that
+  has '37.5102788' as latitude and
+  has '15.0749079' as longitude.
+
+there is a place named 'Universita di Firenze, Italy' that
+  has '43.7776426' as latitude and
+  has '11.259765' as longitude.
+
+there is a place named 'Universitat Politecnica de Catalunya, Spain' that
+  has '41.3883615' as latitude and
+  has '2.1477091' as longitude.
+
+there is a place named 'Universitat Politecnica de Valencia' that
+  has '39.481158' as latitude and
+  has '-0.340724' as longitude.
+
+there is a place named 'Universitat Pompeu Fabra, Spain' that
+  has '41.3790498' as latitude and
+  has '2.1795632' as longitude.
+
+there is a place named 'Universite catholique de Louvain, Belgium' that
+  has '50.6697217' as latitude and
+  has '4.6149338' as longitude.
+
+there is a place named 'University College London, UK' that
+  has '51.5245592' as latitude and
+  has '-0.1340401' as longitude.
+
+there is a place named 'University of Aberdeen, UK' that
+  has '57.16476' as latitude and
+  has '-2.1015257' as longitude.
+
+there is a place named 'University of Alabama, Alabama' that
+  has '33.2140233' as latitude and
+  has '-87.5391418' as longitude.
+
+there is a place named 'University of Alberta, Canada' that
+  has '53.5232189' as latitude and
+  has '-113.5263186' as longitude.
+
+there is a place named 'University of Arizona' that
+  has '32.2318851' as latitude and
+  has '-110.9501094' as longitude.
+
+there is a place named 'University of Auckland, New Zealand' that
+  has '-36.8523378' as latitude and
+  has '174.7691073' as longitude.
+
+there is a place named 'University of Bologna, Italy' that
+  has '44.4962318' as latitude and
+  has '11.354157' as longitude.
+
+there is a place named 'University of Calgary, Canada' that
+  has '51.0781599' as latitude and
+  has '-114.1358007' as longitude.
+
+there is a place named 'University of California Santa Barbara, California' that
+  has '34.4139629' as latitude and
+  has '-119.848947' as longitude.
+
+there is a place named 'University of California, Los Angeles, California' that
+  has '34.068921' as latitude and
+  has '-118.4451811' as longitude.
+
+there is a place named 'University of Cambridge, UK' that
+  has '52.2042666' as latitude and
+  has '0.1149085' as longitude.
+
+there is a place named 'University of Catania, Italy' that
+  has '37.5035647' as latitude and
+  has '15.0864981' as longitude.
+
+there is a place named 'University of Central Florida, Florida' that
+  has '28.6024274' as latitude and
+  has '-81.2000599' as longitude.
+
+there is a place named 'University of Cyprus' that
+  has '35.1600014' as latitude and
+  has '33.3770175' as longitude.
+
+there is a place named 'University of Erlangen, Germany' that
+  has '49.5978804' as latitude and
+  has '11.0045507' as longitude.
+
+there is a place named 'University of Florence, Italy' that
+  has '43.7776426' as latitude and
+  has '11.259765' as longitude.
+
+there is a place named 'University of Guelph, Canada' that
+  has '43.5332256' as latitude and
+  has '-80.2269301' as longitude.
+
+there is a place named 'University of Haifa, Israel' that
+  has '32.7614296' as latitude and
+  has '35.0195184' as longitude.
+
+there is a place named 'University of Hong Kong, China' that
+  has '22.2829989' as latitude and
+  has '114.1370848' as longitude.
+
+there is a place named 'University of Illinois at Chicago, Illinois' that
+  has '41.8749176' as latitude and
+  has '-87.6583429' as longitude.
+
+there is a place named 'University of Illinois at Urbana-Champaign, Illinois' that
+  has '40.1019523' as latitude and
+  has '-88.2271615' as longitude.
+
+there is a place named 'University of Kansas, Kansas' that
+  has '38.9543439' as latitude and
+  has '-95.2557961' as longitude.
+
+there is a place named 'University of Karlsruhe, Germany' that
+  has '49.0119199' as latitude and
+  has '8.4170303' as longitude.
+
+there is a place named 'University of Kent, UK' that
+  has '51.298536' as latitude and
+  has '1.071629' as longitude.
+
+there is a place named 'University of Liverpool, UK' that
+  has '53.405936' as latitude and
+  has '-2.9655722' as longitude.
+
+there is a place named 'University of Lugano, Switzerland' that
+  has '46.0109603' as latitude and
+  has '8.9582572' as longitude.
+
+there is a place named 'University of Luxembourg, Luxembourg' that
+  has '49.504254' as latitude and
+  has '5.948386' as longitude.
+
+there is a place named 'University of Maryland, Maryland' that
+  has '39.2551135' as latitude and
+  has '-76.7111956' as longitude.
+
+there is a place named 'University of Maryland, US' that
+  has '38.9864637' as latitude and
+  has '-76.9543103' as longitude.
+
+there is a place named 'University of Massachusetts Amherst, Massachusetts' that
+  has '42.3911569' as latitude and
+  has '-72.5267121' as longitude.
+
+there is a place named 'University of Michigan, US' that
+  has '42.2780436' as latitude and
+  has '-83.7382241' as longitude.
+
+there is a place named 'University of Minnesota, Minnesota' that
+  has '44.97399' as latitude and
+  has '-93.2277285' as longitude.
+
+there is a place named 'University of Namur, Belgium' that
+  has '50.46656' as latitude and
+  has '4.86011' as longitude.
+
+there is a place named 'University of North Carolina, North Carolina' that
+  has '35.9049122' as latitude and
+  has '-79.0469134' as longitude.
+
+there is a place named 'University of Notre Dame, Indiana' that
+  has '41.7055716' as latitude and
+  has '-86.2353388' as longitude.
+
+there is a place named 'University of Padova, Italy' that
+  has '45.406766' as latitude and
+  has '11.8774462' as longitude.
+
+there is a place named 'University of Pisa, Italy' that
+  has '43.7167235' as latitude and
+  has '10.3988593' as longitude.
+
+there is a place named 'University of Pittsburgh, Pennsylvania' that
+  has '40.4443533' as latitude and
+  has '-79.960835' as longitude.
+
+there is a place named 'University of Rome, Italy' that
+  has '41.9037626' as latitude and
+  has '12.5144384' as longitude.
+
+there is a place named 'University of Southampton, UK' that
+  has '50.935742' as latitude and
+  has '-1.3966381' as longitude.
+
+there is a place named 'University of Southern California, California' that
+  has '34.0223519' as latitude and
+  has '-118.285117' as longitude.
+
+there is a place named 'University of Texas, Texas' that
+  has '30.2849185' as latitude and
+  has '-97.7340567' as longitude.
+
+there is a place named 'University of Toronto, Canada' that
+  has '43.6628917' as latitude and
+  has '-79.3956564' as longitude.
+
+there is a place named 'University of Wales Institute, Wales' that
+  has '51.4958259' as latitude and
+  has '-3.2122687' as longitude.
+
+there is a place named 'University of York, UK' that
+  has '53.9436757' as latitude and
+  has '-1.0562431' as longitude.
+
+there is a place named 'Uppsala University, Sweden' that
+  has '59.8509005' as latitude and
+  has '17.6300093' as longitude.
+
+there is a place named 'US Army, Pentagon' that
+  has '38.8718568' as latitude and
+  has '-77.0562669' as longitude.
+
+there is a place named 'USMA, West Point' that
+  has '41.3918372' as latitude and
+  has '-73.9625033' as longitude.
+
+there is a place named 'Valencia, Spain' that
+  has '39.4699075' as latitude and
+  has '-0.3762881' as longitude.
+
+there is a place named 'Vancouver, Canada' that
+  has '49.2827291' as latitude and
+  has '-123.1207375' as longitude.
+
+there is a place named 'Vipadia Ltd, Cambridge' that
+  has '52.3569755' as latitude and
+  has '0.1481005' as longitude.
+
+there is a place named 'Virginia Commonwealth University, Virginia' that
+  has '37.5489872' as latitude and
+  has '-77.4534286' as longitude.
+
+there is a place named 'Waltham, Massachusetts' that
+  has '42.3764852' as latitude and
+  has '-71.2356113' as longitude.
+
+there is a place named 'Washington, DC' that
+  has '38.9071923' as latitude and
+  has '-77.0368707' as longitude.
+
+there is a place named 'White Plains, New York' that
+  has '41.0339862' as latitude and
+  has '-73.7629097' as longitude.
+
+there is a place named 'Yonsei University, Korea' that
+  has '37.565784' as latitude and
+  has '126.938572' as longitude.

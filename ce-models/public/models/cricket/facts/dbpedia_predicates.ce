@@ -1,0 +1,40 @@
+-- --------------------------------------------------------------------------
+-- (C) Copyright IBM Corporation  2011, 2016
+-- All Rights Reserved
+-- --------------------------------------------------------------------------
+
+the dbpedia thing 'person:date of birth:value'
+  has 'http://dbpedia.org/property/dateOfBirth' as predicate name.
+
+the dbpedia thing 'person:place of birth:value'
+  has 'http://dbpedia.org/ontology/birthPlace' as predicate name.
+
+the dbpedia thing 'person:religion:value'
+  has 'http://dbpedia.org/property/religion' as predicate name.
+
+the dbpedia thing 'player:role:value'
+  has 'http://dbpedia.org/property/role' as predicate name.
+
+the dbpedia thing 'batsman:batting average:value'
+  has 'http://dbpedia.org/property/batAvg' as predicate name.
+
+the dbpedia thing 'bowler:bowling average:value'
+  has 'http://dbpedia.org/property/bowlAvg' as predicate name.
+
+the dbpedia thing 'player:plays for:team'
+  has 'http://dbpedia.org/property/club' as predicate name.
+
+the dbpedia thing 'player:nickname:value'
+  has 'http://dbpedia.org/property/alternativeNames' as predicate name.
+
+the dbpedia thing 'batsman:batting hand:value'
+  has 'http://dbpedia.org/property/batting' as predicate name.
+
+the dbpedia thing 'bowler:bowling hand:value'
+  has 'http://dbpedia.org/property/bowling' as predicate name.
+
+the dbpedia thing 'player:captaincy:value'
+  has 'http://dbpedia.org/property/captain' as predicate name.
+
+the dbpedia thing 'player:man of the match:value'
+  has 'http://dbpedia.org/property/motm' as predicate name.

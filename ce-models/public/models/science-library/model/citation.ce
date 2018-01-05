@@ -1,0 +1,16 @@
+-- --------------------------------------------------------------------------
+-- (C) Copyright IBM Corporation 2016
+-- All Rights Reserved
+-- --------------------------------------------------------------------------
+
+conceptualise a ~ citation count ~ C that
+  has the value U as ~ url ~ and
+  has the value DC as ~ date checked ~ and
+  has the value CC as ~ citation count ~.
+
+conceptualise a ~ paper citation count ~ C that
+  is a citation count.
+
+conceptualise a ~ person citation count ~ C that
+  is a citation count and
+  has the value H as ~ h-index ~.

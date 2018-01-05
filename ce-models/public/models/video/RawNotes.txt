@@ -1,0 +1,117 @@
+As a video-coder,
+I want to be able to ask natural language queries,
+So that I can easily control what video snippets play and when, as well as getting insight on the data that has been created.
+
+Functions done:
+
+  "what is x" where x is a named instance, eg. Earth
+  "who is x" where x is a named instance, eg. Narrator
+
+  "list x" where x is a concept, eg. target or Planet
+
+  "how many x" where x is a concept, instance or both.
+
+  "how many clips x" where x is a concept.
+  "how many videos x" where x is a concept.
+  "how many events x" where x is a concept.
+
+  "show x" where x is concept, instance, both or property.
+  "play x" where x is concept, instance, both or property.
+
+  "how long x" where x is a concept, instance or both.
+
+  "what happened x" where x is a concept, instance or both.
+  "what occurred x" where x is a concept, instance or both.
+
+Assumptions made:
+  (x = concept, y = instance)
+
+  "show x y"     : show x filtered by y, eg. "show Earth's storms"
+  "show x ... y" : show x and y, eg. "show Earth and storms"
+
+Problems:
+
+  Property names containing 'the' break CE
+  chatty text for 'what is'
+  Assumption for show/play function fails for Q4.
+  <TIME> is a Double, no units
+
+Fixed:
+
+  list - Fails with weird plurals, eg. people - solution: 'has plural form as ...'
+
+Working questions:
+
+1. "Show me all videos with <TARGET> in"
+2. "Show me a playlist of the <TAG>"
+3. "Play the clips of the <TARGET>'s <TAG>'s"
+13. "Show me videos of <TARGET> and <TARGET>"
+14. "Show me videos of <TARGET> and <TAG>"
+15. "Show me videos of <TAG> and <TAG>"
+47. "Play video of <PROPERTY>"
+
+7. "How many clips of the <TARGET> are there?"
+34. "How many videos of the <TAG> are there?"
+
+16. "How many <TARGET> and <TARGET>"
+17. "How many <TEMPLATE>"
+18. "How many <TEMPLATE> and <TARGET>"
+19. "How many <TEMPLATE> and <TEMPLATE>"
+20. "How many <TAG>?"
+34. "How many events?"
+
+5. "Play the video from <TIME> in"
+6. "Play a clip lasting <TIME> from <TIME>"
+
+21. "Play video after <TIME>"
+22. "Play video past <TME>"
+23. "Play video following <TIME>"
+24. "Play video before <TIME>"
+25. "Play video until <TIME>"
+26. "Play video up to <TIME>"
+27. "Play video to <TIME>"
+28. "Play video from <TIME> to <TIME>"
+29. "Play video between <TIME> and <TIME>" <- NOT WORKING
+30. "Play video lasting <TIME>"
+31. "Play video that lasts <TIME> from <TIME>"
+
+** And any combination of 'play/show' <TARGET>/<TAG> from/before/between <TIMES>
+   eg. "Play videos of Northern Lights that lasts <TIME> from <TIME>"
+
+11. "How long did <EVENT> last?"
+35: "How long was <TARGET> on screen for?"
+36. "How long was <TAG>?"
+37. "How long was <TARGET>'s <TAG>?"
+38. "How long was <TARGET> and <TARGET>?"
+39. "How long was <TAG> and <TAG>?"
+40. "How long was <TARGET> and <TAG>?"
+
+9. "What else happened during <EVENT>?"
+41. "What happened during <TAG>?"
+42. "What happened during <TARGET>?"
+43. "What occurred during <TARGET> <TAG>?"
+
+Broken questions:
+
+4. "Show me the clips of the <TARGET> when there is a <TAG>"
+
+8. "How many <TAG> videos are there for <TARGET>?"
+
+Todo questions:
+
+32. "Play video that lasts <TIME> until <TIME>"
+
+10. "What occurs within <TIME> of <EVENT>?"
+
+12. "What events happened together most?"
+44. "Who is the most popular Person?"
+45. "What Planet occurred the most?"
+46. "What is the most popular tag?"
+46. "What is the most popular target?"
+46. "What is the most popular template?"
+
+Todo:
+
+Restrict template names in UI to stop conflicts with the core CE model, eg. location ?
+Allow <TIME> formats other than doubles, eg. "10 seconds, 20 minutes"
+Allow before/after filters to use (indexed) target/tags, eg. "Play video until the Storm, show video from the second Planet"

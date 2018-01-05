@@ -1,0 +1,318 @@
+-- --------------------------------------------------------------------------
+-- (C) Copyright IBM Corporation 2016
+-- All Rights Reserved
+-- --------------------------------------------------------------------------
+
+-- This CE has been generated from SL_generator v1.21.xlsm
+
+there is a project named 'IPP06P1' that
+  has 'IPP06P1' as code name and
+  has 'P1: Theoretical Foundations for Analysis and Design of Wireless and Sensor Networks' as name and
+  has the project plan 'IPP06' as project plan and
+  has the technical area 'TA1' as technical area.
+
+there is a project named 'IPP06P2' that
+  has 'IPP06P2' as code name and
+  has 'P2: Interoperability of Wireless Networks and Systems' as name and
+  has the project plan 'IPP06' as project plan and
+  has the technical area 'TA1' as technical area.
+
+there is a project named 'IPP06P3' that
+  has 'IPP06P3' as code name and
+  has 'P3: Biologically Inspired Self Management of Networks' as name and
+  has the project plan 'IPP06' as project plan and
+  has the technical area 'TA1' as technical area.
+
+there is a project named 'IPP06P4' that
+  has 'IPP06P4' as code name and
+  has 'P4: Policy based Security Management' as name and
+  has the project plan 'IPP06' as project plan and
+  has the technical area 'TA2' as technical area.
+
+there is a project named 'IPP06P5' that
+  has 'IPP06P5' as code name and
+  has 'P5: Energy Efficient Security Architectures and Infrastructures' as name and
+  has the project plan 'IPP06' as project plan and
+  has the technical area 'TA2' as technical area.
+
+there is a project named 'IPP06P6' that
+  has 'IPP06P6' as code name and
+  has 'Trust and Risk Management in Dynamic Coalition Environments' as name and
+  has the project plan 'IPP06' as project plan and
+  has the technical area 'TA2' as technical area.
+
+there is a project named 'IPP06P7' that
+  has 'IPP06P7' as code name and
+  has 'P7: Quality of Information in Sensor Data' as name and
+  has the project plan 'IPP06' as project plan and
+  has the technical area 'TA3' as technical area.
+
+there is a project named 'IPP06P8' that
+  has 'IPP06P8' as code name and
+  has 'P8: Task Oriented Deployment of Sensor Data Infrastructure' as name and
+  has the project plan 'IPP06' as project plan and
+  has the technical area 'TA3' as technical area.
+
+there is a project named 'IPP06P9' that
+  has 'IPP06P9' as code name and
+  has 'P9: Complexity Management of Sensor Data Infrastructure' as name and
+  has the project plan 'IPP06' as project plan and
+  has the technical area 'TA3' as technical area.
+
+there is a project named 'IPP06P10' that
+  has 'IPP06P10' as code name and
+  has 'P10: Mission Adaptive Collaboration' as name and
+  has the project plan 'IPP06' as project plan and
+  has the technical area 'TA4' as technical area.
+
+there is a project named 'IPP06P11' that
+  has 'IPP06P11' as code name and
+  has 'P11: Command Process Transformation and Analysis' as name and
+  has the project plan 'IPP06' as project plan and
+  has the technical area 'TA4' as technical area.
+
+there is a project named 'IPP06P12' that
+  has 'IPP06P12' as code name and
+  has 'P12: Shared Situation Awareness and the Semantic Battlespace Infosphere' as name and
+  has the project plan 'IPP06' as project plan and
+  has the technical area 'TA4' as technical area.
+
+there is a project named 'BPP07P1' that
+  has 'BPP07P1' as code name and
+  has 'P1: Theoretical Foundations for Analysis and Design of Wireless and Sensor Networks' as name and
+  has the project plan 'BPP07' as project plan and
+  has the technical area 'TA1' as technical area.
+
+there is a project named 'BPP07P2' that
+  has 'BPP07P2' as code name and
+  has 'P2: Interoperability of Heterogeneous Wireless Networks and Systems' as name and
+  has the project plan 'BPP07' as project plan and
+  has the technical area 'TA1' as technical area.
+
+there is a project named 'BPP07P3' that
+  has 'BPP07P3' as code name and
+  has 'P3: Biologically Inspired Self Organization in Networks' as name and
+  has the project plan 'BPP07' as project plan and
+  has the technical area 'TA1' as technical area.
+
+there is a project named 'BPP07P4' that
+  has 'BPP07P4' as code name and
+  has 'P4: Policy based Security Management' as name and
+  has the project plan 'BPP07' as project plan and
+  has the technical area 'TA2' as technical area.
+
+there is a project named 'BPP07P5' that
+  has 'BPP07P5' as code name and
+  has 'P5: Energy Efficient Security Architectures and Infrastructures' as name and
+  has the project plan 'BPP07' as project plan and
+  has the technical area 'TA2' as technical area.
+
+there is a project named 'BPP07P6' that
+  has 'BPP07P6' as code name and
+  has 'P6: Trust and Risk Management in Dynamic Coalition Environments' as name and
+  has the project plan 'BPP07' as project plan and
+  has the technical area 'TA2' as technical area.
+
+there is a project named 'BPP07P7' that
+  has 'BPP07P7' as code name and
+  has 'P7: Quality of Information of Sensor Data' as name and
+  has the project plan 'BPP07' as project plan and
+  has the technical area 'TA3' as technical area.
+
+there is a project named 'BPP07P8' that
+  has 'BPP07P8' as code name and
+  has 'P8: Task-Oriented Deployment of Sensor Data Infrastructures' as name and
+  has the project plan 'BPP07' as project plan and
+  has the technical area 'TA3' as technical area.
+
+there is a project named 'BPP07P9' that
+  has 'BPP07P9' as code name and
+  has 'P9: Complexity Management of the Sensor Data Infrastructure' as name and
+  has the project plan 'BPP07' as project plan and
+  has the technical area 'TA3' as technical area.
+
+there is a project named 'BPP07P10' that
+  has 'BPP07P10' as code name and
+  has 'P10: Mission Adaptive Collaboration' as name and
+  has the project plan 'BPP07' as project plan and
+  has the technical area 'TA4' as technical area.
+
+there is a project named 'BPP07P11' that
+  has 'BPP07P11' as code name and
+  has 'P11: Cultural Analysis' as name and
+  has the project plan 'BPP07' as project plan and
+  has the technical area 'TA4' as technical area.
+
+there is a project named 'BPP07P12' that
+  has 'BPP07P12' as code name and
+  has 'P12: Semantic Integration and Collaborative Planning Infrastructure' as name and
+  has the project plan 'BPP07' as project plan and
+  has the technical area 'TA4' as technical area.
+
+there is a project named 'BPP09P1' that
+  has 'BPP09P1' as code name and
+  has 'P1: Theoretical Foundations for Analysis and Design of Wireless and Sensor Networks' as name and
+  has the project plan 'BPP09' as project plan and
+  has the technical area 'TA1' as technical area.
+
+there is a project named 'BPP09P2' that
+  has 'BPP09P2' as code name and
+  has 'P2: Interoperability of Heterogeneous Wireless Networks and Systems' as name and
+  has the project plan 'BPP09' as project plan and
+  has the technical area 'TA1' as technical area.
+
+there is a project named 'BPP09P3' that
+  has 'BPP09P3' as code name and
+  has 'P3: Modeling, Analysis and Design of Dynamic Self-organizing Wireless Networks' as name and
+  has the project plan 'BPP09' as project plan and
+  has the technical area 'TA1' as technical area.
+
+there is a project named 'BPP09P4' that
+  has 'BPP09P4' as code name and
+  has 'P4: Policy Based Security Mechanisms for Coalition Environments' as name and
+  has the project plan 'BPP09' as project plan and
+  has the technical area 'TA2' as technical area.
+
+there is a project named 'BPP09P5' that
+  has 'BPP09P5' as code name and
+  has 'P5: Efficient Security Techniques for Information Flows in Coalition Environments' as name and
+  has the project plan 'BPP09' as project plan and
+  has the technical area 'TA2' as technical area.
+
+there is a project named 'BPP09P6' that
+  has 'BPP09P6' as code name and
+  has 'P6: Dynamic Trust and Risk in Coalition Environments' as name and
+  has the project plan 'BPP09' as project plan and
+  has the technical area 'TA2' as technical area.
+
+there is a project named 'BPP09P7' that
+  has 'BPP09P7' as code name and
+  has 'P7: Quality of Information in Sensor Networks' as name and
+  has the project plan 'BPP09' as project plan and
+  has the technical area 'TA3' as technical area.
+
+there is a project named 'BPP09P8' that
+  has 'BPP09P8' as code name and
+  has 'P8: Task orientated direction & management of sensor networks' as name and
+  has the project plan 'BPP09' as project plan and
+  has the technical area 'TA3' as technical area.
+
+there is a project named 'BPP09P9' that
+  has 'BPP09P9' as code name and
+  has 'P9: Agile Sensor Networks and Data Discovery' as name and
+  has the project plan 'BPP09' as project plan and
+  has the technical area 'TA3' as technical area.
+
+there is a project named 'BPP09P10' that
+  has 'BPP09P10' as code name and
+  has 'P10: Network-Enabled Problem Solving' as name and
+  has the project plan 'BPP09' as project plan and
+  has the technical area 'TA4' as technical area.
+
+there is a project named 'BPP09P12' that
+  has 'BPP09P12' as code name and
+  has 'P12: Network-Enabled Shared Understanding' as name and
+  has the project plan 'BPP09' as project plan and
+  has the technical area 'TA4' as technical area.
+
+there is a project named 'BPP11P1' that
+  has 'BPP11P1' as code name and
+  has 'P1: Hybrid Networks Performance and Metrics' as name and
+  has the project plan 'BPP11' as project plan and
+  has the technical area 'TA5' as technical area.
+
+there is a project named 'BPP11P2' that
+  has 'BPP11P2' as code name and
+  has 'P2: Security/Network Management and Control' as name and
+  has the project plan 'BPP11' as project plan and
+  has the technical area 'TA5' as technical area.
+
+there is a project named 'BPP11P3' that
+  has 'BPP11P3' as code name and
+  has 'P3: Security for Distributed Services' as name and
+  has the project plan 'BPP11' as project plan and
+  has the technical area 'TA5' as technical area.
+
+there is a project named 'BPP11P4' that
+  has 'BPP11P4' as code name and
+  has 'P4: Shared Understanding and Information Exploitation' as name and
+  has the project plan 'BPP11' as project plan and
+  has the technical area 'TA6' as technical area.
+
+there is a project named 'BPP11P5' that
+  has 'BPP11P5' as code name and
+  has 'P5: Service Management in Distributed Networks' as name and
+  has the project plan 'BPP11' as project plan and
+  has the technical area 'TA6' as technical area.
+
+there is a project named 'BPP11P6' that
+  has 'BPP11P6' as code name and
+  has 'P6: Exploitation of distributed, uncertain and obfuscated information' as name and
+  has the project plan 'BPP11' as project plan and
+  has the technical area 'TA6' as technical area.
+
+there is a project named 'BPP13P1' that
+  has 'BPP13P1' as code name and
+  has 'P1: Hybrid Networks Performance and Metrics' as name and
+  has the project plan 'BPP13' as project plan and
+  has the technical area 'TA5' as technical area.
+
+there is a project named 'BPP13P2' that
+  has 'BPP13P2' as code name and
+  has 'P2: Security/Network Management and Control' as name and
+  has the project plan 'BPP13' as project plan and
+  has the technical area 'TA5' as technical area.
+
+there is a project named 'BPP13P3' that
+  has 'BPP13P3' as code name and
+  has 'P3: Security for Distributed Services' as name and
+  has the project plan 'BPP13' as project plan and
+  has the technical area 'TA5' as technical area.
+
+there is a project named 'BPP13P4' that
+  has 'BPP13P4' as code name and
+  has 'P4: Human-Information Interaction' as name and
+  has the project plan 'BPP13' as project plan and
+  has the technical area 'TA6' as technical area.
+
+there is a project named 'BPP13P5' that
+  has 'BPP13P5' as code name and
+  has 'P5: Distributed Coalition Services' as name and
+  has the project plan 'BPP13' as project plan and
+  has the technical area 'TA6' as technical area.
+
+there is a project named 'BPP13P6' that
+  has 'BPP13P6' as code name and
+  has 'P6: Collective Sensemaking Under Uncertainty' as name and
+  has the project plan 'BPP13' as project plan and
+  has the technical area 'TA6' as technical area.
+
+there is a project named 'FPP15P1' that
+  has 'FPP15P1' as code name and
+  has 'P1: Hybrid Networks Performance and Metrics' as name and
+  has the project plan 'FPP15' as project plan and
+  has the technical area 'TA5' as technical area.
+
+there is a project named 'FPP15P2' that
+  has 'FPP15P2' as code name and
+  has 'P2: Security/Network Management and Control' as name and
+  has the project plan 'FPP15' as project plan and
+  has the technical area 'TA5' as technical area.
+
+there is a project named 'FPP15P3' that
+  has 'FPP15P3' as code name and
+  has 'P3: Security for Distributed Services' as name and
+  has the project plan 'FPP15' as project plan and
+  has the technical area 'TA5' as technical area.
+
+there is a project named 'FPP15P4' that
+  has 'FPP15P4' as code name and
+  has 'P4: Human-Information Interaction' as name and
+  has the project plan 'FPP15' as project plan and
+  has the technical area 'TA5' as technical area.
+
+there is a project named 'FPP15P6' that
+  has 'FPP15P6' as code name and
+  has 'P6: Collective Sensemaking Under Uncertainty' as name and
+  has the project plan 'FPP15' as project plan and
+  has the technical area 'TA5' as technical area.

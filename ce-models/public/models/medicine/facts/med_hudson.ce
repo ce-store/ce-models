@@ -1,0 +1,17 @@
+-- --------------------------------------------------------------------------
+-- (C) Copyright IBM Corporation  2011, 2016
+-- All Rights Reserved
+-- --------------------------------------------------------------------------
+
+the entity concept 'person' has 'people' as plural form.
+
+the property concept 'hospital:picture:media'
+  is expressed by 'look like'.
+
+the property concept 'person:is closely related to:person'
+  is expressed by 'closely related to'.
+
+the property concept 'person:is the sibling of:person'
+  is expressed by 'are the siblings of'.
+
+the relation concept 'medical report:mentions:person' is a linked property.
