@@ -5,7 +5,7 @@
 
 -- Facilities
 there is a gym named 'Powerhouse studio' that
-  has 'A great place to drop those extra holiday or conference pounds!' as short description and
+  has 'A great place to drop those extra holiday or conference pounds!' as description and
   has '06:00 to 23:00' as opening hours and
   has the gym equipment 'treadmill' as equipment and
   has the gym equipment 'cross trainer' as equipment and
@@ -14,13 +14,13 @@ there is a gym named 'Powerhouse studio' that
   has the gym equipment 'roman chair' as equipment and
   has the gym equipment 'arc trainer' as equipment.
 
-there is a facility named 'Rustic Roof Bar'.
+there is a bar named 'Rustic Roof Bar'.
 
-there is a facility named 'Quickie cafe'.
+there is a cafe named 'Quickie cafe'.
 
-there is a facility named 'Rendezvous restaurant'.
+there is a restaurant named 'Rendezvous restaurant'.
 
-there is a facility named 'Spiritual Spa'.
+there is a spa named 'Spiritual Spa'.
 
 there is a media named 'media_elliptical' that
   has 'https://sep.yimg.com/ay/fitnessgiant/green-series-7000e-g1-commercial-elliptical-trainer-w-tv-32.png' as url and

@@ -14,10 +14,15 @@ conceptualise a ~ media ~ M that
   has the value C as ~ credit ~.
 
 conceptualise a ~ facility ~ F that
-  has the value SD as ~ short description ~ and
   has the value OH as ~ opening hours ~.
 
-conceptualise a ~ gym ~ G that is a facility and
+conceptualise a ~ bar ~ B that is a facility.
+conceptualise a ~ cafe ~ C that is a facility.
+conceptualise a ~ restaurant ~ R that is a facility.
+conceptualise a ~ spa ~ S that is a facility.
+
+conceptualise a ~ gym ~ G that
+  is a facility and
   has the gym equipment E as ~ equipment ~.
 
 conceptualise a ~ gym equipment ~ GE that
