@@ -6,30 +6,34 @@
 	},
 	{
 		"id": "002",
-		"question": "what is the powerhouse gym?"
+		"question": "what is the powerhouse studio?"
 	},
   {
 		"id": "003",
-		"question": "expand powerhouse gym"
+		"question": "expand powerhouse studio"
   },
   {
 		"id": "004",
-		"question": "what is powerhouse gym short description?"
+		"question": "what is powerhouse studio short description?"
   },
   {
 		"id": "005a",
-		"question": "what is powerhouse gym equipment?"
+		"question": "what is powerhouse studio equipment?"
   },
   {
 		"id": "005a",
-		"question": "list powerhouse gym equipment"
+		"question": "list powerhouse studio equipment"
   },
   {
 		"id": "006a",
-		"question": "what are the opening hours of the powerhouse gym?"
+		"question": "what are the opening hours of the powerhouse studio?"
   },
   {
 		"id": "006b",
-		"question": "what are the opening times of the powerhouse gym?"
+		"question": "what are the opening times of the powerhouse studio?"
+  },
+  {
+		"id": "007",
+		"question": "what does an elliptical trainer look like?"
 	}
 ]
