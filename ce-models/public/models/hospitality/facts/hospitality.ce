@@ -5,7 +5,8 @@
 
 -- Facilities
 there is a facility named 'Powerhouse gym' that
-  has 'A great place to drop those extra holiday or conference pounds!' as short description.
+  has 'A great place to drop those extra holiday or conference pounds!' as short description and
+  has '06:00 to 23:00' as opening hours.
 
 there is a facility named 'Rustic Roof Bar'.
 

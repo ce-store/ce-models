@@ -11,5 +11,13 @@
   {
 		"id": "003",
 		"question": "expand powerhouse gym"
+  },
+  {
+		"id": "004a",
+		"question": "what are the opening hours of the powerhouse gym?"
+  },
+  {
+		"id": "004b",
+		"question": "what are the opening times of the powerhouse gym?"
 	}
 ]

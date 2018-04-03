@@ -11,4 +11,5 @@ Author:  Dave Braines
 
 
 conceptualise a ~ facility ~ F that
-  has the value SD as ~ short description ~.
+  has the value SD as ~ short description ~ and
+  has the value OH as ~ opening hours ~.
