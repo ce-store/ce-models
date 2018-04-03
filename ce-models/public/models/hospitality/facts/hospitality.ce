@@ -21,3 +21,10 @@ there is a facility named 'Quickie cafe'.
 there is a facility named 'Rendezvous restaurant'.
 
 there is a facility named 'Spiritual Spa'.
+
+there is a media named 'media_elliptical' that
+  has 'https://sep.yimg.com/ay/fitnessgiant/green-series-7000e-g1-commercial-elliptical-trainer-w-tv-32.png' and url and
+  has 'www.fitnessgiant.com' as credit.
+
+the gym equipment 'elliptical trainer' has
+  the media 'media_elliptical' as picture.

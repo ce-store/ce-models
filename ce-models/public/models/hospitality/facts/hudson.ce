@@ -8,4 +8,7 @@ the entity concept 'facility' has 'facilities' as plural form.
 the property concept 'facility:opening hours:value'
   is expressed by 'opening times'.
 
+the property concept 'gym equipment:picture:media'
+  is expressed by 'look like'.
+
 --the relation concept 'domain:property:range' is a linked property.

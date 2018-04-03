@@ -9,6 +9,9 @@ Version: 1.0
 Date:    3rd April 2018
 Author:  Dave Braines
 
+conceptualise a ~ media ~ M that
+  has the value U as ~ url ~ and
+  has the value C as ~ credit ~.
 
 conceptualise a ~ facility ~ F that
   has the value SD as ~ short description ~ and
@@ -17,4 +20,5 @@ conceptualise a ~ facility ~ F that
 conceptualise a ~ gym ~ G that is a facility and
   has the gym equipment E as ~ equipment ~.
 
-conceptualise a ~ gym equipment ~ GE.
+conceptualise a ~ gym equipment ~ GE that
+  has the media P as ~ picture ~.
