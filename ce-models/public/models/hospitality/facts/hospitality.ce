@@ -28,3 +28,7 @@ there is a media named 'media_elliptical' that
 
 the gym equipment 'elliptical trainer' has
   the media 'media_elliptical' as picture.
+
+there is an activity named 'eat' that applies to the entity concept 'eating facility'.
+there is an activity named 'swim' that applies to the entity concept 'swimming facility'.
+there is an activity named 'exercise' that applies to the entity concept 'health facility'.

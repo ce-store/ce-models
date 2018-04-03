@@ -5,6 +5,12 @@
 
 the entity concept 'facility' has 'facilities' as plural form.
 
+the activity 'exercise' is expressed by 'work out'.
+
+the activity 'eat' is expressed by 'have lunch'.
+the activity 'eat' is expressed by 'have dinner'.
+the activity 'eat' is expressed by 'have breakfast'.
+
 the property concept 'facility:opening hours:value'
   is expressed by 'opening times'.
 

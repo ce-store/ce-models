@@ -16,14 +16,28 @@ conceptualise a ~ media ~ M that
 conceptualise a ~ facility ~ F that
   has the value OH as ~ opening hours ~.
 
-conceptualise a ~ bar ~ B that is a facility.
-conceptualise a ~ cafe ~ C that is a facility.
-conceptualise a ~ restaurant ~ R that is a facility.
-conceptualise a ~ spa ~ S that is a facility.
+conceptualise an ~ eating facility ~ EF that
+  is a facility.
+
+conceptualise a ~ health facility ~ HF that
+  is a facility.
+
+conceptualise a ~ bar ~ B that is an eating facility.
+conceptualise a ~ cafe ~ C that is an eating facility.
+conceptualise a ~ restaurant ~ R that is an eating facility.
+
+conceptualise a ~ swimming facility ~ S that is a facility.
+
+conceptualise a ~ spa ~ S that
+  is a health facility and
+  is a swimming facility.
 
 conceptualise a ~ gym ~ G that
-  is a facility and
+  is a health facility and
   has the gym equipment E as ~ equipment ~.
 
 conceptualise a ~ gym equipment ~ GE that
   has the media P as ~ picture ~.
+
+conceptualise an ~ activity ~ A that
+  ~ applies to ~ the entity concept E.
