@@ -2,7 +2,7 @@
 	{
 		"id": "001",
 		"interpret": {"question":{"text":"list facilities","words":["list","facilities"]},"interpretations":[{"confidence":100,"result":{"concepts":[{"phrase":"facilities","start position":1,"end position":1,"entities":[{"_id":"facility","_concept":["entity concept","meaning","concept"],"sub-concept":"gym","plural form":"facilities"}]}],"instances":[{"phrase":"list","start position":0,"end position":0,"entities":[{"_id":"list","_concept":["modifier"],"corresponds to":"general:list"}]}]}}]},
-		"answer": {}{"question":{"text":"list facilities"},"answers":[{"result set":{"headers":["facility"],"rows":[["Powerhouse studio"],["Quickie cafe"],["Rendezvous restaurant"],["Rustic Roof Bar"],["Spiritual Spa"]]},"confidence":100}]}
+		"answer": {"question":{"text":"list facilities"},"answers":[{"result set":{"headers":["facility"],"rows":[["Powerhouse studio"],["Quickie cafe"],["Rendezvous restaurant"],["Rustic Roof Bar"],["Spiritual Spa"]]},"confidence":100}]}
 	},
 	{
 		"id": "002",
