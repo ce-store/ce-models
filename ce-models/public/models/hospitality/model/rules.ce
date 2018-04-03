@@ -2,3 +2,10 @@
 -- (C) Copyright IBM Corporation  2011, 2016
 -- All Rights Reserved
 -- --------------------------------------------------------------------------
+
+[ gym equipment in gym ]
+if
+  ( the gym G has the gym equipment GE as equipment )
+then
+  ( the gym equipment GE is in the gym G )
+.

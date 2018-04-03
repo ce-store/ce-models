@@ -3,6 +3,8 @@
 -- All Rights Reserved
 -- --------------------------------------------------------------------------
 
+perform set 'autorun rules' to 'true'.
+
 -- Load the general model (core concepts)
 perform load sentences from url './models/general/model/misc_model.ce'.
 perform load sentences from url './models/general/model/spatial_model.ce'.

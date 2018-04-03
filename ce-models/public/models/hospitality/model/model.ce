@@ -38,7 +38,8 @@ conceptualise a ~ gym ~ G that
   has the gym equipment E as ~ equipment ~.
 
 conceptualise a ~ gym equipment ~ GE that
-  has the media P as ~ picture ~.
+  has the media P as ~ picture ~ and
+  ~ is in ~ the gym G.
 
 conceptualise an ~ activity ~ A that
   ~ applies to ~ the entity concept E.

@@ -35,5 +35,25 @@
   {
 		"id": "007",
 		"question": "what does an elliptical trainer look like?"
-	}
+  },
+  {
+		"id": "008a",
+		"question": "where can I eat?"
+  },
+  {
+		"id": "008b",
+		"question": "where can I exercise?"
+  },
+  {
+    "id": "008c",
+    "question": "where can I relax?"
+  },
+  {
+    "id": "009",
+    "question": "what is in the powerhouse studio?"
+  },
+  {
+    "id": "010",
+    "question": "what is in the gym?"
+  }
 ]
