@@ -3,7 +3,7 @@
 -- All Rights Reserved
 -- --------------------------------------------------------------------------
 
---the entity concept 'x' has 'y' as plural form.
+the entity concept 'facility' has 'facilities' as plural form.
 
 --the property concept 'domain:property:range'
 --  is expressed by 'synonym'.
