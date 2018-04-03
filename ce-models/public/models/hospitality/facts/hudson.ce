@@ -1,0 +1,11 @@
+-- --------------------------------------------------------------------------
+-- (C) Copyright IBM Corporation  2011, 2018
+-- All Rights Reserved
+-- --------------------------------------------------------------------------
+
+--the entity concept 'x' has 'y' as plural form.
+
+--the property concept 'domain:property:range'
+--  is expressed by 'synonym'.
+
+--the relation concept 'domain:property:range' is a linked property.

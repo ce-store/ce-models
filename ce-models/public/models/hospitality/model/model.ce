@@ -1,0 +1,13 @@
+-- --------------------------------------------------------------------------
+-- (C) Copyright IBM Corporation  2011, 2016
+-- All Rights Reserved
+-- --------------------------------------------------------------------------
+
+Model:   Hospitality
+Title:   Hospitality model
+Version: 1.0
+Date:    3rd April 2018
+Author:  Dave Braines
+
+
+conceptualise a ~ facility ~ F.

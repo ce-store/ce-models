@@ -1,0 +1,18 @@
+-- --------------------------------------------------------------------------
+-- (C) Copyright IBM Corporation 2011, 2018
+-- All Rights Reserved
+-- --------------------------------------------------------------------------
+
+-- Load the general model (core concepts)
+perform load sentences from url './models/general/model/misc_model.ce'.
+perform load sentences from url './models/general/model/spatial_model.ce'.
+perform load sentences from url './models/general/model/temporal_model.ce'.
+
+-- Load the hospitality model
+perform load sentences from url './models/hospitality/model/model.ce'.
+perform load sentences from url './models/hospitality/model/rules.ce'.
+perform load sentences from url './models/hospitality/model/queries.ce'.
+
+-- Load the background knowledge
+perform load sentences from url './models/hospitality/facts/hospitality.ce'.
+perform load sentences from url './models/hospitality/facts/hudson.ce'.
