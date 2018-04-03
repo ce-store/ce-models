@@ -6,7 +6,13 @@
 -- Facilities
 there is a facility named 'Powerhouse gym' that
   has 'A great place to drop those extra holiday or conference pounds!' as short description and
-  has '06:00 to 23:00' as opening hours.
+  has '06:00 to 23:00' as opening hours and
+  has the gym equipment 'treadmill' as gym equipment and
+  has the gym equipment 'cross trainer' as gym equipment and
+  has the gym equipment 'rowing machine' as gym equipment and
+  has the gym equipment 'elliptical trainer' as gym equipment and
+  has the gym equipment 'roman chair' as gym equipment and
+  has the gym equipment 'arc trainer' as gym equipment.
 
 there is a facility named 'Rustic Roof Bar'.
 
