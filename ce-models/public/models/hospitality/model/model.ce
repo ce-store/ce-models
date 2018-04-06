@@ -43,3 +43,6 @@ conceptualise a ~ gym equipment ~ GE that
 
 conceptualise an ~ activity ~ A that
   ~ applies to ~ the entity concept E.
+
+conceptualise a ~ product ~ P that
+  has the value C as ~ cost ~.

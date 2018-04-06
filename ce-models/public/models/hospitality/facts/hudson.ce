@@ -12,10 +12,16 @@ the activity 'eat' is expressed by 'have lunch'.
 the activity 'eat' is expressed by 'have dinner'.
 the activity 'eat' is expressed by 'have breakfast'.
 
+the product 'latte' is expressed by 'coffee'.
+the product 'americano' is expressed by 'coffee'.
+
 the property concept 'facility:opening hours:value'
   is expressed by 'opening times'.
 
-the property concept 'gym equipment:picture:media'
+the relation concept 'gym equipment:picture:media'
   is expressed by 'look like'.
+
+the property concept 'product:cost:value'
+  is expressed by 'how much'.
 
 --the relation concept 'domain:property:range' is a linked property.

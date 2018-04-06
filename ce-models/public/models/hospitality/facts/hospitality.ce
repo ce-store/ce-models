@@ -33,3 +33,6 @@ there is an activity named 'eat' that applies to the entity concept 'eating faci
 there is an activity named 'swim' that applies to the entity concept 'swimming facility'.
 there is an activity named 'exercise' that applies to the entity concept 'health facility'.
 there is an activity named 'relax' that applies to the entity concept 'spa'.
+
+there is a product named 'latte' that has '£2.20' as cost.
+there is a product named 'americano' that has '£2.00' as cost.
